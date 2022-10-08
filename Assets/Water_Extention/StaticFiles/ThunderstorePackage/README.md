@@ -51,9 +51,9 @@ Pump that pumps to other side of Levee
 
 ![Example image](https://github.com/KnatteAnka/KA2TimberbornModsUnity/raw/master/Assets/Water_Extention/StaticFiles/Images/Pipe.png)
 
-### 5, 10 Long
+### 5, 10 and 15 Long
 
-Exist both a 5 and 10 piece between leeves pipe.
+Exist both a 5, 10 and 15 piece between leeves pipe.
 More pipe lenghts is to come later.
 
 ![Example image](https://github.com/KnatteAnka/KA2TimberbornModsUnity/raw/master/Assets/Water_Extention/StaticFiles/Images/5XPipe.png)
@@ -104,6 +104,32 @@ Above Statistics converted to Percentage compared to Base game items
 
 ---
 
+## Big Irrigation Tower
+
+A Late Game object that irrigate a big area.
+
+![Big_Irrigation_Tower](imagelink)
+
+Comparison: 3 water how long it lasts.
+
+| Building   | Time      | Range |
+|------------|-----------|-------|
+| IT V2      | 13.5 Days | 22    |
+| Water Dump | 15 Days   | 15    |
+| IT         | 2 Hr      | 9     |
+| Big IT     | 4.46 Days | 60    |
+
+Compare Big IT to
+
+| Building   | Time     | Range |
+|------------|----------|-------|
+| IT V2      | 33%      | 273%  |
+| Water Dump | 29,7%    | 400%  |
+| IT         | 5350%    | 667%  |
+
+
+
+
 ## Installing
 
 Recommended way to install this mod is through [Thunderstore](https://timberborn.thunderstore.io/). This plugin is dependent on the magnificent [TimberAPI](https://github.com/Timberborn-Modding-Central/TimberAPI).
@@ -113,6 +139,11 @@ Recommended way to install this mod is through [Thunderstore](https://timberborn
 In case you experience problems or have any feedback, message us in the modding channel of the the [Timberborn discord](https://discord.gg/mfbBF4cWpX) or message us directly (Knatte_Anka#6800). We will try to fix it as soon as possible. :D
 
 ## Changelog
+
+### 0.3.0 - 2022-10-08
+
+- Add Big Irrigation tower
+- Fix Powered Levee pathing
 
 ### 0.2.8 - 2022-10-01
 
