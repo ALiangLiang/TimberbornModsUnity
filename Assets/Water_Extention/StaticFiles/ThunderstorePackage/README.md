@@ -91,6 +91,7 @@ Test done how long 3 Water sustain green land
 | IT V2      | 13.5 Days | 22    | Right       |
 | Water Dump | 15 Days   | 15    | Left        |
 | IT         | 2 Hr      | 9     | Upper       |
+| Big IT     | 4.46 Days | 60    |             |
 
 ![Test setup:](https://github.com/KnatteAnka/KATimberbornModsUnity/raw/master/Assets/Water_Extention/StaticFiles/Images/Compare%20Buildings.png)
 
@@ -108,9 +109,11 @@ Above Statistics converted to Percentage compared to Base game items
 
 A Late Game object that irrigate a big area.
 
-![Big_Irrigation_Tower](imagelink)
+### IT
+![IT_Big_Irrigation_Tower](https://github.com/KnatteAnka/KA2TimberbornModsUnity/raw/master/Assets/Water_Extention/StaticFiles/Images/Big_Irrigation_Tower.png)
 
-Comparison: 3 water how long it lasts.
+### Comparison: 
+Test done how long 3 Water sustain green land  
 
 | Building   | Time      | Range |
 |------------|-----------|-------|
@@ -119,7 +122,7 @@ Comparison: 3 water how long it lasts.
 | IT         | 2 Hr      | 9     |
 | Big IT     | 4.46 Days | 60    |
 
-Compare Big IT to
+### Compare Big IT to
 
 | Building   | Time     | Range |
 |------------|----------|-------|

@@ -24,6 +24,10 @@ In case you experience problems, message me in the modding channel of the the [T
 
 ## Changelog
 
+### 0.7.1 - 2022-10-06
+
+- Russian translation by GinFuyou
+
 ### 0.7.0 - 2022-09-24
 
 - Fix for Experimental

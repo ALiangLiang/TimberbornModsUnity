@@ -13,7 +13,7 @@ Knatte.Pipe.Description,Levee on ether side of the pipe and a input and output p
 Knatte.PipeU5X.DisplayName,Pipe Underground 5 Long,-
 Knatte.PipeU10X.DisplayName,Pipe Underground 10 Long,-
 Knatte.PipeU15X.DisplayName,Pipe Underground 15 Long,-
-Knatte.PipeU.Description,Levee on ether side of the pipe and a input and output pipe.\r\nPipe going underground between Levees\r\n Leeve need to be powered but also act as transfer,-
+Knatte.PipeU.Description,Levee on ether side of the pipe and a input and output pipe.\nPipe going underground between Levees\r\n Leeve need to be powered but also act as transfer,-
 
 Knatte.CategoryPipe.DisplayName,Straight Pipes,-
 Knatte.CategoryPipe.Description,Pipes that can be overground,-

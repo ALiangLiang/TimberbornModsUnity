@@ -26,6 +26,11 @@ In case you experience problems or have any feedback, message us in the modding 
 
 ## Changelog
 
+### 1.3.13 - 2022-10-06
+
+- Russian translation by GinFuyou
+- Hopefully fix Experimental
+
 ### 1.3.12 - 2022-09-29
 
 - Updated Deutsch translation by juf0816

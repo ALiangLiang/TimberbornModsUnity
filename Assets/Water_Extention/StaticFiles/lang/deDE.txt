@@ -33,4 +33,4 @@ Knatte.DeepSeaPump.FlavorDescription,Es geht doch nichts über einen großen Sch
 
 Knatte.BigIrrigationTower.DisplayName,Großer Bewässerungsturm,-
 Knatte.BigIrrigationTower.Description,Bewässert noch mehr Fläche mit noch weniger Wasser.,
-Knatte.BigIrrigationTower.FlavorDescription,Drip Drip Drop.
+Knatte.BigIrrigationTower.FlavorDescription,"Tropf, tropf, Wassertropfen.",-

@@ -72,6 +72,7 @@ Knatte.CornerSlope2X.DisplayName,"Двойной декоративный угл
 Knatte.CornerSlope2X.Description,"Делает плотину более многогранной.",-
 Knatte.CornerSlope2X.FlavorDescription,"Не останавливает воду",-
 
+
 Knatte.Pillar.DisplayName,"Столбы",-
 Knatte.Pillar.Description,"Отдельностоящая опора",-
 Knatte.Pillar.FlavorDescription,"«Застолбим местечко!» – трудолюбивый бобёр"
@@ -85,6 +86,7 @@ Knatte.Pillar_2.DisplayName,"Два столба"
 Knatte.Pillar_3.DisplayName,"Три столба"
 Knatte.Pillar_X.Description,"Несущая конструкция для сложных индивидуальных архитектурных проектов.\r\nМожет служить скрытой опорой для винтовой лестницы."
 Knatte.Pillar_X.FlavorDescription,"«Застолбим местечко!» – трудолюбивый бобёр"
+
 
 Knatte.PillarTop.DisplayName,"Перекрытие"
 Knatte.PillarTop.Description,"Перекрытие для размещения на столбах.\nМожет служить скрытой опорой для винтовой лестницы."
