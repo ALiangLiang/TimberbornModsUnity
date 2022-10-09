@@ -1,13 +1,12 @@
 ID,Text,Comment
 Knatte.WaterAlarm.DisplayName,"Тревожный футшток","«» –"
 Knatte.WaterAlarm.Description,"Измеряет уровень воды и скорость течения, а также подаёт тревогу в случае пересыхания.",-
-Knatte.WaterAlarm.FlavorDescription,"«Футшто́к (нем. Fußstock) — уровнемер в виде рейки с делениями для наблюдения и определения уровня воды в водоёме» – словарь гидротехнических терминов под ред. Казко"
-
-
-Knatte.Floodgate.DisplayName,"Усиленные шлюзы водосброса",""
+Knatte.WaterAlarm.FlavorDescription,"«Футшто́к (нем. Fußstock) — уровнемер в виде рейки с делениями для определения уровня воды в водоёме»\n – словарь гидротехнических терминов под ред. Казко"
 
 Knatte.MetalFloodgate.DisplayName,"Усиленный шлюз водосброса",-
 Knatte.MetalFloodgate.Description,"Шлюз водосброса с регулируемым затвором и конструкцией, усиленной металлической рамой.\nПозволяет установить платформы над блоками лебёдок.",-
+
+Knatte.Floodgate.DisplayName,"Усиленные шлюзы водосброса",""
 
 Knatte.MetalFloodgate2.DisplayName,"Усиленный шлюз водосброса высотой 2",-
 Knatte.MetalFloodgate3.DisplayName,"Усиленный шлюз водосброса высотой 3",-
