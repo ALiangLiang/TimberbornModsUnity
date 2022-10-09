@@ -3,17 +3,17 @@ Knatte.IrrigationTowerV2_2.DisplayName,IrrigationTower V2,-
 Knatte.IrrigationTowerV2_2.Description,Irrigates More land around it for less Water.,
 
 Knatte.IndWaterTank.DisplayName,Industrial Water Tank,-
-Knatte.IndWaterTank.Description,Holds more water and is Stackable but require metal,-
+Knatte.IndWaterTank.Description,Holds more water and is Stackable but requires metal,-
 
 Knatte.Pipe5X.DisplayName,Pipe 5 Long,-
 Knatte.Pipe10X.DisplayName,Pipe 10 Long,-
 Knatte.Pipe15X.DisplayName,Pipe 15 Long,-
-Knatte.Pipe.Description,Levee on ether side of the pipe and a input and output pipe. Leeve need to be powered but also act as transfer,-
+Knatte.Pipe.Description,Levees on both sides of the pipe and a input and output pipe. Leeve need to be powered but also act as transfer,-
 
 Knatte.PipeU5X.DisplayName,Pipe Underground 5 Long,-
 Knatte.PipeU10X.DisplayName,Pipe Underground 10 Long,-
 Knatte.PipeU15X.DisplayName,Pipe Underground 15 Long,-
-Knatte.PipeU.Description,Levee on ether side of the pipe and a input and output pipe.\r\nPipe going underground between Levees\r\n Leeve need to be powered but also act as transfer,-
+Knatte.PipeU.Description,Levees on both sides of the pipe and a input and output pipe.\r\nPipe going underground between Levees\r\n Leeve need to be powered but also act as transfer,-
 
 Knatte.CategoryPipe.DisplayName,Straight Pipes,-
 Knatte.CategoryPipe.Description,Pipes that can be overground,-
