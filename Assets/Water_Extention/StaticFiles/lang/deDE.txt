@@ -15,7 +15,6 @@ Knatte.PipeU10X.DisplayName,Unterirdische Rohrleitung\r\n10x,-
 Knatte.PipeU15X.DisplayName,Unterirdische Rohrleitung\r\n15x,-
 Knatte.PipeU.Description,"Zwei Deiche auf beiden Seiten der unterirdischen Rohrleitung und ein Eingangs- und Ausgangsrohr. Einer der Deiche muss mit Energie versorgt werden, diese wird aber weitergeleitet.",-
 
-
 Knatte.CategoryPipe.DisplayName,Rohrleitungen,-
 Knatte.CategoryPipe.Description,Rohrleitungen die oberirdisch verlegt werden.,-
 
@@ -32,5 +31,6 @@ Knatte.DeepSeaPump.DisplayName,Tiefseewasserpumpe
 Knatte.DeepSeaPump.Description,Pumpe für den Meeresgrund
 Knatte.DeepSeaPump.FlavorDescription,Es geht doch nichts über einen großen Schluck frisch gepumpten Wassers.,			Default game text may be replaced
 
-Knatte.BigIrrigationTower.DisplayName,[WIP] Großer Bewässerungsturm,-
+Knatte.BigIrrigationTower.DisplayName,Großer Bewässerungsturm,-
 Knatte.BigIrrigationTower.Description,Bewässert noch mehr Fläche mit noch weniger Wasser.,
+Knatte.BigIrrigationTower.FlavorDescription,"Tropf, tropf, Wassertropfen.",-

@@ -419,7 +419,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _displayNameLocKey: Knatte.Pillar_1.DisplayName
   _descriptionLocKey: Knatte.Pillar_X.Description
-  _flavorDescriptionLocKey: 
+  _flavorDescriptionLocKey: Knatte.Pillar_X.FlavorDescription
   _image: {fileID: 21300000, guid: 7540622a4c0399d4d926fc6f0ea4b099, type: 3}
 --- !u!114 &-8726437569665399324
 MonoBehaviour:

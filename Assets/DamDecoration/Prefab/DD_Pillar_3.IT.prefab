@@ -260,7 +260,7 @@ GameObject:
   - component: {fileID: 2088881534276268686}
   - component: {fileID: -8726437569665399324}
   m_Layer: 0
-  m_Name: DD_Pillar_3
+  m_Name: DD_Pillar_3.IT
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -421,7 +421,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _displayNameLocKey: Knatte.Pillar_3.DisplayName
   _descriptionLocKey: Knatte.Pillar_X.Description
-  _flavorDescriptionLocKey: 
+  _flavorDescriptionLocKey: Knatte.Pillar_X.FlavorDescription
   _image: {fileID: 21300000, guid: 99257c1ef22060d49835114b267962fa, type: 3}
 --- !u!114 &-8726437569665399324
 MonoBehaviour:

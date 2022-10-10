@@ -32,6 +32,11 @@ Diagonal piece with Side platform is possible Thanks to Tobbert and his [MorePla
 
 ## Changelog
 
+### 1.5.4 - 2022-10-06
+
+- Russian translation by GinFuyou
+- Hopefully fix Experimental
+
 ### 1.5.3 - 2022-10-02
 
 - Fix Cube texture for IT

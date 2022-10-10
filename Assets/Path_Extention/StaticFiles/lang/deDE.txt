@@ -9,6 +9,8 @@ KnatteTobbert.Tunnel_7.DisplayName,Tunnel 7x1
 KnatteTobbert.Tunnel_8.DisplayName,Tunnel 8x1
 KnatteTobbert.Tunnel_9.DisplayName,Tunnel 9x1
 
+KnatteTobbert.Tunnel_1L.DisplayName,Tunnel Thrue Levee
+
 KnatteTobbert.Tunnel.Description,Ermöglicht Bibern die Durchquerung von Bergen.
 KnatteTobbert.Tunnel.FlavorDiscription,"\u201EDo you know how hard it is to Model and Texture?\u201C\r\n(Wisst Ihr, wie schwer es ist,\r\nzu modellieren und zu texturieren?) \u2013 Knatte_Anka"
 

@@ -1,6 +1,7 @@
 # Requirements:
 - Installed Unity Editor
-- Downloaded GUI version from: https://github.com/AssetRipper/AssetRipper/releases 
+- Downloaded GUI version from: https://github.com/AssetRipper/AssetRipper/releases  
+    **Known working version: 0.2.1.1**
 - Folder where it can Export files to.
     -   Note it will replace/remove all files in the folder!
 - Separate Unity project for AssetRipper.    

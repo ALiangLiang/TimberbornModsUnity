@@ -1,12 +1,16 @@
 {
   
   "CommonBuildings": [
-    "knatte_tobbert.Path_extention/Knatte_tobbert_path_extention/TE_Tunnel_1",
-    "knatte_tobbert.Path_extention/Knatte_tobbert_path_extention/TE_Tunnel_2",
-    "knatte_tobbert.Path_extention/Knatte_tobbert_path_extention/TE_Tunnel_3",
-    "knatte_tobbert.Path_extention/Knatte_tobbert_path_extention/TE_Tunnel_4",
-    "knatte_tobbert.Path_extention/Knatte_tobbert_path_extention/TE_Tunnel_5",
-    "knatte_tobbert.Path_extention/Knatte_tobbert_path_extention/TE_Tunnel_6",
+    "knatte_tobbert.Path_extention/Knatte_tobbert_path_extention/TE_Tunnel_1.IT",
+    "knatte_tobbert.Path_extention/Knatte_tobbert_path_extention/TE_Tunnel_2.IT",
+    "knatte_tobbert.Path_extention/Knatte_tobbert_path_extention/TE_Tunnel_3.IT",
+    "knatte_tobbert.Path_extention/Knatte_tobbert_path_extention/TE_Tunnel_4.IT",
+    "knatte_tobbert.Path_extention/Knatte_tobbert_path_extention/TE_Tunnel_5.IT",
+    "knatte_tobbert.Path_extention/Knatte_tobbert_path_extention/TE_Tunnel_6.IT",
+    "knatte_tobbert.Path_extention/Knatte_tobbert_path_extention/TE_Tunnel_7.IT",
+    "knatte_tobbert.Path_extention/Knatte_tobbert_path_extention/TE_Tunnel_8.IT",
+    "knatte_tobbert.Path_extention/Knatte_tobbert_path_extention/TE_Tunnel_9.IT",
+    "knatte_tobbert.Path_extention/Knatte_tobbert_path_extention/TE_Tunnel_1L.IT",
     "knatte_tobbert.Path_extention/Knatte_tobbert_path_extention/CategoryTunnels"
 
   ]
