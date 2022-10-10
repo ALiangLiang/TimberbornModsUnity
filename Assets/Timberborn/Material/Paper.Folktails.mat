@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Paper.Folktails
-  m_Shader: {fileID: 4800000, guid: 87f4291917082884daf94c1bc7987b21, type: 3}
+  m_Shader: {fileID: 4800000, guid: af9690b08e1c1e54cba26739fa9a8c10, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -25,11 +25,11 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _AmbientOcclusion:
-        m_Texture: {fileID: 2800000, guid: c11f5546a22ea814a829778f17272362, type: 3}
+        m_Texture: {fileID: 2800000, guid: d52e4ab7510118047b0a1c42584afbef, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BumpMap:
-        m_Texture: {fileID: 2800000, guid: ba72c75f4a4ded24289c843db8781732, type: 3}
+        m_Texture: {fileID: 2800000, guid: a7198db135763fd43af637ffe3cb9ea3, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _CutoutTex:
@@ -49,7 +49,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 9be619bca11185643865b8ddedad96e6, type: 3}
+        m_Texture: {fileID: 2800000, guid: 2e2a0a6ac6969e9419a9c41eb44eb8a1, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
