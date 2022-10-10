@@ -1,0 +1,35 @@
+ID,Text,Comment
+Knatte.IrrigationTowerV2_2.DisplayName,"Оросительная башня вер.2","«» –"
+Knatte.IrrigationTowerV2_2.Description,"Орошает большую площадь, расходуя меньше воды.",
+
+Knatte.IndWaterTank.DisplayName,"Промышленный резервуар",-
+Knatte.IndWaterTank.Description,"Здесь можно хранить много питьевой воды, а ещё построить что-нибудь сверху.",-
+
+Knatte.Pipe5X.DisplayName,"Труба длинной 5","Я использую слово дамба для levee и плотина для dam. На трекере игры объяснял почему."
+Knatte.Pipe10X.DisplayName,"Труба длинной 10",-
+Knatte.Pipe15X.DisplayName,"Труба длинной 15",-
+Knatte.Pipe.Description,"Труба с дамбами с обеих сторон и встроенным насосом.\nНасосу нужно подключение к энергосети.",-
+
+Knatte.PipeU5X.DisplayName,"Подземная труба длинной 5",-
+Knatte.PipeU10X.DisplayName,"Подземная труба длинной 10",-
+Knatte.PipeU15X.DisplayName,"Подземная труба длинной 15",-
+Knatte.PipeU.Description,"Труба с дамбами с обеих сторон и встроенным насосом, проложенная под землёй в середине.\nНасосу нужно подключение к энергосети.",-
+
+Knatte.CategoryPipe.DisplayName,"Прямые трубы",-
+Knatte.CategoryPipe.Description,"Трубы надземной прокладки.",-
+
+Knatte.CategoryPipeU.DisplayName,"Подземные трубы",-
+Knatte.CategoryPipeU.Description,"Трубы подземной прокладки.",-
+
+Knatte.Pipe1X.DisplayName,"Насос с выводом",-
+Knatte.Pipe1X.Description,"Двойная дамба с насосом и выводом трубы с другой стороны.\nНасосу нужно подключение к энергосети.",-
+
+Knatte.PowerLevee.DisplayName,"Дамба с силовой передачей",-
+Knatte.PowerLevee.Description,"Дамба со встроенным силовым валом для подключения насосов.\nПередаёт энергию вертикально и горизонтально.",-
+
+Knatte.DeepSeaPump.DisplayName,"Глубинный насос"
+Knatte.DeepSeaPump.Description,"Насос для размещения на дне водоёма."
+Knatte.DeepSeaPump.FlavorDescription,"Водичка со дна - закачаешься!","""Pump"" pun, feel free to adapt."
+
+Knatte.BigIrrigationTower.DisplayName,"[WIP] Большая оросительная башня",-
+Knatte.BigIrrigationTower.Description,"Орошает ещё большую площадь, расходуя меньше воды.",

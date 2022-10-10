@@ -1,0 +1,13 @@
+ID,Text,Comment
+KnatteTobbert.TinyLogPile.DisplayName,"Крохотное лесохранилище",-
+KnatteTobbert.TinyLogPile.Description,"Миниатюрное хранилище для брёвен.",-
+KnatteTobbert.TinyLogPile.FlavorDescription,"Миниатюрное лесохранилище на пару штабелей.",-
+
+KnatteTobbert.IndustrialTinylogpile.DisplayName,"Крохотное промышленное лесохранилище",-
+KnatteTobbert.IndustrialTinylogpile.Description,"Миниатюрное промышленное хранилище для брёвен.",-
+KnatteTobbert.IndustrialTinylogpile.FlavorDescription,"Когда надо втиснуть хранилище для брёвен в плотную промышленную застройку.",-
+
+KnatteTobbert.TinyMetalLogPile.DisplayName,"Крохотное металлическое лесохранилище",-
+KnatteTobbert.TinyMetalLogPile.Description,"Миниатюрное хранилище для брёвен с металлическими опорами.",-
+KnatteTobbert.TinyMetalLogPile.FlavorDescription,"Миниатюрное лесохранилище с возможностью надстройки.",-
+
