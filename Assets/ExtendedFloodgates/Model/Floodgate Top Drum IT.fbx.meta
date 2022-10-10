@@ -38,7 +38,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Z_BaseMetal_Folktails
-    second: {fileID: 2100000, guid: b9b4cf52706886442b6bbf2275217cd0, type: 2}
+    second: {fileID: 2100000, guid: 4cb9d04481addde4795a54c61f4adbe2, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -48,12 +48,12 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Z_IrregularPlanks_Brown_Folktails
-    second: {fileID: 2100000, guid: e125da905769a0b47b7c2d952ce508cc, type: 2}
+    second: {fileID: 2100000, guid: 62e6c971ad33bf144875f42394bef841, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Z_PaintedMetal_Folktails
-    second: {fileID: 2100000, guid: 90ca96461e5db3843b06e16e491b7614, type: 2}
+    second: {fileID: 2100000, guid: 73a065ba640c33646a9dd554c5ff7bc8, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule

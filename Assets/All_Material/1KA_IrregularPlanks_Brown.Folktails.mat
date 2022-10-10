@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: 1KA_IrregularPlanks_Brown.Folktails
-  m_Shader: {fileID: 4800000, guid: 87f4291917082884daf94c1bc7987b21, type: 3}
+  m_Shader: {fileID: 4800000, guid: af9690b08e1c1e54cba26739fa9a8c10, type: 3}
   m_ValidKeywords: []
   m_InvalidKeywords:
   - _NORMALMAP
@@ -22,11 +22,11 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _AmbientOcclusion:
-        m_Texture: {fileID: 2800000, guid: e28bb6128b1c8a84892f9694497400a7, type: 3}
+        m_Texture: {fileID: 2800000, guid: 17b40f056862b0d40b9806bb4bfcaecb, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BumpMap:
-        m_Texture: {fileID: 2800000, guid: 5b2c69c0ee72de74dbdf9732f49e7fb3, type: 3}
+        m_Texture: {fileID: 2800000, guid: 7331531ace839074684f1f103bd9f63b, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _CutoutTex:
@@ -46,11 +46,11 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 82f40ff764296d04eacd8906754fc1f0, type: 3}
+        m_Texture: {fileID: 2800000, guid: 41dcfd858288a4d469529b1bf0b67071, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
-        m_Texture: {fileID: 2800000, guid: fed076919dcaed149ae1baa0c94f59ff, type: 3}
+        m_Texture: {fileID: 2800000, guid: b780515004b32bd43b94bb865bd3fe2e, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:

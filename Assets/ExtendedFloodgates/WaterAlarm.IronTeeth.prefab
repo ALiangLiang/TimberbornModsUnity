@@ -67,7 +67,6 @@ MonoBehaviour:
   _finishableWithBeaversOnSite: 0
   _path: 0
   _drawRangeBoundsOnIt: 0
-  _hasNoRoof: 0
 --- !u!114 &114475143063377834
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -283,7 +282,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: b9b4cf52706886442b6bbf2275217cd0, type: 2}
+  - {fileID: 2100000, guid: 4cb9d04481addde4795a54c61f4adbe2, type: 2}
   - {fileID: 2100000, guid: 191a7b0b471c1b94f9f38bd7881f3912, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
@@ -367,8 +366,8 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 2e5d31274a0fbfa4b9c251b701669b71, type: 2}
-  - {fileID: 2100000, guid: 2e5d31274a0fbfa4b9c251b701669b71, type: 2}
+  - {fileID: 2100000, guid: 53ae42e515bfe2a4ba2895b4695515ca, type: 2}
+  - {fileID: 2100000, guid: 53ae42e515bfe2a4ba2895b4695515ca, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0

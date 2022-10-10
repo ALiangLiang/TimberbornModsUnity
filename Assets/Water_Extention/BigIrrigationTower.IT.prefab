@@ -81,7 +81,6 @@ MonoBehaviour:
   _finishableWithBeaversOnSite: 0
   _path: 0
   _drawRangeBoundsOnIt: 0
-  _hasNoRoof: 0
 --- !u!114 &114805579693185897
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1740,7 +1739,7 @@ MeshRenderer:
   m_Materials:
   - {fileID: 2100000, guid: 73a065ba640c33646a9dd554c5ff7bc8, type: 2}
   - {fileID: 2100000, guid: 191a7b0b471c1b94f9f38bd7881f3912, type: 2}
-  - {fileID: 2100000, guid: 82aa627a2a4b9204db4063210cb01d70, type: 2}
+  - {fileID: 2100000, guid: 6c27965406ab5b04eb62195e8e96ba50, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -2099,6 +2098,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7106825255334272312, guid: f3af0330e35462445a1d9844afe3b1b0, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7106825255334272312, guid: f3af0330e35462445a1d9844afe3b1b0, type: 3}
       propertyPath: m_LocalPosition.x
       value: 3
       objectReference: {fileID: 0}
@@ -2141,6 +2144,10 @@ PrefabInstance:
     - target: {fileID: 7110022032810082077, guid: f3af0330e35462445a1d9844afe3b1b0, type: 3}
       propertyPath: m_Name
       value: ConstructionSite1x1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7421902361906803890, guid: f3af0330e35462445a1d9844afe3b1b0, type: 3}
+      propertyPath: m_Center.x
+      value: 0.5
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f3af0330e35462445a1d9844afe3b1b0, type: 3}

@@ -8,22 +8,22 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Z_BaseMetal_IronTeeth
-    second: {fileID: 2100000, guid: 84ed5939c8cb73d4584147ff799dcfab, type: 2}
+    second: {fileID: 2100000, guid: 35a92ebc69947d944aac538f927715dd, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Z_BaseWood_DarkBrown_IronTeeth
-    second: {fileID: 2100000, guid: 77924ff5e6495be49b6efc4c5738fbd5, type: 2}
+    second: {fileID: 2100000, guid: 35a92ebc69947d944aac538f927715dd, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Z_BaseWood_White_Folktails
-    second: {fileID: 2100000, guid: b5a5775ad974bf94894be10e62af6e18, type: 2}
+    second: {fileID: 2100000, guid: 63bceac63f944c3489316183a0fa97b7, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Z_PaintedMetal_IronTeeth
-    second: {fileID: 2100000, guid: aaefcecd7e5d72645b9a785895bf7bd4, type: 2}
+    second: {fileID: 2100000, guid: 26ea483046b082143a4282fb82313489, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

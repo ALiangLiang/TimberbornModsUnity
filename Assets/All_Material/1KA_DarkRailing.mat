@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: 1KA_DarkRailing
-  m_Shader: {fileID: 4800000, guid: 87f4291917082884daf94c1bc7987b21, type: 3}
+  m_Shader: {fileID: 4800000, guid: af9690b08e1c1e54cba26739fa9a8c10, type: 3}
   m_ValidKeywords: []
   m_InvalidKeywords:
   - _NORMALMAP
@@ -22,7 +22,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _AmbientOcclusion:
-        m_Texture: {fileID: 2800000, guid: f64fcd6494118814dbff5d2a12006af9, type: 3}
+        m_Texture: {fileID: 2800000, guid: d8219ce0b39f2c34b82f2b898ba1ae42, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BaseAlbedoTex:
@@ -30,7 +30,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BumpMap:
-        m_Texture: {fileID: 2800000, guid: 1110aaf377e0a0747a17125529ad98e3, type: 3}
+        m_Texture: {fileID: 2800000, guid: 989a96baf6f7e1e45a296edcd6c2b26b, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _CutoutTex:
@@ -54,11 +54,11 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 0c58186bc2bd90241a4a10448acd9138, type: 3}
+        m_Texture: {fileID: 2800000, guid: 590d863fc2abaf643859efb29a19ba3e, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
-        m_Texture: {fileID: 2800000, guid: 34f46d71640f2f64fbe235cac06d4fcf, type: 3}
+        m_Texture: {fileID: 2800000, guid: acedcc36df1994643a1cfde166645734, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SplatAlbedoTex:
@@ -125,7 +125,7 @@ Material:
     m_Colors:
     - _BaseAlbedoColor: {r: 1, g: 1, b: 1, a: 1}
     - _BaseColor: {r: 0.34509805, g: 0.25882354, b: 0.19607843, a: 1}
-    - _Color: {r: 0.85, g: 0.85, b: 0.85, a: 1}
+    - _Color: {r: 0.45, g: 0.45, b: 0.45, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
     - _SplatAlbedoColor: {r: 1, g: 1, b: 1, a: 1}

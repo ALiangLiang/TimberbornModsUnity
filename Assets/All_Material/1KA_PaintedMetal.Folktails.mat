@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: 1KA_PaintedMetal.Folktails
-  m_Shader: {fileID: 4800000, guid: 87f4291917082884daf94c1bc7987b21, type: 3}
+  m_Shader: {fileID: 4800000, guid: af9690b08e1c1e54cba26739fa9a8c10, type: 3}
   m_ValidKeywords: []
   m_InvalidKeywords:
   - _NORMALMAP
@@ -22,11 +22,11 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _AmbientOcclusion:
-        m_Texture: {fileID: 2800000, guid: 56f85f02645cdcb4abae61f56f68bd6b, type: 3}
+        m_Texture: {fileID: 2800000, guid: 02c572c0519abce48aa0d2dac44bae57, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BumpMap:
-        m_Texture: {fileID: 2800000, guid: f9a01fe8970bc024d9bceca7aa8cc7f2, type: 3}
+        m_Texture: {fileID: 2800000, guid: bdb098a2a01512448a0ef498c6954732, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _CutoutTex:
@@ -46,11 +46,11 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 059ceb84caef72f4796e3d07266cac1d, type: 3}
+        m_Texture: {fileID: 2800000, guid: dc56614fced90fe4095d5ef1ddeb31ec, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
-        m_Texture: {fileID: 2800000, guid: deca06905527dfd4d83362a37eaf2047, type: 3}
+        m_Texture: {fileID: 2800000, guid: b34650123441b13499979d585a020785, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
