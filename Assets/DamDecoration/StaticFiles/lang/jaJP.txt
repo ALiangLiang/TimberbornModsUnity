@@ -84,6 +84,10 @@ Knatte.Pillar_2.DisplayName,ニ本柱,2 Leg Pillar
 Knatte.Pillar_3.DisplayName,三本柱,3 Leg Pillar三脚の柱も候補だったが、三脚から連想される形ではない。
 Knatte.Pillar_X.Description,柱を好きな見た目にカスタマイズできる。\r\n螺旋階段と組み合わせれば、柱を隠しつつ螺旋階段を積み重ねることができる。,Pillars to be able to get customized looks\r\nCan be combined with Staircase to hide them but get stackable.
 
+Knatte.StaircasePillar.DisplayName,Staircase Pillar,			Untranslated
+Knatte.StaircasePillar.Description,Pillars to be used with Staircase to get a nice Pillar.,			Untranslated
+Knatte.StaircasePillar.FlavorDescription,,			Untranslated
+
 Knatte.PillarTop.DisplayName,カスタム柱の足場,Custom Pillar Top他候補:踊り場の足場
 Knatte.PillarTop.Description,カスタマイズした柱や飾り用の足場。\r\n螺旋階段と組み合わせれば、柱を隠しつつ螺旋階段を積み重ねることができる。,Top part for Custom pillars or Decoration pieces\r\nCan be combined with Staircase to hide them but get stackable.
 

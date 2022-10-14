@@ -32,6 +32,10 @@ Diagonal piece with Side platform is possible Thanks to Tobbert and his [MorePla
 
 ## Changelog
 
+### 1.5.5 - 2022-10-14
+
+- Add Pillar from Staircase as sepparate building for those who want to do Pillars nice.
+
 ### 1.5.4 - 2022-10-06
 
 - Russian translation by GinFuyou

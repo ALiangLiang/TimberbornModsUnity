@@ -87,6 +87,9 @@ Knatte.Pillar_3.DisplayName,3 Leg Pillar
 Knatte.Pillar_X.Description,Pillars to be able to get customized looks\r\nCan be combined with Staircase to hide them but get stackable.
 Knatte.Pillar_X.FlavorDescription,
 
+Knatte.StaircasePillar.DisplayName,Staircase Pillar,			Untranslated
+Knatte.StaircasePillar.Description,Pillars to be used with Staircase to get a nice Pillar.,			Untranslated
+Knatte.StaircasePillar.FlavorDescription,,			Untranslated
 
 Knatte.PillarTop.DisplayName,Pillar Top
 Knatte.PillarTop.Description,Top part for Custom pillars or Decoration pieces\r\nCan be combined with Staircase to hide them but get stackable.

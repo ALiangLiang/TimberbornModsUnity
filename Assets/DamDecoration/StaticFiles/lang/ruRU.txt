@@ -87,6 +87,9 @@ Knatte.Pillar_3.DisplayName,"Три столба"
 Knatte.Pillar_X.Description,"Несущая конструкция для сложных индивидуальных архитектурных проектов.\r\nМожет служить скрытой опорой для винтовой лестницы."
 Knatte.Pillar_X.FlavorDescription,"«Застолбим местечко!» – трудолюбивый бобёр"
 
+Knatte.StaircasePillar.DisplayName,Staircase Pillar,			Untranslated
+Knatte.StaircasePillar.Description,Pillars to be used with Staircase to get a nice Pillar.,			Untranslated
+Knatte.StaircasePillar.FlavorDescription,,			Untranslated
 
 Knatte.PillarTop.DisplayName,"Перекрытие"
 Knatte.PillarTop.Description,"Перекрытие для размещения на столбах.\nМожет служить скрытой опорой для винтовой лестницы."

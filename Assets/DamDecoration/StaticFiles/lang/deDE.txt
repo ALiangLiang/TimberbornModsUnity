@@ -83,6 +83,10 @@ Knatte.Pillar_2.DisplayName,Doppelpfeiler
 Knatte.Pillar_3.DisplayName,Dreifachpfeiler
 Knatte.Pillar_X.Description,Pfeiler für individuelles Aussehen.\r\nKann mit Wendeltreppen kombiniert werden und macht diese stapelbar.,
 
+Knatte.StaircasePillar.DisplayName,Staircase Pillar,			Untranslated
+Knatte.StaircasePillar.Description,Pillars to be used with Staircase to get a nice Pillar.,			Untranslated
+Knatte.StaircasePillar.FlavorDescription,,			Untranslated
+
 Knatte.PillarTop.DisplayName,Pfeilerplattform
 Knatte.PillarTop.Description,Plattform für Pfeiler und Dekorationen.\r\nKann mit Wendeltreppen kombiniert werden und macht diese stapelbar.,
 
