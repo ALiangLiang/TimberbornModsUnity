@@ -12,11 +12,10 @@
         "Bindito.Core.dll",
         "Bindito.Unity.dll",
         "0Harmony.dll",
-        "Timberborn.BuildingRange.dll",
-        "Timberborn.Effects.dll",
-        "Timberborn.NeedSpecifications.dll",
-        "Timberborn.PreviewSystem.dll",
-        "Timberborn.RangedEffectSystem.dll"
+        "TimberApi.dll",
+        "TimberApi.Common.dll",
+        "TimberApi.BepInEx.Plugin.Loader.dll",
+        "TimberApi.Core.dll"
     ],
     "autoReferenced": true,
     "defineConstraints": [],

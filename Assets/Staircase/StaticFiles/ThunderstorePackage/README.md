@@ -26,6 +26,10 @@ In case you experience problems or have any feedback, message us in the modding 
 
 ## Changelog
 
+### 1.3.14 - 2022-10-14
+
+- hide warning messages about mesh
+
 ### 1.3.13 - 2022-10-06
 
 - Russian translation by GinFuyou

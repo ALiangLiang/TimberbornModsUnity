@@ -1,47 +1,51 @@
-using BepInEx;
-using BepInEx.Logging;
-using TimberbornAPI;
-using TimberbornAPI.Common;
-
 using System;
+using BepInEx;
+using BepInEx.Configuration;
+using BepInEx.Logging;
+using Bindito.Core;
+using TimberApi.ConsoleSystem;
+using TimberApi.DependencyContainerSystem;
+using TimberApi.ModSystem;
+
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
 using HarmonyLib;
-using Timberborn.BuildingRange;
-using Timberborn.Effects;
-using Timberborn.NeedSpecifications;
-using Timberborn.PreviewSystem;
-using TimberbornAPI.AssetLoaderSystem.ResourceAssetPatch;
+//using Timberborn.BuildingRange;
+//using Timberborn.Effects;
+//using Timberborn.NeedSpecifications;
+//using Timberborn.PreviewSystem;
+//using TimberbornAPI.AssetLoaderSystem.ResourceAssetPatch;
 //using Timberborn.RangedEffectSystem;
 using UnityEngine;
 
 
 namespace Staircase
 {
-    [BepInPlugin(PluginGuid, PluginName, PluginVersion)]
-    [BepInDependency("com.timberapi.timberapi")]
-    [BepInDependency("tobbert.categorybutton")]
-    public class Plugin : BaseUnityPlugin
+    //[BepInPlugin(PluginGuid, PluginName, PluginVersion)]
+    //[BepInDependency("com.timberapi.timberapi")]
+    //[BepInDependency("tobbert.categorybutton")]
+    public class Plugin : IModEntrypoint
     {
         public const string PluginGuid = "knattetobbert.staircase";
         public const string PluginName = "Staircase";
         public const string PluginVersion = "1.3.8";
 
-        public static ManualLogSource Log;
+        //public static ManualLogSource Log;
 
-        private void Awake()
+        public void Entry(IMod mod, IConsoleWriter consoleWriter)
         {
-            Log = Logger;
+            //Log = Logger;
             
-            Log.LogInfo($"Loaded {PluginName} Version: {PluginVersion}!");
-
-            TimberAPI.AssetRegistry.AddSceneAssets(PluginGuid, SceneEntryPoint.Global);
-            //new Harmony(PluginGuid).PatchAll();
+            Debug.Log($"Loaded {PluginName} Script");
+            new Harmony(PluginGuid).PatchAll();
+            //consoleWriter.Log("Logpile Patched",LogInfo);
+            
         }
     }
-    /*[HarmonyPatch(typeof(Debug), "LogWarning", typeof(object))]
+
+    [HarmonyPatch(typeof(Debug), "LogWarning", typeof(object))]
     public class LogWarningPatch
     {
         static bool Prefix(object message, bool __runOriginal)
@@ -56,7 +60,7 @@ namespace Staircase
             }
             return __runOriginal;
         }
-    }*/
+    }
     
     /*[HarmonyPatch(typeof(RangedEffectBuilding), "RangeNames", new Type[] { })]
     public class PreventOrangePatch
