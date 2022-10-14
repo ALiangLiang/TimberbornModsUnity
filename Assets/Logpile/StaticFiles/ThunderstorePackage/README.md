@@ -29,6 +29,10 @@ This mod is possible thanks to help from [Tobbert](https://github.com/TobbyTheBo
 
 ## Changelog
 
+### 1.0.10 - 2022-10-12
+
+- Russian translation by GinFuyou
+
 ### 1.0.9 - 2022-09-26
 
 - Fix Ground texture of Tinylogpile
