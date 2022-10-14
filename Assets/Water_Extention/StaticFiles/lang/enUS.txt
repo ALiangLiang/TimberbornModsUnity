@@ -16,7 +16,7 @@ Knatte.PipeU15X.DisplayName,Pipe Underground 15 Long,-
 Knatte.PipeU.Description,Levees on both sides of the pipe and a input and output pipe.\r\nPipe going underground between Levees\r\n Leeve need to be powered but also act as transfer,-
 
 Knatte.CategoryPipe.DisplayName,Straight Pipes,-
-Knatte.CategoryPipe.Description,Pipes that can be overground,-
+Knatte.CategoryPipe.Description,Pipes that go overground,-
 
 Knatte.CategoryPipeU.DisplayName,Underground Pipes,-
 Knatte.CategoryPipeU.Description,Pipes that need to go underground at the bend,-

@@ -143,6 +143,10 @@ In case you experience problems or have any feedback, message us in the modding 
 
 ## Changelog
 
+### 0.3.1 - 2022-10-12
+
+- Add Russian translation by GinFuyou 
+
 ### 0.3.0 - 2022-10-08
 
 - Add Big Irrigation tower
