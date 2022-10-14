@@ -95,6 +95,10 @@ Knatte.SlopeS.DisplayName,ダム飾り付き階段,-
 Knatte.SlopeS.Description,ダムに階段をつけよう。,-
 Knatte.SlopeS.FlavorDescription,注意！水はせき止めない。,-
 
+Knatte.DiagPath.DisplayName,Diagonal path, 						Untranslated
+Knatte.DiagPath.Description,Path to go diagonal on Decoration and levees.\nTakes no less pathing lenght then normal road but looks better., 						Untranslated
+Knatte.DiagPath.FlavorDescription,"""Beaver slalom"" —Some happy beaver", 						Untranslated
+
 Knatte.CategoryDam.DisplayName,ダム飾り,-
 Knatte.CategoryDam.Des,注意！水はせき止めない。,-
 

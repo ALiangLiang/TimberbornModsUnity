@@ -98,6 +98,10 @@ Knatte.SlopeS.DisplayName,Decoration Stair,-
 Knatte.SlopeS.Description,Let the Dam be Stepped on.,-
 Knatte.SlopeS.FlavorDescription,Does not Block Water,-
 
+Knatte.DiagPath.DisplayName,Diagonal path
+Knatte.DiagPath.Description,Path to go diagonal on Decoration and levees.\nTakes no less pathing lenght then normal road but looks better.
+Knatte.DiagPath.FlavorDescription,"""Beaver slalom"" —Some happy beaver",
+
 Knatte.CategoryDam.DisplayName,Decoration Pieces,-
 Knatte.CategoryDam.Des,Does not Block Water,-
 
