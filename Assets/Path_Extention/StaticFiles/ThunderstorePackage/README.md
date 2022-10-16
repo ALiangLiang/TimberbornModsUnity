@@ -40,6 +40,10 @@ In case you experience problems or have any feedback, message us in the modding 
 
 ## Changelog
 
+### 0.0.2 - 2022-10-14
+
+- Fix Texture of Levee for IT
+
 ### 0.0.1 - 2022-10-06
 
 - Initial release
