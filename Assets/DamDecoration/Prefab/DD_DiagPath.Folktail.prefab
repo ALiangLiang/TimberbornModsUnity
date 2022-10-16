@@ -81,6 +81,8 @@ GameObject:
   - component: {fileID: 5860367570422035011}
   - component: {fileID: 2088881534276268686}
   - component: {fileID: -8726437569665399324}
+  - component: {fileID: 8766393894000240911}
+  - component: {fileID: 5200793717584154390}
   m_Layer: 0
   m_Name: DD_DiagPath.Folktail
   m_TagString: Untagged
@@ -219,7 +221,7 @@ MonoBehaviour:
   _customPivot:
     _hasCustomPivot: 0
     _coordinates: {x: 0, y: 0, z: 0}
-  _devModeTool: 0
+  _devModeTool: 1
 --- !u!114 &2088881534276268686
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -248,6 +250,40 @@ MonoBehaviour:
   m_Script: {fileID: -1604455801, guid: fb0076526bca5246b24d6c818d68ce00, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &8766393894000240911
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5574067095167738340}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1418978883, guid: 4ed0189b1e1d234e361262ab78b6f74b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _driveway: 1
+  _hasCustomCoordinates: 1
+  _customCoordinates: {x: 0, y: 1, z: 0}
+  _customDirection: 2
+  _drivewayMode: 0
+--- !u!114 &5200793717584154390
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5574067095167738340}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1418978883, guid: 4ed0189b1e1d234e361262ab78b6f74b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _driveway: 3
+  _hasCustomCoordinates: 1
+  _customCoordinates: {x: -1, y: 0, z: 0}
+  _customDirection: 1
+  _drivewayMode: 0
 --- !u!1001 &2736818952967291132
 PrefabInstance:
   m_ObjectHideFlags: 0
