@@ -33,6 +33,11 @@ Diagonal piece with Side platform is possible Thanks to Tobbert and his [MorePla
 
 ## Changelog
 
+### 1.5.7 - 2022-10-16
+
+- Fix texture of IT Staircase pillar
+- Enable Diagonal path Note they will not move in diagonal but at least it looks better when not walked on.
+
 ### 1.5.6 - 2022-10-15
 
 - Updated Deutsch translation by juf0816

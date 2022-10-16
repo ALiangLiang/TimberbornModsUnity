@@ -94,9 +94,9 @@ Knatte.SlopeS.DisplayName,Dekoration Treppe,-
 Knatte.SlopeS.Description,Verpassen wir dem Deich Treppen.,-
 Knatte.SlopeS.FlavorDescription,Blockiert kein Wasser.,-
 
-Knatte.DiagPath.DisplayName,Diagonal path, 						Untranslated
-Knatte.DiagPath.Description,Path to go diagonal on Decoration and levees.\nTakes no less pathing lenght then normal road but looks better., 						Untranslated
-Knatte.DiagPath.FlavorDescription,"""Beaver slalom"" —Some happy beaver", 						Untranslated
+Knatte.DiagPath.DisplayName,Diagonal-Pfad,
+Knatte.DiagPath.Description,Pfad um Dekorationen und Deiche diagonal zu überqueren.\r\nNimmt nicht weniger Wegstrecke in Anspruch als ein normaler Pfad, sieht aber besser aus.,
+Knatte.DiagPath.FlavorDescription,"\u201EBiber-Slalom\u201C \u2013 Einige glückliche Biber",
 
 Knatte.CategoryDam.DisplayName,Dekorationen,-
 Knatte.CategoryDam.Des,Blockiert kein Wasser.,-
