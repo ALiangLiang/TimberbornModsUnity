@@ -143,6 +143,14 @@ In case you experience problems or have any feedback, message us in the modding 
 
 ## Changelog
 
+### 0.3.3 - 2022-10-22
+
+- Fix Water tank collision
+
+### 0.3.2 - 2022-10-16
+
+- Fix Pipe outlet so it can have 1 high Platform above
+
 ### 0.3.1 - 2022-10-12
 
 - Add Russian translation by GinFuyou 
