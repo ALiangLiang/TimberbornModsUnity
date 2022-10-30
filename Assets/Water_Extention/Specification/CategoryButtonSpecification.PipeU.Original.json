@@ -1,0 +1,16 @@
+{
+  "Name": "CategoryPipeU",
+  "ToolGroup": "Water",
+  "ToolOrder": 491,
+  "ButtonIcon": "WaterPipeUCategoryIcon.png",
+  "Buildings": [
+    "PipeU15X.Folktails",
+    "PipeU10X.Folktails",
+    "PipeU5X.Folktails",
+    "PipeU15X.IT",
+    "PipeU10X.IT",
+    "PipeU5X.IT"
+  ],
+  "DisplayNameLocKey": "Knatte.CategoryPipeU.DisplayName",
+  "DescriptionLocKey": "Knatte.CategoryPipeU.Description"
+}

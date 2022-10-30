@@ -11,9 +11,7 @@
     "knatte.waterextention/knatte_waterextention/PipeU5X.Folktails",
     "knatte.waterextention/knatte_waterextention/PowerLevee.Folktails",
     "knatte.waterextention/knatte_waterextention/BigIrrigationTower.Folktails",
-    "knatte.waterextention/knatte_waterextention/DeepSeeWaterPump.Folktails",
-    "knatte.waterextention/knatte_waterextention/CategoryPipe",
-    "knatte.waterextention/knatte_waterextention/CategoryPipeU"
+    "knatte.waterextention/knatte_waterextention/DeepSeeWaterPump.Folktails"
   ],
   "UniqueBuildings": [
     "knatte.waterextention/knatte_waterextention/IrrigationTowerV2.Folktails"
