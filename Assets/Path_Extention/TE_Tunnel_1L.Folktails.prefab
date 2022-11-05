@@ -131,7 +131,7 @@ MonoBehaviour:
     _amount: 15
   - _goodId: Plank
     _amount: 22
-  _scienceCost: 1200
+  _scienceCost: 1000
   _placeFinished: 0
   _finishableWithBeaversOnSite: 1
   _path: 1

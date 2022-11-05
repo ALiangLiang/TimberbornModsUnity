@@ -1,11 +1,11 @@
 {
   "name": "Path_Extention",
-  "version_number": "0.0.2",
+  "version_number": "0.0.3",
   "website_url": "https://github.com/KnatteAnka/KATimberbornModsUnity",
   "description": "[WIP] Adds stuff to help get around the map",
   "dependencies": [
     "BepInEx-BepInExPack_Timberborn-5.4.19",
     "Timberborn_Central-TimberAPI-0.5.1",
-	  "Tobbert-CategoryButton-1.1.2"
+	  "Tobbert-CategoryButton-1.2.0"
   ]
 }

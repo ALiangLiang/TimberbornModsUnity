@@ -40,6 +40,10 @@ In case you experience problems or have any feedback, message us in the modding 
 
 ## Changelog
 
+### 0.0.3 - 2022-11-05
+
+- Nerf Prices for all tunnels by 20-50%
+
 ### 0.0.2 - 2022-10-14
 
 - Fix Texture of Levee for IT

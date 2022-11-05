@@ -1,5 +1,22 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-6414141538032121159
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b243ff405b33b94dbf5b6775dd9aa33, type: 3}
+  m_Name: Files
+  m_EditorClassIdentifier: 
+  StagingPaths:
+  - <ManifestPluginStaging>/assets
+  - <ThunderstorePackage>/<ManifestName>/plugins/assets
+  files:
+  - {fileID: 102900000, guid: e873195d1b81bf64ca01b1052d727852, type: 3}
 --- !u!114 &-3931462110823901632
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -52,6 +69,7 @@ MonoBehaviour:
   - {fileID: -3931462110823901632}
   - {fileID: -1800585617083543040}
   - {fileID: 9120418034178625098}
+  - {fileID: -6414141538032121159}
   - {fileID: 2590189338767857166}
   - {fileID: 7276679206402820566}
   - {fileID: 7788702448107751720}
@@ -75,7 +93,6 @@ MonoBehaviour:
   assetBundles:
   - assetBundleName: Knatte_tobbert_path_extention
     assets:
-    - {fileID: 3253139709501052812, guid: 4f98d26da7b16bb40a67e3d14c26686f, type: 3}
     - {fileID: 5574067095167738340, guid: bd06aa7911a83ae4797ebcd459de17e4, type: 3}
     - {fileID: 5574067095167738340, guid: 58c3de2d14b58424d9db246bf038ad5d, type: 3}
     - {fileID: 5574067095167738340, guid: 3b8611c1675553c4dafb1a4d1c560f00, type: 3}
@@ -132,6 +149,7 @@ MonoBehaviour:
   files:
   - {fileID: 4900000, guid: 5b4e4060dbcefc84cbe5c1835f925022, type: 3}
   - {fileID: 4900000, guid: 01c3be261004d8f41ab22f2b485b8dea, type: 3}
+  - {fileID: 4900000, guid: 08c64d1877b19eb439b9d2818141258a, type: 3}
 --- !u!114 &9120418034178625098
 MonoBehaviour:
   m_ObjectHideFlags: 0

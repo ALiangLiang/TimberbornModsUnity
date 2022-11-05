@@ -1,0 +1,30 @@
+{
+  "Name": "CategoryTunnels",
+  "ToolGroup": "Paths",
+  "ToolOrder": 310,
+  "ButtonIcon": "TE_Cat_Tunnel.png",
+  "Buildings": [
+    "TE_Tunnel_1.IT",
+    "TE_Tunnel_2.IT",
+    "TE_Tunnel_3.IT",
+    "TE_Tunnel_4.IT",
+    "TE_Tunnel_5.IT",
+    "TE_Tunnel_6.IT",
+    "TE_Tunnel_7.IT",
+    "TE_Tunnel_8.IT",
+    "TE_Tunnel_9.IT",
+    "TE_Tunnel_1L.IT",
+    "TE_Tunnel_1.Folktails",
+    "TE_Tunnel_2.Folktails",
+    "TE_Tunnel_3.Folktails",
+    "TE_Tunnel_4.Folktails",
+    "TE_Tunnel_5.Folktails",
+    "TE_Tunnel_6.Folktails",
+    "TE_Tunnel_7.Folktails",
+    "TE_Tunnel_8.Folktails",
+    "TE_Tunnel_9.Folktails",
+    "TE_Tunnel_1L.Folktails"
+  ],
+  "DisplayNameLocKey": "Knatte.CategoryTunnel.DisplayName",
+  "DescriptionLocKey": "Knatte.CategoryTunnel.Description"
+}
