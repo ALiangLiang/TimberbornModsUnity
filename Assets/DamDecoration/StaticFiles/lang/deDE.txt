@@ -3,6 +3,10 @@ Knatte.Corner.DisplayName,Dekoration Ecke,-
 Knatte.Corner.Description,Verpassen wir dem Deich Ecken.,-
 Knatte.Corner.FlavorDescription,Blockiert kein Wasser.,-
 
+Knatte.SQCorner.DisplayName,Decoration Square Corner, Untranlsated
+Knatte.SQCorner.Description,Let the Dam be Cornered., Untranlsated
+Knatte.SQCorner.FlavorDescription,Does not Block Water, Untranlsated
+
 Knatte.Diagonal.DisplayName,Dekoration Diagonal,-
 Knatte.Diagonal.Description,Verpassen wir dem Deich Diagonalen.,-
 Knatte.Diagonal.FlavorDescription,Blockiert kein Wasser.,-
@@ -48,6 +52,10 @@ Knatte.Corner2X.DisplayName,Dekoration Ecke\r\ndoppelte Höhe,-
 Knatte.Corner2X.Description,Verpassen wir dem Deich Ecken.,-
 Knatte.Corner2X.FlavorDescription,Blockiert kein Wasser.,-
 
+Knatte.SQCorner2X.DisplayName,Decoration Square Corner Double Height, Untranlsated
+Knatte.SQCorner2X.Description,Let the Dam be Cornered., Untranlsated
+Knatte.SQCorner2X.FlavorDescription,Does not Block Water, Untranlsated
+
 Knatte.Diagonal2X.DisplayName,Dekoration Diagonal\r\ndopppelte Höhe,-
 Knatte.Diagonal2X.Description,Verpassen wir dem Deich Diagonalen.,-
 Knatte.Diagonal2X.FlavorDescription,Blockiert kein Wasser.,-
@@ -72,16 +80,35 @@ Knatte.CornerSlope2X.DisplayName,Dekoration Schräge Ecke\r\ndopppelte Höhe,-
 Knatte.CornerSlope2X.Description,Verpassen wir dem Deich Ecken.,-
 Knatte.CornerSlope2X.FlavorDescription,Blockiert kein Wasser.,-
 
+Knatte.Corner3X.DisplayName,Decoration Corner Tripple Height,-   Untranlsated
+Knatte.Corner3X.Description,Let the Dam be Cornered.,-   Untranlsated
+Knatte.Corner3X.FlavorDescription,Does not Block Water,-   Untranlsated
+
+Knatte.InvCorner3X.DisplayName,Decoration Internal Corner Tripple Height,-   Untranlsated
+Knatte.InvCorner3X.Description,Let the Dam be Cornered.,-   Untranlsated
+Knatte.InvCorner3X.FlavorDescription,Does not Block Water,-   Untranlsated
+
+Knatte.Slope3X.DisplayName,Decoration Slope Double Height,-   Untranlsated
+Knatte.Slope3X.Description,Let the Dam be Sloped.,-   Untranlsated
+Knatte.Slope3X.FlavorDescription,Does not Block Water,-   Untranlsated
+
+Knatte.InvCornerW3X.DisplayName,Leeve Internal Corner Tripple Height,-   Untranlsated
+Knatte.InvCornerW3X.Description,Let the Dam be Cornered.,-   Untranlsated
+Knatte.InvCornerW3X.FlavorDescription,Water will not Pass,-   Untranlsated
+
 Knatte.Pillar.DisplayName,Vierfachpfeiler,-
 Knatte.Pillar.Description,Lass es höher werden.,-
+Knatte.Pillar.FlavorDescription,
 
 Knatte.Pillars.DisplayName,Vierfachpfeiler mit Strebe,-
 Knatte.Pillars.Description,Lass es höher werden.,-
+Knatte.Pillars.FlavorDescription,
 
 Knatte.Pillar_1.DisplayName,Pfeiler
 Knatte.Pillar_2.DisplayName,Doppelpfeiler
 Knatte.Pillar_3.DisplayName,Dreifachpfeiler
 Knatte.Pillar_X.Description,Pfeiler für individuelles Aussehen.\r\nKann mit Wendeltreppen kombiniert werden und macht diese stapelbar.,
+Knatte.Pillar_X.FlavorDescription,
 
 Knatte.StaircasePillar.DisplayName,Wendeltreppenpfeiler,
 Knatte.StaircasePillar.Description,Pfeiler zur Verwendung mit Wendeltreppen.,

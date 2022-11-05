@@ -1,33 +1,40 @@
 {
   "CommonBuildings": [
+	"knatte.damdecoration/knatte_damdecoration/DD_InvCorner.Folktail",
+	"knatte.damdecoration/knatte_damdecoration/DD_Slope.Folktail",
 	"knatte.damdecoration/knatte_damdecoration/DD_Corner.Folktail",
+	"knatte.damdecoration/knatte_damdecoration/DD_SQCorner.Folktail",
 	"knatte.damdecoration/knatte_damdecoration/DD_Diagonal.Folktail",
 	"knatte.damdecoration/knatte_damdecoration/DD_Diagonal_S.Folktail",
-	"knatte.damdecoration/knatte_damdecoration/DD_InvCorner.Folktail",
-	"knatte.damdecoration/knatte_damdecoration/DD_InvCornerW.Folktail",
-    "knatte.damdecoration/knatte_damdecoration/DD_Pillar.Folktail",
-	"knatte.damdecoration/knatte_damdecoration/DD_Pillars.Folktail",
-	"knatte.damdecoration/knatte_damdecoration/DD_Slope.Folktail",
-	"knatte.damdecoration/knatte_damdecoration/DD_SlopeStairs.Folktail",
-	"knatte.damdecoration/knatte_damdecoration/CategoryDam",
-	"knatte.damdecoration/knatte_damdecoration/CategoryLevees",
-	"knatte.damdecoration/knatte_damdecoration/CategoryPillar",
 	"knatte.damdecoration/knatte_damdecoration/DD_Corner2X.Folktail",
 	"knatte.damdecoration/knatte_damdecoration/DD_IntCorn_S2X.Folktail",
 	"knatte.damdecoration/knatte_damdecoration/DD_InvCorner2X.Folktail",
-	"knatte.damdecoration/knatte_damdecoration/DD_InvCornerW2X.Folktail",
 	"knatte.damdecoration/knatte_damdecoration/DD_Slope2x.Folktail",
+	"knatte.damdecoration/knatte_damdecoration/DD_SQCorner2x.Folktail",
 	"knatte.damdecoration/knatte_damdecoration/DD_CornerSlope.Folktail",
 	"knatte.damdecoration/knatte_damdecoration/DD_CornerSlope2x.Folktail",
-	"knatte.damdecoration/knatte_damdecoration/DD_DiagonalW.Folktail",
 	"knatte.damdecoration/knatte_damdecoration/DD_Square.Folktail",
+	"knatte.damdecoration/knatte_damdecoration/DD_Corner3X.Folktail",
+	"knatte.damdecoration/knatte_damdecoration/DD_InvCorner3X.Folktail",
+	"knatte.damdecoration/knatte_damdecoration/DD_Slope3x.Folktail",
+	
+	"knatte.damdecoration/knatte_damdecoration/DD_InvCornerW.Folktail",
+	"knatte.damdecoration/knatte_damdecoration/DD_InvCornerW2X.Folktail",
 	"knatte.damdecoration/knatte_damdecoration/DD_SquareW2x2.Folktail",
 	"knatte.damdecoration/knatte_damdecoration/DD_SquareW3x3.Folktail",
+	"knatte.damdecoration/knatte_damdecoration/DD_DiagonalW.Folktail",
+	"knatte.damdecoration/knatte_damdecoration/DD_InvCornerW3X.Folktail",
+
+	"knatte.damdecoration/knatte_damdecoration/DD_Pillar.Folktail",
+	"knatte.damdecoration/knatte_damdecoration/DD_Pillars.Folktail",
+	"knatte.damdecoration/knatte_damdecoration/DD_StaircasePillar.Folktail",
 	"knatte.damdecoration/knatte_damdecoration/DD_Pillar_1.Folktail",
 	"knatte.damdecoration/knatte_damdecoration/DD_Pillar_2.Folktail",
 	"knatte.damdecoration/knatte_damdecoration/DD_Pillar_3.Folktail",
 	"knatte.damdecoration/knatte_damdecoration/DD_PillarTop.Folktail",
-	"knatte.damdecoration/knatte_damdecoration/DD_StaircasePillar.Folktail",
+
+
+	"knatte.damdecoration/knatte_damdecoration/DD_SlopeStairs.Folktail",
 	"knatte.damdecoration/knatte_damdecoration/DD_DiagPath.Folktail"
   ]
 }

@@ -60,7 +60,7 @@ MonoBehaviour:
     _amount: 18
   - _goodId: Plank
     _amount: 12
-  _scienceCost: 230
+  _scienceCost: 205
   _placeFinished: 0
   _finishableWithBeaversOnSite: 1
   _path: 0
@@ -130,7 +130,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _toolGroupId: Landscaping
-  _toolOrder: 230
+  _toolOrder: 300
   _layout: 1
   _customPivot:
     _hasCustomPivot: 0

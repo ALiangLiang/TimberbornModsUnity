@@ -90,8 +90,9 @@ MonoBehaviour:
   m_Script: {fileID: -788214902, guid: b6b9d4cc3090b6fceb2eb6438dd271f1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _prefabName: DD_Corner2X.Folktail
-  _backwardCompatiblePrefabNames: []
+  _prefabName: DD_Corner2X.IT
+  _backwardCompatiblePrefabNames:
+  - DD_Corner2X.Folktail
   _requiredFeatureToggle: 
 --- !u!114 &114531841495513050
 MonoBehaviour:

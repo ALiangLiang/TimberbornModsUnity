@@ -3,6 +3,10 @@ Knatte.Corner.DisplayName,"Декоративный уголок","«» –"
 Knatte.Corner.Description,"Делает плотину более многогранной.",-
 Knatte.Corner.FlavorDescription,"Не останавливает воду",-
 
+Knatte.SQCorner.DisplayName,Decoration Square Corner, Untranlsated
+Knatte.SQCorner.Description,Let the Dam be Cornered., Untranlsated
+Knatte.SQCorner.FlavorDescription,Does not Block Water, Untranlsated
+
 Knatte.Diagonal.DisplayName,"Декоративный диагональный блок",-
 Knatte.Diagonal.Description,"Плотина под новым углом.",-
 Knatte.Diagonal.FlavorDescription,"Не останавливает воду",-
@@ -48,6 +52,10 @@ Knatte.Corner2X.DisplayName,"Двойной декоративный уголо�
 Knatte.Corner2X.Description,"Делает плотину более многогранной.",-
 Knatte.Corner2X.FlavorDescription,"Не останавливает воду",-
 
+Knatte.SQCorner2X.DisplayName,Decoration Square Corner Double Height, Untranlsated
+Knatte.SQCorner2X.Description,Let the Dam be Cornered., Untranlsated
+Knatte.SQCorner2X.FlavorDescription,Does not Block Water, Untranlsated
+
 Knatte.Diagonal2X.DisplayName,"Decoration Diagonal Double Height","Not in the game?"
 Knatte.Diagonal2X.Description,Let the Dam go to the Side.,-
 Knatte.Diagonal2X.FlavorDescription,"Не останавливает воду",-
@@ -72,6 +80,21 @@ Knatte.CornerSlope2X.DisplayName,"Двойной декоративный угл
 Knatte.CornerSlope2X.Description,"Делает плотину более многогранной.",-
 Knatte.CornerSlope2X.FlavorDescription,"Не останавливает воду",-
 
+Knatte.Corner3X.DisplayName,Decoration Corner Tripple Height,-   Untranlsated
+Knatte.Corner3X.Description,Let the Dam be Cornered.,-   Untranlsated
+Knatte.Corner3X.FlavorDescription,Does not Block Water,-   Untranlsated
+
+Knatte.InvCorner3X.DisplayName,Decoration Internal Corner Tripple Height,-   Untranlsated
+Knatte.InvCorner3X.Description,Let the Dam be Cornered.,-   Untranlsated
+Knatte.InvCorner3X.FlavorDescription,Does not Block Water,-   Untranlsated
+
+Knatte.Slope3X.DisplayName,Decoration Slope Double Height,-   Untranlsated
+Knatte.Slope3X.Description,Let the Dam be Sloped.,-   Untranlsated
+Knatte.Slope3X.FlavorDescription,Does not Block Water,-   Untranlsated
+
+Knatte.InvCornerW3X.DisplayName,Leeve Internal Corner Tripple Height,-   Untranlsated
+Knatte.InvCornerW3X.Description,Let the Dam be Cornered.,-   Untranlsated
+Knatte.InvCornerW3X.FlavorDescription,Water will not Pass,-   Untranlsated
 
 Knatte.Pillar.DisplayName,"Столбы",-
 Knatte.Pillar.Description,"Отдельностоящая опора",-

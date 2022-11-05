@@ -65,7 +65,6 @@ MonoBehaviour:
   _finishableWithBeaversOnSite: 0
   _path: 1
   _drawRangeBoundsOnIt: 0
-  _hasNoRoof: 0
 --- !u!114 &114147342967600729
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -585,19 +584,19 @@ PrefabInstance:
     - target: {fileID: -7075796786142143011, guid: 079d23baf7292d54993ad197c4feb9e9, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 2e5d31274a0fbfa4b9c251b701669b71, type: 2}
+      objectReference: {fileID: 2100000, guid: 313e437f3e98c7c43929f3c61a0e09e0, type: 2}
     - target: {fileID: -7075796786142143011, guid: 079d23baf7292d54993ad197c4feb9e9, type: 3}
       propertyPath: m_Materials.Array.data[1]
       value: 
-      objectReference: {fileID: 2100000, guid: 251a88476184c8744aa13e98ebf4068f, type: 2}
+      objectReference: {fileID: 2100000, guid: e5d2068970eeb3642b9d8695ef20db58, type: 2}
     - target: {fileID: -5039093296894266717, guid: 079d23baf7292d54993ad197c4feb9e9, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 251a88476184c8744aa13e98ebf4068f, type: 2}
+      objectReference: {fileID: 2100000, guid: e5d2068970eeb3642b9d8695ef20db58, type: 2}
     - target: {fileID: -5039093296894266717, guid: 079d23baf7292d54993ad197c4feb9e9, type: 3}
       propertyPath: m_Materials.Array.data[1]
       value: 
-      objectReference: {fileID: 2100000, guid: 2e5d31274a0fbfa4b9c251b701669b71, type: 2}
+      objectReference: {fileID: 2100000, guid: f3a43fa7ebe0d9e4aabf5ea2523346d2, type: 2}
     - target: {fileID: 919132149155446097, guid: 079d23baf7292d54993ad197c4feb9e9, type: 3}
       propertyPath: m_Name
       value: DD_Todor

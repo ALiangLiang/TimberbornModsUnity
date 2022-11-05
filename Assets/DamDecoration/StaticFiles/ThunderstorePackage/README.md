@@ -33,6 +33,11 @@ Diagonal piece with Side platform is possible Thanks to Tobbert and his [MorePla
 
 ## Changelog
 
+### 1.6.0 - 2022-11-04
+
+- Add 3 trypes of 3 high decoration pieces
+- Add Square Corner both 1 and 2 high
+
 ### 1.5.7 - 2022-10-16
 
 - Fix texture of IT Staircase pillar
