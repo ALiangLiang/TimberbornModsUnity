@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: 1KA_Plaster_White.Folktails
+  m_Name: 1KA_Plaster_White
   m_Shader: {fileID: 4800000, guid: af9690b08e1c1e54cba26739fa9a8c10, type: 3}
   m_ValidKeywords: []
   m_InvalidKeywords:
