@@ -33,6 +33,10 @@ Diagonal piece with Side platform is possible Thanks to Tobbert and his [MorePla
 
 ## Changelog
 
+### 1.6.1 - 2022-11-26
+
+- Updated Deutsch translation by juf0816
+
 ### 1.6.0 - 2022-11-04
 
 - Add 3 trypes of 3 high decoration pieces
