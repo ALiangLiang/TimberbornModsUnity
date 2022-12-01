@@ -1,6 +1,6 @@
 {
     "Name": "Extended Floodgate",
-    "Version": "0.7.2",
+    "Version": "0.7.3",
     "UniqueId": "knatte.floodgates",
     "MinimumApiVersion": "0.5.0",
     "MinimumGameVersion": "0.2.8.1",

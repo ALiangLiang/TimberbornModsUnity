@@ -52,6 +52,7 @@ MonoBehaviour:
   - {fileID: -3931462110823901632}
   - {fileID: -1800585617083543040}
   - {fileID: 9120418034178625098}
+  - {fileID: 5757233186876617070}
   - {fileID: 2590189338767857166}
   - {fileID: 7276679206402820566}
   - {fileID: 7788702448107751720}
@@ -75,7 +76,6 @@ MonoBehaviour:
   assetBundles:
   - assetBundleName: Knatte_Floodgates
     assets:
-    - {fileID: 3253139709501052812, guid: 1fa07b9078f9fc04db619df8b6e50378, type: 3}
     - {fileID: 1782758416770236, guid: e755ad40a4a892d49a938a8d34b300ad, type: 3}
     - {fileID: 1044374658342017, guid: ab1f2207857b064418c64e982173acf4, type: 3}
     - {fileID: 1091995799021445, guid: b9113ad71710ccc418f69aa85b0bbef7, type: 3}
@@ -96,6 +96,23 @@ MonoBehaviour:
     - {fileID: 1091995799021445, guid: ee3151c994a083242bd2b9c46b8e0e84, type: 3}
     - {fileID: 1091995799021445, guid: abe3a4c11261f2443abed39ac35ca607, type: 3}
     - {fileID: 1091995799021445, guid: b3071a7cf830cc94d96b7b554e6b48ea, type: 3}
+--- !u!114 &5757233186876617070
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b243ff405b33b94dbf5b6775dd9aa33, type: 3}
+  m_Name: Files
+  m_EditorClassIdentifier: 
+  StagingPaths:
+  - <ManifestPluginStaging>/assets
+  - <ThunderstorePackage>/<ManifestName>/plugins/assets
+  files:
+  - {fileID: 102900000, guid: 95c5ec51354704c4c86a267c2cd4f27e, type: 3}
 --- !u!114 &7276679206402820566
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -132,6 +149,7 @@ MonoBehaviour:
   files:
   - {fileID: 4900000, guid: e56cf39a39475a544916717d867a25ba, type: 3}
   - {fileID: 4900000, guid: 8b298b128b7e2ee4981fdf3c7e826065, type: 3}
+  - {fileID: 4900000, guid: 210f22a7e6ab95642864632fe4e6b836, type: 3}
 --- !u!114 &9120418034178625098
 MonoBehaviour:
   m_ObjectHideFlags: 0

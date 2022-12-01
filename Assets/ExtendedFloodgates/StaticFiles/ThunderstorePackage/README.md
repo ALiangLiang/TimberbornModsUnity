@@ -24,6 +24,10 @@ In case you experience problems, message me in the modding channel of the the [T
 
 ## Changelog
 
+### 0.7.3 - 2022-10-28
+
+- Update for Category button
+
 ### 0.7.2 - 2022-10-12
 
 - Update Russian translation by GinFuyou

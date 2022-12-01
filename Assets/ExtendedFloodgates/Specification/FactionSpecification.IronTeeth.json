@@ -1,7 +1,7 @@
 {
   "CommonBuildings": [
     "knatte.floodgates/knatte_floodgates/WaterAlarm.IronTeeth",
-	"knatte.floodgates/knatte_floodgates/CategoryFloodGate",
+	
 	"knatte.floodgates/knatte_floodgates/MetalFloodgate2.IronTeeth",
 	"knatte.floodgates/knatte_floodgates/MetalFloodgate3.IronTeeth",
 	"knatte.floodgates/knatte_floodgates/MetalFloodgate4.IronTeeth",
