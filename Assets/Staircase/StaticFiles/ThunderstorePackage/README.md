@@ -26,6 +26,11 @@ In case you experience problems or have any feedback, message us in the modding 
 
 ## Changelog
 
+### 1.3.15 - 2022-10-26
+
+- Update Category version used
+- Add Polish translation by vito74m
+
 ### 1.3.14 - 2022-10-14
 
 - hide warning messages about mesh

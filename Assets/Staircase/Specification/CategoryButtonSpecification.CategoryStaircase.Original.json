@@ -1,0 +1,27 @@
+{
+  "Name": "CategoryStaircase",
+  "ToolGroup": "Paths",
+  "ToolOrder": 199,
+  "ButtonIcon": "StaircaseMenu.png",
+  "Buildings": [
+    "StaircaseRight",
+    "StaircaseLeft",  
+    "MetalStaircase",
+    
+    "StaircaseRight.IT",
+    "StaircaseLeft.IT",
+	  "MetalStaircase.IT",
+    
+    "DD_SlopeStairs.Folktail",
+    "DD_SlopeStairs.IT",
+
+    "Ladder.Folktails",
+    "Ladder.IronTeeth",
+    "Ladder",
+
+    "WoodenStairs.Folktails",
+    "WoodenStairs.IronTeeth"
+
+  ],
+  "DisplayNameLocKey": "KnatteTobbert.Staircases.DisplayName"
+}

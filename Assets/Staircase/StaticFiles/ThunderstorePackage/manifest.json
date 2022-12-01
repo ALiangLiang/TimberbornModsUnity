@@ -1,11 +1,11 @@
 {
   "name": "Staircase",
-  "version_number": "1.3.14",
+  "version_number": "1.3.15",
   "website_url": "https://github.com/KnatteAnka/KATimberbornModsUnity",
   "description": "Adds a staircase for your beavers to advance to a new level.",
   "dependencies": [
     "BepInEx-BepInExPack_Timberborn-5.4.19",
-    "Timberborn_Central-TimberAPI-0.5.1",
-	  "Tobbert-CategoryButton-1.1.2"
+    "Timberborn_Central-TimberAPI-0.5.2",
+	  "Tobbert-CategoryButton-1.2.2"
   ]
 }

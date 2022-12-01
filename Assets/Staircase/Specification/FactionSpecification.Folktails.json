@@ -2,8 +2,7 @@
   "CommonBuildings": [
     "knattetobbert.staircase/knattetobbert_staircase/StaircaseRight",
     "knattetobbert.staircase/knattetobbert_staircase/StaircaseLeft",  
-    "knattetobbert.staircase/knattetobbert_staircase/MetalStaircase",
-    "knattetobbert.staircase/knattetobbert_staircase/CategoryStaircase"
+    "knattetobbert.staircase/knattetobbert_staircase/MetalStaircase"
   ],
   "Needs": [
     "MetalStaircaseNeed"
