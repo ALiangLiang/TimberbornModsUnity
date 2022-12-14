@@ -1,9 +1,9 @@
 {
     "Name": "Extended Floodgate",
-    "Version": "0.7.3",
+    "Version": "0.7.4",
     "UniqueId": "knatte.floodgates",
     "MinimumApiVersion": "0.5.0",
-    "MinimumGameVersion": "0.2.8.1",
+    "MinimumGameVersion": "0.2.9.1",
     "Assets": [
       {
         "Prefix": "knatte.floodgates",
@@ -15,7 +15,7 @@
     "Dependencies": [
         {
             "UniqueId": "tobbert.categorybutton",
-            "MinimumVersion": "1.1.2"
+            "MinimumVersion": "1.4.0"
         }
     ]
   }

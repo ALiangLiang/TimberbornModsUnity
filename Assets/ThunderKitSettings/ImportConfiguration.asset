@@ -72,8 +72,6 @@ MonoBehaviour:
   m_Name: Import Assemblies
   m_EditorClassIdentifier: 
   enabled: 1
-  OldGuidGenerationMode: 0
-  GuidGenerationMode: 0
 --- !u!114 &8667023761861571577
 MonoBehaviour:
   m_ObjectHideFlags: 0

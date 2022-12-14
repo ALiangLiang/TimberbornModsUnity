@@ -24,6 +24,10 @@ In case you experience problems, message me in the modding channel of the the [T
 
 ## Changelog
 
+### 0.7.4 - 2022-12-04
+
+- Fix It Crash
+
 ### 0.7.3 - 2022-10-28
 
 - Update for Category button

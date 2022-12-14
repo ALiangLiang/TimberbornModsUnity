@@ -27,6 +27,9 @@ In case you experience problems or have any feedback, message us in the modding 
 
 ## Changelog
 
+### 1.0.10 - 2022-12-14
+- Update for Update 3
+
 ### 1.0.9 - 2022-10-06
 
 - Russian translation by GinFuyou
