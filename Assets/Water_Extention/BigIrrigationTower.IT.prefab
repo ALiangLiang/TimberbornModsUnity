@@ -21,7 +21,7 @@ GameObject:
   - component: {fileID: 114361343587920328}
   - component: {fileID: 114961848612109433}
   - component: {fileID: 114216287491606449}
-  - component: {fileID: 114626999805168726}
+  - component: {fileID: 7197536077853367070}
   - component: {fileID: 114611066841185775}
   - component: {fileID: 114457622823613282}
   - component: {fileID: 114290442435871522}
@@ -105,7 +105,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1035958969740901}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: -788214902, guid: b6b9d4cc3090b6fceb2eb6438dd271f1, type: 3}
+  m_Script: {fileID: -731835049, guid: b5f268a4cb31a93ed707a95d3a502b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   _prefabName: BigIrrigationTower.IT
@@ -847,7 +847,7 @@ MonoBehaviour:
   _defaultWorkerType: Beaver
   _disallowOtherWorkerTypes: 0
   _workerTypeUnlockCosts:
-  - _workerType: Golem
+  - _workerType: Bot
     _scienceCost: 250
 --- !u!114 &114361343587920328
 MonoBehaviour:
@@ -894,7 +894,7 @@ MonoBehaviour:
   _limitedCapacity: 0
   _capacity: 0
   _throttledExit: 0
---- !u!114 &114626999805168726
+--- !u!114 &7197536077853367070
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -903,7 +903,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1035958969740901}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1362434167, guid: 0e822cc0fc83f501e1c55e94dd1f0b21, type: 3}
+  m_Script: {fileID: 1165523785, guid: 98730740395d042253d9100d18363b5f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   _target: {fileID: 7118087623769765442}
@@ -931,7 +931,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1035958969740901}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: -296257353, guid: b6b9d4cc3090b6fceb2eb6438dd271f1, type: 3}
+  m_Script: {fileID: -1115175677, guid: b5f268a4cb31a93ed707a95d3a502b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   _displayNameLocKey: Knatte.BigIrrigationTower.DisplayName
@@ -995,6 +995,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _noAutoWalls: 0
   _generateFloorsOnStackable: 1
+  _blockAllEdges: 0
   _addedEdges:
   - _start: {x: 3, y: 0, z: 0}
     _end: {x: 3, y: 1, z: 0}

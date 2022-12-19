@@ -1,6 +1,6 @@
 {
   "CommonBuildings": [
-    "knatte.waterextention/knatte_waterextention/IndustWaterTank.IT",
+    
     "knatte.waterextention/knatte_waterextention/Pipe15X.IT",
     "knatte.waterextention/knatte_waterextention/Pipe10X.IT",
     "knatte.waterextention/knatte_waterextention/Pipe5X.IT",
@@ -11,5 +11,8 @@
     "knatte.waterextention/knatte_waterextention/PipeU5X.IT",
     "knatte.waterextention/knatte_waterextention/BigIrrigationTower.IT",
     "knatte.waterextention/knatte_waterextention/DeepSeeWaterPump.IT"
+  ],
+  "UniqueBuildings": [
+    "knatte.waterextention/knatte_waterextention/IndustWaterTank.IT"
   ]
 }

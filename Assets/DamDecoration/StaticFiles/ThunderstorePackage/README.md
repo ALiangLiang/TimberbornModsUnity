@@ -33,6 +33,10 @@ Diagonal piece with Side platform is possible Thanks to Tobbert and his [MorePla
 
 ## Changelog
 
+### 1.6.2 - 2022-12-16
+
+- Update for Update 3
+
 ### 1.6.1 - 2022-11-26
 
 - Updated Deutsch translation by juf0816

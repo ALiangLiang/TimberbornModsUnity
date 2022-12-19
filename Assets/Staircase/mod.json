@@ -1,9 +1,9 @@
 {
     "Name": "Staircase",
-    "Version": "1.3.15",
+    "Version": "1.3.16",
     "UniqueId": "knattetobbert.staircase",
-    "MinimumApiVersion": "0.5.0",
-    "MinimumGameVersion": "0.2.8.1",
+    "MinimumApiVersion": "0.5.3",
+    "MinimumGameVersion": "0.3.4.3",
     "EntryDll": "Staircase.dll",
     "Assets": [
       {
@@ -12,11 +12,5 @@
           "InGame"
         ]
       }
-    ],
-    "Dependencies": [
-        {
-            "UniqueId": "tobbert.categorybutton",
-            "MinimumVersion": "1.1.2"
-        }
     ]
   }

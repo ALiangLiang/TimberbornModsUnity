@@ -18,6 +18,7 @@ See [Timberborn Modding](https://docs.google.com/spreadsheets/d/15juA0Fl6ZjbYmoN
 ---
 
 ## Industrial Water Tank
+**IT Only Since Update 3**
 3x3x2 Water tank that hold more water and can be stacked. But cost a lot of science and material.
 - Right side can only have 2 high platform 
 - Left has no limitations other than water level marker may be hidden.
@@ -142,6 +143,11 @@ Recommended way to install this mod is through [Thunderstore](https://timberborn
 In case you experience problems or have any feedback, message us in the modding channel of the the [Timberborn discord](https://discord.gg/mfbBF4cWpX) or message us directly (Knatte_Anka#6800). We will try to fix it as soon as possible. :D
 
 ## Changelog
+
+### 0.3.4 - 2022-12-17
+
+- Update for Update 3
+- Industrial Water Tank Changed to IT only building with 800 storage
 
 ### 0.3.3 - 2022-10-22
 

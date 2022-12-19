@@ -13,18 +13,18 @@ GameObject:
   - component: {fileID: 114805579693185897}
   - component: {fileID: 114216287491606449}
   - component: {fileID: 114145629205559334}
-  - component: {fileID: 6748252699449400158}
   - component: {fileID: 1917989450247633923}
   - component: {fileID: 114773446804837127}
   - component: {fileID: 114534671473677152}
   - component: {fileID: 114977670764306982}
   - component: {fileID: 7366829760133936654}
   - component: {fileID: 114457622823613282}
-  - component: {fileID: 3680920650980680189}
   - component: {fileID: 8621359453509811342}
   - component: {fileID: 5096125971362257406}
   - component: {fileID: 5528637301061777382}
   - component: {fileID: 8226435234032482001}
+  - component: {fileID: 9130937515202983855}
+  - component: {fileID: 6098053178201131503}
   m_Layer: 0
   m_Name: IndustWaterTank.Folktails
   m_TagString: Untagged
@@ -114,26 +114,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 1035958969740901}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: -788214902, guid: b6b9d4cc3090b6fceb2eb6438dd271f1, type: 3}
+  m_Script: {fileID: -731835049, guid: b5f268a4cb31a93ed707a95d3a502b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   _prefabName: IndustWaterTank.Folktails
   _backwardCompatiblePrefabNames: []
   _requiredFeatureToggle: 
---- !u!114 &6748252699449400158
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1035958969740901}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 706676795, guid: 0e822cc0fc83f501e1c55e94dd1f0b21, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _maxCapacity: 600
-  _whitelistedGoodType: Barrel
 --- !u!114 &1917989450247633923
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -281,8 +267,8 @@ MonoBehaviour:
   m_Script: {fileID: -871492198, guid: c1ff95bb5ae0e8b420075ec58add6f36, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _toolGroupId: Water
-  _toolOrder: 31
+  _toolGroupId: Storage
+  _toolOrder: 71
   _layout: 0
   _customPivot:
     _hasCustomPivot: 1
@@ -309,29 +295,13 @@ MonoBehaviour:
   m_GameObject: {fileID: 1035958969740901}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: -296257353, guid: b6b9d4cc3090b6fceb2eb6438dd271f1, type: 3}
+  m_Script: {fileID: -1115175677, guid: b5f268a4cb31a93ed707a95d3a502b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   _displayNameLocKey: Knatte.IndWaterTank.DisplayName
   _descriptionLocKey: Knatte.IndWaterTank.Description
   _flavorDescriptionLocKey: 
   _image: {fileID: 21300000, guid: ac0fbfd1e752de84f8108bcf19f6b72d, type: 3}
---- !u!114 &3680920650980680189
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1035958969740901}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 1362434167, guid: 0e822cc0fc83f501e1c55e94dd1f0b21, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _target: {fileID: 2515098801007741347}
-  _maxHeight: 1.34
-  _good: Water
-  _nonLinearity: 0
 --- !u!114 &8621359453509811342
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -409,10 +379,41 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _noAutoWalls: 0
   _generateFloorsOnStackable: 1
+  _blockAllEdges: 0
   _addedEdges:
   - _start: {x: 2, y: 2, z: 0}
     _end: {x: 1, y: -1, z: 0}
     _isTwoWay: 0
+--- !u!114 &9130937515202983855
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1035958969740901}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1165523785, guid: 98730740395d042253d9100d18363b5f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _target: {fileID: 2515098801007741347, guid: 5a3ef7df6636ffd46900c034a8a4d8f0, type: 3}
+  _maxHeight: 2
+  _good: Water
+  _nonLinearity: 0
+--- !u!114 &6098053178201131503
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1035958969740901}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1710197500, guid: 98730740395d042253d9100d18363b5f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _maxCapacity: 800
+  _whitelistedGoodType: Liquid
 --- !u!1 &1143749292812006
 GameObject:
   m_ObjectHideFlags: 0

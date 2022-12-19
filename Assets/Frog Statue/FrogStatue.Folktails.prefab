@@ -19,6 +19,8 @@ GameObject:
   - component: {fileID: -8706437357016037861}
   - component: {fileID: 8301357133823993450}
   - component: {fileID: 7184017329909936562}
+  - component: {fileID: -8641242016780758588}
+  - component: {fileID: -8924750038232310286}
   m_Layer: 0
   m_Name: FrogStatue.Folktails
   m_TagString: Untagged
@@ -250,6 +252,37 @@ MonoBehaviour:
   - _needId: FrogStatue
     _pointsPerHour: 1.5
     _satisfyToMaxValue: 0
+--- !u!114 &-8641242016780758588
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1892513168112050}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -731835049, guid: b5f268a4cb31a93ed707a95d3a502b0e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _prefabName: FrogStatue.Folktails
+  _backwardCompatiblePrefabNames: []
+  _requiredFeatureToggle: 
+--- !u!114 &-8924750038232310286
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1892513168112050}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1115175677, guid: b5f268a4cb31a93ed707a95d3a502b0e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _displayNameLocKey: Knatte.FrogStatue.DisplayName
+  _descriptionLocKey: Knatte.FrogStatue.Description
+  _flavorDescriptionLocKey: Knatte.FrogStatue.FlavorDescription
+  _image: {fileID: 21300000, guid: cf15659013e9c054fb246afa549b8e5e, type: 3}
 --- !u!1 &1907051363735039
 GameObject:
   m_ObjectHideFlags: 0
@@ -698,7 +731,6 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    serializedVersion: 2
     m_TransformParent: {fileID: 5591845110501883767}
     m_Modifications:
     - target: {fileID: -8739140121378739686, guid: b4290340ed55eb842a32d4c90f6945e6, type: 3}
@@ -778,7 +810,6 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 2100000, guid: e5d2068970eeb3642b9d8695ef20db58, type: 2}
     m_RemovedComponents: []
-    m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: b4290340ed55eb842a32d4c90f6945e6, type: 3}
 --- !u!1 &5331394264017559906 stripped
 GameObject:

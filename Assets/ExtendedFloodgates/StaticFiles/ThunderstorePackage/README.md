@@ -4,7 +4,7 @@ This mod will allow you to build Higher Metal Floodgates (4-10 High) and more ad
 
 ## Disclaimer!
 
-This plugin is tested for 0.2.8.1 version of Timberborn.  
+This plugin is tested for 0.3.4.3 version of Timberborn.  
 See [Timberborn Modding](https://docs.google.com/spreadsheets/d/15juA0Fl6ZjbYmoNTg_vjMophBvtjMz8YNUI_KmNdtdg/edit?usp=sharing) for latest information what mods work with what version
 
 
@@ -23,6 +23,10 @@ and adding the dll to your bepinex plugins folder. This plugin is dependent on t
 In case you experience problems, message me in the modding channel of the the [Timberborn discord](https://discord.gg/mfbBF4cWpX) or message me directly (Knatte_Anka#6800). I will try to fix it as soon as possible.  
 
 ## Changelog
+
+### 0.7.5 - 2022-12-16
+
+- Fix Update 3 support
 
 ### 0.7.4 - 2022-12-04
 

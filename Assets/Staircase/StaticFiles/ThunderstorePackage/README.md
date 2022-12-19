@@ -26,6 +26,14 @@ In case you experience problems or have any feedback, message us in the modding 
 
 ## Changelog
 
+### 1.3.17 - 2022-12-16
+
+- Temporary remove dep of Categorybutton
+
+### 1.3.16 - 2022-12-16
+
+- Update for Update 3
+
 ### 1.3.15 - 2022-10-26
 
 - Update Category version used

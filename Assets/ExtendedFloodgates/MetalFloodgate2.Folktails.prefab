@@ -71,16 +71,16 @@ GameObject:
   m_Component:
   - component: {fileID: 4426291874781553}
   - component: {fileID: 114973269554785925}
+  - component: {fileID: 1866021524135529431}
   - component: {fileID: 114102442354557691}
-  - component: {fileID: 114011544035581776}
   - component: {fileID: 114305919304035633}
   - component: {fileID: 114071880038648209}
   - component: {fileID: 114762693147040626}
   - component: {fileID: 114024082507295035}
-  - component: {fileID: 114102329943401872}
   - component: {fileID: 1920501881713648251}
   - component: {fileID: 3997178708031228595}
   - component: {fileID: 3277448849947450466}
+  - component: {fileID: 6761307141754942263}
   m_Layer: 0
   m_Name: MetalFloodgate2.Folktails
   m_TagString: Untagged
@@ -133,7 +133,21 @@ MonoBehaviour:
   _finishableWithBeaversOnSite: 0
   _path: 0
   _drawRangeBoundsOnIt: 0
-  _hasNoRoof: 0
+--- !u!114 &1866021524135529431
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1091995799021445}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -731835049, guid: b5f268a4cb31a93ed707a95d3a502b0e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _prefabName: MetalFloodgate2.Folktails
+  _backwardCompatiblePrefabNames: []
+  _requiredFeatureToggle: 
 --- !u!114 &114102442354557691
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -149,21 +163,6 @@ MonoBehaviour:
   _finishedModel: {fileID: 1049917095268275}
   _unfinishedModel: {fileID: 1993054037003100}
   _finishedUncoveredModel: {fileID: 0}
---- !u!114 &114011544035581776
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1091995799021445}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: -788214902, guid: b6b9d4cc3090b6fceb2eb6438dd271f1, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _prefabName: MetalFloodgate2.Folktails
-  _backwardCompatiblePrefabNames: []
-  _requiredFeatureToggle: 
 --- !u!114 &114305919304035633
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -225,6 +224,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _noAutoWalls: 0
   _generateFloorsOnStackable: 0
+  _blockAllEdges: 0
   _addedEdges: []
 --- !u!114 &114024082507295035
 MonoBehaviour:
@@ -245,22 +245,6 @@ MonoBehaviour:
     _hasCustomPivot: 0
     _coordinates: {x: 0, y: 0, z: 0}
   _devModeTool: 0
---- !u!114 &114102329943401872
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1091995799021445}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: -296257353, guid: b6b9d4cc3090b6fceb2eb6438dd271f1, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _displayNameLocKey: Knatte.MetalFloodgate2.DisplayName
-  _descriptionLocKey: Knatte.MetalFloodgate.Description
-  _flavorDescriptionLocKey: 
-  _image: {fileID: 21300000, guid: fef8053ca90de11428f69eaa1902b319, type: 3}
 --- !u!114 &1920501881713648251
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -301,6 +285,22 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _maxHeight: 2
+--- !u!114 &6761307141754942263
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1091995799021445}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1115175677, guid: b5f268a4cb31a93ed707a95d3a502b0e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _displayNameLocKey: Knatte.MetalFloodgate2.DisplayName
+  _descriptionLocKey: Knatte.MetalFloodgate.Description
+  _flavorDescriptionLocKey: 
+  _image: {fileID: 21300000, guid: fef8053ca90de11428f69eaa1902b319, type: 3}
 --- !u!1 &1622297078098944
 GameObject:
   m_ObjectHideFlags: 0

@@ -1,9 +1,9 @@
 {
     "Name": "Water Extention",
-    "Version": "0.3.3",
+    "Version": "0.3.4",
     "UniqueId": "knatte.waterextention",
-    "MinimumApiVersion": "0.5.0",
-    "MinimumGameVersion": "0.2.8.1",
+    "MinimumApiVersion": "0.5.3",
+    "MinimumGameVersion": "0.3.4.3",
     "Assets": [
       {
         "Prefix": "knatte.waterextention",
@@ -15,7 +15,7 @@
     "Dependencies": [
         {
             "UniqueId": "tobbert.categorybutton",
-            "MinimumVersion": "1.1.2"
+            "MinimumVersion": "1.4.1"
         }
     ]
   }
