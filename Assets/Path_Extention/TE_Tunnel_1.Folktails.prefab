@@ -76,7 +76,7 @@ GameObject:
   - component: {fileID: 8822117568416498058}
   - component: {fileID: 3373367071803855519}
   - component: {fileID: -7649065410785155790}
-  - component: {fileID: 3336333753966047806}
+  - component: {fileID: 477261711132095848}
   - component: {fileID: 5884080431678456959}
   - component: {fileID: 5829348106573228464}
   - component: {fileID: 5860367570422035011}
@@ -146,7 +146,7 @@ MonoBehaviour:
   _finishedModel: {fileID: 5184050673004077736}
   _unfinishedModel: {fileID: 4320925465066273192}
   _finishedUncoveredModel: {fileID: 0}
---- !u!114 &3336333753966047806
+--- !u!114 &477261711132095848
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -155,12 +155,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 5574067095167738340}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: -788214902, guid: b6b9d4cc3090b6fceb2eb6438dd271f1, type: 3}
+  m_Script: {fileID: -731835049, guid: b5f268a4cb31a93ed707a95d3a502b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   _prefabName: TE_Tunnel_1.Folktails
-  _backwardCompatiblePrefabNames:
-  - TE_Tunnel_1
+  _backwardCompatiblePrefabNames: []
   _requiredFeatureToggle: 
 --- !u!114 &5884080431678456959
 MonoBehaviour:
@@ -176,6 +175,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _noAutoWalls: 0
   _generateFloorsOnStackable: 0
+  _blockAllEdges: 0
   _addedEdges:
   - _start: {x: 0, y: 0, z: 0}
     _end: {x: 0, y: -1, z: 0}
