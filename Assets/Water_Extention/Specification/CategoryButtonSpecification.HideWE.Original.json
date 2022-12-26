@@ -1,0 +1,10 @@
+{
+  "Name": "CategoryHideWE",
+  "ToolGroup": "Unused",
+  "ToolOrder": 1,
+  "ButtonIcon": "Unused_WE.png",
+  "Buildings": [
+    "IrrigationTower.Folktails"
+  ],
+  "DisplayNameLocKey": "Knatte.CategoryHideWE.DisplayName"
+}

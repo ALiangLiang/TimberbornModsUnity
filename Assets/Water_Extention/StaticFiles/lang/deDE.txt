@@ -21,6 +21,8 @@ Knatte.CategoryPipe.Description,Rohrleitungen die oberirdisch verlegt werden.,-
 Knatte.CategoryPipeU.DisplayName,Unterirdische Rohrleitungen,-
 Knatte.CategoryPipeU.Description,Rohrleitungen die unterirdisch verlegt werden.,-
 
+Knatte.CategoryHideWE.DisplayName,Unused Water Extention,-
+
 Knatte.Pipe1X.DisplayName,Rohrleitung 1x,-
 Knatte.Pipe1X.Description,"Zwei Deiche mit einem Eingangs-/Ausgangsrohr. Einer der Deiche muss mit Energie versorgt werden, diese wird aber weitergeleitet.",-
 

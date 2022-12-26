@@ -144,6 +144,10 @@ In case you experience problems or have any feedback, message us in the modding 
 
 ## Changelog
 
+### 0.3.5 - 2022-12-21
+
+- Add Banner for stored goods in InIndustrial Water Tank
+
 ### 0.3.4 - 2022-12-17
 
 - Update for Update 3

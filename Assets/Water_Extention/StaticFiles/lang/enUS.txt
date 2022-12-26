@@ -21,6 +21,9 @@ Knatte.CategoryPipe.Description,Pipes that go overground,-
 Knatte.CategoryPipeU.DisplayName,Underground Pipes,-
 Knatte.CategoryPipeU.Description,Pipes that need to go underground at the bend,-
 
+Knatte.CategoryHideWE.DisplayName,Unused Water Extention,-
+
+
 Knatte.Pipe1X.DisplayName,Pipe Outlet,-
 Knatte.Pipe1X.Description,Two Levees and a input and output pipe. Leeve need to be powered but also act as transfer,-
 

@@ -21,6 +21,8 @@ Knatte.CategoryPipe.Description,橋のように谷を超えられる水道管。
 Knatte.CategoryPipeU.DisplayName,埋設水道管,-
 Knatte.CategoryPipeU.Description,曲がって地中に埋められる水道管。,-Pipes that need to go underground at the bend
 
+Knatte.CategoryHideWE.DisplayName,Unused Water Extention,-
+
 Knatte.Pipe1X.DisplayName,放水口,-Pipe Outlet
 Knatte.Pipe1X.Description,入力側と出力側がある。堤防に動力を繋げれば、入力側から出力側に水を移動させる。,-Two Levees and a input and output pipe. Leeve need to be powered but also act as transfer
 
