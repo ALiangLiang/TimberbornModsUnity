@@ -3,6 +3,10 @@ Knatte.WaterAlarm.DisplayName,Water Alarm,-
 Knatte.WaterAlarm.Description,A combined Streamgauge and Water Alarm that will give a warning if it has no water.,-
 Knatte.WaterAlarm.FlavorDescription,Ring Ring
 
+Knatte.StreamGauge11.DisplayName,WIP Stream Gauge 11 High,-
+Knatte.StreamGauge11.Description,A Big Streamgauge. New Model to follow.,-
+Knatte.StreamGauge.FlavorDescription,Mario Jump
+
 Knatte.MetalFloodgate.DisplayName,Metal Flood gate,-
 Knatte.MetalFloodgate.Description,Bigger better Flood gate that can be stacked stuff on top,-
 

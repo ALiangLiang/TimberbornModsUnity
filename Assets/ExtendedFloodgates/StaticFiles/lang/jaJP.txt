@@ -1,6 +1,12 @@
 ID,Text,Comment
 Knatte.WaterAlarm.DisplayName,水位警報機,-
 Knatte.WaterAlarm.Description,水が干上がったときに警告を発する量水標。,-
+Knatte.WaterAlarm.FlavorDescription,Ring Ring, UnTranslated
+
+Knatte.StreamGauge11.DisplayName,WIP Stream Gauge 11 High, UnTranslated
+Knatte.StreamGauge11.Description,A Big Streamgauge. New Model to follow., UnTranslated
+Knatte.StreamGauge.FlavorDescription,Mario Jump, UnTranslated
+
 Knatte.MetalFloodgate.DisplayName,金属製の水門,-
 Knatte.MetalFloodgate.Description,より大きな、上に足場を積める水門。,-
 

@@ -24,6 +24,10 @@ In case you experience problems, message me in the modding channel of the the [T
 
 ## Changelog
 
+### 0.7.6 - 2022-12-22
+
+- Added WIP building StreamGauge 11 High
+
 ### 0.7.5 - 2022-12-16
 
 - Fix Update 3 support

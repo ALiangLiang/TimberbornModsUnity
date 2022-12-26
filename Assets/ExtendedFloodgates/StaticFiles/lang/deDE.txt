@@ -1,6 +1,12 @@
 ID,Text,Comment
 Knatte.WaterAlarm.DisplayName,Wasseralarm,-
 Knatte.WaterAlarm.Description,Eine kombinierte Wasserströmungsanzeige und Wasseralarm der warnt falls kein Wasser vorhanden ist.,-
+Knatte.WaterAlarm.FlavorDescription,Ring Ring, UnTranslated
+
+Knatte.StreamGauge11.DisplayName,WIP Stream Gauge 11 High, UnTranslated
+Knatte.StreamGauge11.Description,A Big Streamgauge. New Model to follow., UnTranslated
+Knatte.StreamGauge.FlavorDescription,Mario Jump, UnTranslated
+
 Knatte.MetalFloodgate.DisplayName,Metallschleuse,-
 Knatte.MetalFloodgate.Description,"Höhere, bessere Schleuse die überbaut werden kann.",-
 

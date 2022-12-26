@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 316d545c355028b40b1f3a825233bce2
+guid: 3398bc9d1f3d65a4094deff97a467d31
 TextureImporter:
   internalIDToNameTable:
   - first:
       213: 21300000
-    second: StreamGaugeIcon
+    second: WaterAlarmIcon
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -107,7 +107,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: StreamGaugeIcon
+      name: WaterAlarmIcon
       rect:
         serializedVersion: 2
         x: 4.026751

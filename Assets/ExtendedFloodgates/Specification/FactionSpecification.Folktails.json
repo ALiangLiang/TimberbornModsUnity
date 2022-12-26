@@ -1,6 +1,7 @@
 {
   "CommonBuildings": [
     "knatte.floodgates/knatte_floodgates/WaterAlarm.Folktails",
+	"knatte.floodgates/knatte_floodgates/StreamGauge_11.Folktails",
 	
 	"knatte.floodgates/knatte_floodgates/MetalFloodgate2.Folktails",
 	"knatte.floodgates/knatte_floodgates/MetalFloodgate3.Folktails",
