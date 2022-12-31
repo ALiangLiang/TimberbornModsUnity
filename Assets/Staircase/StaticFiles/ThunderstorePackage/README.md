@@ -1,5 +1,9 @@
 # Staircase
 
+Mod moved to Mod.io
+[https://mod.io/g/timberborn/m/staircase](https://mod.io/g/timberborn/m/staircase)
+See [https://mod.io/g/timberborn/m/mod-manager](https://mod.io/g/timberborn/m/mod-manager) how to install ModManager 
+
 This mod adds two new staircases to the game. These will let your beavers go up and right or left instead of just going straight.
 
 ## Collaboration

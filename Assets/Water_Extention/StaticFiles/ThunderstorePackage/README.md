@@ -1,5 +1,9 @@
 # Water Extention
 
+Mod moved to Mod.io
+[https://mod.io/g/timberborn/m/water-extention](https://mod.io/g/timberborn/m/water-extention)
+See [https://mod.io/g/timberborn/m/mod-manager](https://mod.io/g/timberborn/m/mod-manager) how to install ModManager 
+
 This is a collection of Water buildings that Extends the uses.
 
 ## Disclaimer!

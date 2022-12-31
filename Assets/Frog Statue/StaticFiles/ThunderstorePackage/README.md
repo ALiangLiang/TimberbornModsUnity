@@ -1,5 +1,9 @@
 # Frog Statue
 
+Mod moved to Mod.io
+[https://mod.io/g/timberborn/m/frogstatue](https://mod.io/g/timberborn/m/frogstatue)
+See [https://mod.io/g/timberborn/m/mod-manager](https://mod.io/g/timberborn/m/mod-manager) how to install ModManager 
+
 This mod adds a Frog Statue to the game. 
 that will increase the water handling speed and farming speed
 

@@ -1,5 +1,9 @@
 # Extended Floodgate
 
+Mod moved to Mod.io
+[https://mod.io/g/timberborn/m/extended-floodgates](https://mod.io/g/timberborn/m/extended-floodgates)
+See [https://mod.io/g/timberborn/m/mod-manager](https://mod.io/g/timberborn/m/mod-manager) how to install ModManager 
+
 This mod will allow you to build Higher Metal Floodgates (4-10 High) and more advance WaterAlarms that also act as Streamgauge.  
 
 ## Disclaimer!

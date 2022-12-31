@@ -1,8 +1,8 @@
 {
   "name": "ExtendedFloodgate",
-  "version_number": "0.7.6",
+  "version_number": "0.7.7",
   "website_url": "https://github.com/KnatteAnka/KATimberbornModsUnity",
-  "description": "A collection of Floodgates and accessories",
+  "description": "Moved to Mod.io See Decription!, A collection of Floodgates and accessories",
   "dependencies": [
     "BepInEx-BepInExPack_Timberborn-5.4.19",
     "Timberborn_Central-TimberAPI-0.5.3"

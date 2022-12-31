@@ -1,5 +1,9 @@
 # Path Extention
 
+Mod moved to Mod.io
+[https://mod.io/g/timberborn/m/path-extention](https://mod.io/g/timberborn/m/path-extention)
+See [https://mod.io/g/timberborn/m/mod-manager](https://mod.io/g/timberborn/m/mod-manager) how to install ModManager 
+
 This is a collection of buildings that Extends how far you get with Paths.
 
 ## Disclaimer!
