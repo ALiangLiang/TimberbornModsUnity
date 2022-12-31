@@ -140,12 +140,11 @@ MonoBehaviour:
     _amount: 34
   - _goodId: Log
     _amount: 4
-  _scienceCost: 850
+  _scienceCost: 450
   _placeFinished: 0
   _finishableWithBeaversOnSite: 0
   _path: 0
   _drawRangeBoundsOnIt: 0
-  _hasNoRoof: 0
 --- !u!114 &-7649065410785155790
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -190,6 +189,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _noAutoWalls: 0
   _generateFloorsOnStackable: 1
+  _blockAllEdges: 0
   _addedEdges: []
 --- !u!114 &5829348106573228464
 MonoBehaviour:
@@ -265,7 +265,7 @@ MonoBehaviour:
   _displayNameLocKey: Knatte.Square2W.DisplayName
   _descriptionLocKey: Knatte.SquareW.Description
   _flavorDescriptionLocKey: Knatte.SquareW.FlavorDescription
-  _image: {fileID: 21300000, guid: a6fc355356e69184c944ddab38091cc0, type: 3}
+  _image: {fileID: 21300000, guid: bd029941d1b16fc449a7565785989c0c, type: 3}
 --- !u!114 &-8726437569665399324
 MonoBehaviour:
   m_ObjectHideFlags: 0

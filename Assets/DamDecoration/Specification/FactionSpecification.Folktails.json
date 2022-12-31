@@ -35,6 +35,13 @@
 
 
 	"knatte.damdecoration/knatte_damdecoration/DD_SlopeStairs.Folktail",
-	"knatte.damdecoration/knatte_damdecoration/DD_DiagPath.Folktail"
+	"knatte.damdecoration/knatte_damdecoration/DD_DiagPath.Folktail",
+	
+	"knatte.damdecoration/knatte_damdecoration/DD_SquareW1x2.Folktail",
+    "knatte.damdecoration/knatte_damdecoration/DD_SquareW2x1.Folktail",
+    "knatte.damdecoration/knatte_damdecoration/DD_SquareW1x3.Folktail",
+    "knatte.damdecoration/knatte_damdecoration/DD_SquareW3x1.Folktail",
+    "knatte.damdecoration/knatte_damdecoration/DD_SquareW2x3.Folktail",
+    "knatte.damdecoration/knatte_damdecoration/DD_SquareW3x2.Folktail"
   ]
 }

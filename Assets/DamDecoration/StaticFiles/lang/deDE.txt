@@ -44,6 +44,13 @@ Knatte.Square3W.DisplayName,Deich 3x3
 Knatte.SquareW.Description,"Verdeicht, lass es groß sein."
 Knatte.SquareW.FlavorDescription,Blockiert jeglichen Wasserzufluss.,-
 
+Knatte.SquareW1x2.DisplayName,Deich 1x2
+Knatte.SquareW1x3.DisplayName,Deich 1x3
+Knatte.SquareW2x1.DisplayName,Deich 2x1
+Knatte.SquareW2x3.DisplayName,Deich 2x3
+Knatte.SquareW3x1.DisplayName,Deich 3x1
+Knatte.SquareW3x2.DisplayName,Deich 3x2
+
 Knatte.HighDam.DisplayName,Hoher Damm
 Knatte.HighDam.Description,"Blockiert Wasser, lässt aber bei Bedarf eine geringere Menge durch einen Überlauf hindurch.\r\nHöheres Risiko von Überschwemmungen!"
 Knatte.HighDam.FlavorDescription,Blockiert fast jeglichen Wasserzufluss.,-

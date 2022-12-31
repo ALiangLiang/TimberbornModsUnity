@@ -1,5 +1,10 @@
 # Dam Decoration
 
+Mod moved to Mod.io
+[https://mod.io/g/timberborn/m/dam-decoration](https://mod.io/g/timberborn/m/dam-decoration)
+See [https://mod.io/g/timberborn/m/mod-manager](https://mod.io/g/timberborn/m/mod-manager) how to install ModManager 
+
+
 This mod adds a Some Dam Decoration parts to the game. 
 
 
@@ -32,6 +37,10 @@ In case you experience problems or have any feedback, message us in the modding 
 Diagonal piece with Side platform is possible Thanks to Tobbert and his [MorePlatforms](https://timberborn.thunderstore.io/package/Tobbert/MorePlatforms/)
 
 ## Changelog
+
+### 1.7.0 - 2022-12-26
+
+- Added 6 new Levees to each faction
 
 ### 1.6.2 - 2022-12-16
 

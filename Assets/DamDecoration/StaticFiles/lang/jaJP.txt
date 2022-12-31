@@ -44,6 +44,13 @@ Knatte.Square3W.DisplayName,堤防 3x3,Levee 3x3
 Knatte.SquareW.Description,ダムを大きくしよう。,Dam let it be big
 Knatte.SquareW.FlavorDescription,ダム飾りと違って水を通さない。,Water will not Pass
 
+Knatte.SquareW1x2.DisplayName,堤防 1x2
+Knatte.SquareW1x3.DisplayName,堤防 1x3
+Knatte.SquareW2x1.DisplayName,堤防 2x1
+Knatte.SquareW2x3.DisplayName,堤防 2x3
+Knatte.SquareW3x1.DisplayName,堤防 3x1
+Knatte.SquareW3x2.DisplayName,堤防 3x2
+
 Knatte.HighDam.DisplayName,満杯ダム,High Dam
 Knatte.HighDam.Description,水をせき止めるが、上部の放水口からいくらか（水位がx.85になるように）放水する。\r\n洪水が起きやすいので注意！,デフォルトのダムの説明文と対応している。Blocks water but allows less(85%) to pass through a spillway at the top.\r\nHigher risk of floods!
 Knatte.HighDam.FlavorDescription,水をせき止める。,Water will not Pass

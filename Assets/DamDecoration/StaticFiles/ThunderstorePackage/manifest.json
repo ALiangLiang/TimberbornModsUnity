@@ -1,8 +1,8 @@
 {
   "name": "DamDecoration",
-  "version_number": "1.6.2",
+  "version_number": "1.7.1",
   "website_url": "https://github.com/KnatteAnka/KATimberbornModsUnity",
-  "description": "Adds a some Dam Decorations, To beautify the Dam, Most don't act as Leeves! only Decoration",
+  "description": "Moved to Mod.io See Decription!, Adds a some Dam Decorations, To beautify the Dam, Most don't act as Leeves! only Decoration",
   "dependencies": [
     "BepInEx-BepInExPack_Timberborn-5.4.19",
     "Timberborn_Central-TimberAPI-0.5.3",

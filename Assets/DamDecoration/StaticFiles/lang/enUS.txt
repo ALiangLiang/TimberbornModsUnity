@@ -44,6 +44,14 @@ Knatte.Square3W.DisplayName,Levee 3x3
 Knatte.SquareW.Description,Dam let it be big
 Knatte.SquareW.FlavorDescription,Water will not Pass,-
 
+Knatte.SquareW1x2.DisplayName,Levee 1x2
+Knatte.SquareW1x3.DisplayName,Levee 1x3
+Knatte.SquareW2x1.DisplayName,Levee 2x1
+Knatte.SquareW2x3.DisplayName,Levee 2x3
+Knatte.SquareW3x1.DisplayName,Levee 3x1
+Knatte.SquareW3x2.DisplayName,Levee 3x2
+
+
 Knatte.HighDam.DisplayName,High Dam
 Knatte.HighDam.Description,Blocks water but allows less(85%) to pass through a spillway at the top.\r\nHigher risk of floods!
 Knatte.HighDam.FlavorDescription,Water will not Pass,-
