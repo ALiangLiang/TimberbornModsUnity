@@ -10,15 +10,15 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: a3695521163bdd74fa2845bbd3438240, type: 3}
-  m_Name: SteamBepInExLaunch
+  m_Name: Pipeline
   m_EditorClassIdentifier: 
   Data:
-  - {fileID: 114525731783530820}
+  - {fileID: 6928945852547698634}
   QuickAccess: 0
-  manifest: {fileID: 11400000, guid: 664afe1b83bf27a44bf805bf1a2fa1b9, type: 2}
---- !u!114 &114525731783530820
+  manifest: {fileID: 11400000, guid: 371ae0b4e688824459366444dd530e02, type: 2}
+--- !u!114 &6928945852547698634
 MonoBehaviour:
-  m_ObjectHideFlags: 1
+  m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -29,9 +29,7 @@ MonoBehaviour:
   m_Name: ExecuteProcess
   m_EditorClassIdentifier: 
   Active: 1
-  workingDirectory: <BepInExPackDestination>
-  executable: <Steam.exe>
+  workingDirectory: <DeleteZipPath>
+  executable: DeleteZipAndMeta.bat
   arguments:
-  - -applaunch 1062090
-  - --doorstop-enable true
-  - --doorstop-target "<PWD>/<BepInEx.Preloader.dll>"
+  - <PWD>/<StagingRoot>
