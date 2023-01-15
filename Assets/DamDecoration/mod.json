@@ -1,9 +1,9 @@
 {
     "Name": "DamDecoration",
-    "Version": "1.7.0",
+    "Version": "1.7.3",
     "UniqueId": "knatte.damdecoration",
     "MinimumApiVersion": "0.5.3",
-    "MinimumGameVersion": "0.3.4.3",
+    "MinimumGameVersion": "0.3.5.0",
     "Assets": [
       {
         "Prefix": "knatte.damdecoration",

@@ -1,5 +1,19 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-5671012496719646137
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b243ff405b33b94dbf5b6775dd9aa33, type: 3}
+  m_Name: Files
+  m_EditorClassIdentifier: 
+  StagingPaths: []
+  files: []
 --- !u!114 &-3931462110823901632
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -17,7 +31,7 @@ MonoBehaviour:
   Author: KnatteAnka
   Name: DamDecoration
   Description: DamDecoration
-  Version: 1.5.0
+  Version: 1.7.3
   Dependencies: []
 --- !u!114 &-1800585617083543040
 MonoBehaviour:
@@ -33,7 +47,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   StagingPaths:
   - <ManifestPluginStaging>
-  - <ThunderstorePackage>/<ManifestName>/plugins
   definitions:
   - {fileID: 5897886265953266890, guid: 5f40521e6b07195449639ec7e2ba04c1, type: 3}
 --- !u!114 &11400000
@@ -54,8 +67,8 @@ MonoBehaviour:
   - {fileID: 9120418034178625098}
   - {fileID: 2947335489894918452}
   - {fileID: 2590189338767857166}
-  - {fileID: 7276679206402820566}
   - {fileID: 7788702448107751720}
+  - {fileID: -5671012496719646137}
   identity: {fileID: -3931462110823901632}
   QuickAccess: 1
 --- !u!114 &2590189338767857166
@@ -72,7 +85,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   StagingPaths:
   - <ManifestPluginStaging>/assets
-  - <ThunderstorePackage>/<ManifestName>/plugins/assets
   assetBundles:
   - assetBundleName: Knatte_DamDecoration
     assets:
@@ -125,7 +137,7 @@ MonoBehaviour:
     - {fileID: 5574067095167738340, guid: 1e0ddb5e06accf240aeddcb566f20fce, type: 3}
     - {fileID: 5574067095167738340, guid: 5e3bf097f93a9034a8eaef835dba1732, type: 3}
     - {fileID: 5574067095167738340, guid: ff375f356e2fb3349a6ede647a91532a, type: 3}
-    - {fileID: 5574067095167738340, guid: 8cf7bebb294e30d42b1c47079d5e1444, type: 3}
+    - {fileID: 5574067095167738340, guid: 3926102af3f2a75478493165a826293b, type: 3}
     - {fileID: 5574067095167738340, guid: 4ee7b5206db9339408f1cd35477ef5dd, type: 3}
     - {fileID: 5574067095167738340, guid: 655b54fee387c244a8d2a3b37714fb5a, type: 3}
     - {fileID: 5574067095167738340, guid: 082eb2f432c74f445906ea4e7969cdc9, type: 3}
@@ -153,6 +165,14 @@ MonoBehaviour:
     - {fileID: 5574067095167738340, guid: eca991c6f4b306e4e9ac06d5a1e8bfe4, type: 3}
     - {fileID: 5574067095167738340, guid: 514493636924536439f896483429e9d5, type: 3}
     - {fileID: 5574067095167738340, guid: cbdd0917bd3093f4e9796698e1a8c6d4, type: 3}
+    - {fileID: 5574067095167738340, guid: 34a164e31dcc4884c9a1639ba6365fbc, type: 3}
+    - {fileID: 5574067095167738340, guid: 8cf7bebb294e30d42b1c47079d5e1444, type: 3}
+    - {fileID: 5574067095167738340, guid: 2e7855224bdf6b842862aa11c00d3305, type: 3}
+    - {fileID: 5574067095167738340, guid: 9c529017d5ca8c445ba391071a7da546, type: 3}
+    - {fileID: 5574067095167738340, guid: cc58eead92c41094cb5edd65b2f913b6, type: 3}
+    - {fileID: 5574067095167738340, guid: 6f8ac7b0e03e8f741bde635eb87a36e0, type: 3}
+    - {fileID: 5574067095167738340, guid: fb822144f3192704d8de9a7890878613, type: 3}
+    - {fileID: 5574067095167738340, guid: 849579c91be09a448a9ecee2050df676, type: 3}
 --- !u!114 &2947335489894918452
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -167,27 +187,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   StagingPaths:
   - <ManifestPluginStaging>/assets
-  - <ThunderstorePackage>/<ManifestName>/plugins/assets
   files:
   - {fileID: 102900000, guid: 641246a7de807084882b27f6a8faa573, type: 3}
---- !u!114 &7276679206402820566
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4b243ff405b33b94dbf5b6775dd9aa33, type: 3}
-  m_Name: Files
-  m_EditorClassIdentifier: 
-  StagingPaths:
-  - <ThunderstorePackage>
-  files:
-  - {fileID: 2800000, guid: 98bdd8c0d764e984996746b156d234b9, type: 3}
-  - {fileID: 4900000, guid: 89c6ca4cbec73d84696276f60c0bc034, type: 3}
-  - {fileID: 4900000, guid: c416f57f3211fce438479c3005685a45, type: 3}
 --- !u!114 &7788702448107751720
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -202,7 +203,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   StagingPaths:
   - <ManifestPluginStaging>/Specifications
-  - <ThunderstorePackage>/<ManifestName>/plugins/Specifications
   files:
   - {fileID: 4900000, guid: cb44660ab3474cd419ebd501f73fb33b, type: 3}
   - {fileID: 4900000, guid: a2527895a77ea154da389410fd9ed44d, type: 3}
@@ -223,7 +223,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   StagingPaths:
   - <ManifestPluginStaging>/
-  - <ThunderstorePackage>/<ManifestName>/plugins/
   files:
   - {fileID: 102900000, guid: c0945caf9a5c620459684dc205f8d770, type: 3}
   - {fileID: 4900000, guid: 04b05fa93d8590846879abf400afd325, type: 3}

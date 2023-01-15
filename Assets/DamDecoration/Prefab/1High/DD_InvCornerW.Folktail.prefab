@@ -139,7 +139,7 @@ MonoBehaviour:
   _buildingCost:
   - _goodId: Log
     _amount: 10
-  _scienceCost: 200
+  _scienceCost: 130
   _placeFinished: 0
   _finishableWithBeaversOnSite: 0
   _path: 0
@@ -188,6 +188,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _noAutoWalls: 0
   _generateFloorsOnStackable: 1
+  _blockAllEdges: 0
   _addedEdges:
   - _start: {x: 0, y: 0, z: 0}
     _end: {x: -1, y: 0, z: 0}
@@ -284,6 +285,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _noAutoWalls: 0
   _generateFloorsOnStackable: 1
+  _blockAllEdges: 0
   _addedEdges: []
 --- !u!114 &7735679501854572773
 MonoBehaviour:

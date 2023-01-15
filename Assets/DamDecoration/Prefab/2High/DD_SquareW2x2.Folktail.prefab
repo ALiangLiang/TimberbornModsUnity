@@ -140,7 +140,7 @@ MonoBehaviour:
     _amount: 34
   - _goodId: Log
     _amount: 4
-  _scienceCost: 450
+  _scienceCost: 285
   _placeFinished: 0
   _finishableWithBeaversOnSite: 0
   _path: 0

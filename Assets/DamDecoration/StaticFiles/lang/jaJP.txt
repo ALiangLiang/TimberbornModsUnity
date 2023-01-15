@@ -51,6 +51,7 @@ Knatte.SquareW2x3.DisplayName,堤防 2x3
 Knatte.SquareW3x1.DisplayName,堤防 3x1
 Knatte.SquareW3x2.DisplayName,堤防 3x2
 
+
 Knatte.HighDam.DisplayName,満杯ダム,High Dam
 Knatte.HighDam.Description,水をせき止めるが、上部の放水口からいくらか（水位がx.85になるように）放水する。\r\n洪水が起きやすいので注意！,デフォルトのダムの説明文と対応している。Blocks water but allows less(85%) to pass through a spillway at the top.\r\nHigher risk of floods!
 Knatte.HighDam.FlavorDescription,水をせき止める。,Water will not Pass
@@ -124,6 +125,10 @@ Knatte.StaircasePillar.FlavorDescription,,			Untranslated
 Knatte.PillarTop.DisplayName,カスタム柱の足場,Custom Pillar Top他候補:踊り場の足場
 Knatte.PillarTop.Description,カスタマイズした柱や飾り用の足場。\r\n螺旋階段と組み合わせれば、柱を隠しつつ螺旋階段を積み重ねることができる。,Top part for Custom pillars or Decoration pieces\r\nCan be combined with Staircase to hide them but get stackable.
 
+Knatte.StaircasePlatform.DisplayName,Platform 2x2,			Untranslated
+Knatte.StaircasePlatform.Description, Platform with a big log in the middle,			Untranslated
+Knatte.StaircasePlatform.FlavorDescription,,			Untranslated
+
 Knatte.SlopeS.DisplayName,ダム飾り付き階段,-
 Knatte.SlopeS.Description,ダムに階段をつけよう。,-
 Knatte.SlopeS.FlavorDescription,注意！水はせき止めない。,-
@@ -140,3 +145,14 @@ Knatte.CategoryLevees.Des,水をせき止める。,Does Block Water
 
 Knatte.CategoryPillar.DisplayName,Pillars and Pilar Top,-				Untranslated
 Knatte.CategoryPillar.Des,Let it Rise,-							Untranslated
+
+
+
+Knatte.DoubleInvSlope.DisplayName,[WIP]Double Inverted Slope,                   Untranslated
+Knatte.DoubleInvSlope.Description,Levee and inverted Slope Combo,               Untranslated
+Knatte.DoubleInvSlope.FlavorDescription,Lets build an Bridge,                   Untranslated
+
+Knatte.Square1x2.DisplayName,Decoration Cube 1x2,                               Untranslated
+Knatte.Square1x3.DisplayName,Decoration Cube 1x3,                               Untranslated
+Knatte.Square_B.Description,Square that can stick out but does not block water.,Untranslated
+Knatte.Square_B.FlavorDescription,,                                             Untranslated

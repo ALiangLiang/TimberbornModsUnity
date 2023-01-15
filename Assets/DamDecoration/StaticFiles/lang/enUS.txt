@@ -125,6 +125,10 @@ Knatte.StaircasePillar.FlavorDescription,,			Untranslated
 Knatte.PillarTop.DisplayName,Pillar Top
 Knatte.PillarTop.Description,Top part for Custom pillars or Decoration pieces\r\nCan be combined with Staircase to hide them but get stackable.
 
+Knatte.StaircasePlatform.DisplayName,Platform 2x2,			Untranslated
+Knatte.StaircasePlatform.Description,Platform with a big log in the middle,			Untranslated
+Knatte.StaircasePlatform.FlavorDescription,,			Untranslated
+
 Knatte.SlopeS.DisplayName,Decoration Stair,-
 Knatte.SlopeS.Description,Let the Dam be Stepped on.,-
 Knatte.SlopeS.FlavorDescription,Does not Block Water,-
@@ -141,3 +145,14 @@ Knatte.CategoryLevees.Des,Does Block Water,-
 
 Knatte.CategoryPillar.DisplayName,Pillars and Pilar Top,-
 Knatte.CategoryPillar.Des,Let it Rise,-
+
+
+
+Knatte.DoubleInvSlope.DisplayName,[WIP]Double Inverted Slope,                   Untranslated
+Knatte.DoubleInvSlope.Description,Levee and inverted Slope Combo,               Untranslated
+Knatte.DoubleInvSlope.FlavorDescription,Lets build an Bridge,                   Untranslated
+
+Knatte.Square1x2.DisplayName,Decoration Cube 1x2,                               Untranslated
+Knatte.Square1x3.DisplayName,Decoration Cube 1x3,                               Untranslated
+Knatte.Square_B.Description,Square that can stick out but does not block water.,Untranslated
+Knatte.Square_B.FlavorDescription,,                                             Untranslated

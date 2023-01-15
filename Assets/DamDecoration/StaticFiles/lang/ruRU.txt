@@ -51,6 +51,7 @@ Knatte.SquareW2x3.DisplayName,Дамба 2x3
 Knatte.SquareW3x1.DisplayName,Дамба 3x1
 Knatte.SquareW3x2.DisplayName,Дамба 3x2
 
+
 Knatte.HighDam.DisplayName,"Высокая плотина"
 Knatte.HighDam.Description,"Задерживает воду, но пропускает часть выше (85%) через водосброс сверху.\r\nПовышенный риск затопления!"
 Knatte.HighDam.FlavorDescription,"Вода, ты не пройдёшь!",-
@@ -124,6 +125,10 @@ Knatte.StaircasePillar.FlavorDescription,,			Untranslated
 Knatte.PillarTop.DisplayName,"Перекрытие"
 Knatte.PillarTop.Description,"Перекрытие для размещения на столбах.\nМожет служить скрытой опорой для винтовой лестницы."
 
+Knatte.StaircasePlatform.DisplayName,Platform 2x2,			Untranslated
+Knatte.StaircasePlatform.Description, Platform with a big log in the middle,			Untranslated
+Knatte.StaircasePlatform.FlavorDescription,,			Untranslated
+
 Knatte.SlopeS.DisplayName,"Блок с лестницей",-
 Knatte.SlopeS.Description,"Для доступа на плотину.",-
 Knatte.SlopeS.FlavorDescription,"Не останавливает воду",-
@@ -140,3 +145,14 @@ Knatte.CategoryLevees.Des,"Останавливают воду",-
 
 Knatte.CategoryPillar.DisplayName,"Опоры и перекрытия",-
 Knatte.CategoryPillar.Des,"Отдельностоящие опоры и перекрытия.\nКак платформы, но по частям.",-
+
+
+
+Knatte.DoubleInvSlope.DisplayName,[WIP]Double Inverted Slope,                   Untranslated
+Knatte.DoubleInvSlope.Description,Levee and inverted Slope Combo,               Untranslated
+Knatte.DoubleInvSlope.FlavorDescription,Lets build an Bridge,                   Untranslated
+
+Knatte.Square1x2.DisplayName,Decoration Cube 1x2,                               Untranslated
+Knatte.Square1x3.DisplayName,Decoration Cube 1x3,                               Untranslated
+Knatte.Square_B.Description,Square that can stick out but does not block water.,Untranslated
+Knatte.Square_B.FlavorDescription,,                                             Untranslated

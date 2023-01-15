@@ -51,6 +51,7 @@ Knatte.SquareW2x3.DisplayName,Deich 2x3
 Knatte.SquareW3x1.DisplayName,Deich 3x1
 Knatte.SquareW3x2.DisplayName,Deich 3x2
 
+
 Knatte.HighDam.DisplayName,Hoher Damm
 Knatte.HighDam.Description,"Blockiert Wasser, lässt aber bei Bedarf eine geringere Menge durch einen Überlauf hindurch.\r\nHöheres Risiko von Überschwemmungen!"
 Knatte.HighDam.FlavorDescription,Blockiert fast jeglichen Wasserzufluss.,-
@@ -124,6 +125,10 @@ Knatte.StaircasePillar.FlavorDescription,,
 Knatte.PillarTop.DisplayName,Pfeilerplattform
 Knatte.PillarTop.Description,Plattform für Pfeiler und Dekorationen.\r\nKann mit Wendeltreppen kombiniert werden und macht diese stapelbar.,
 
+Knatte.StaircasePlatform.DisplayName,Plattform 2x2,
+Knatte.StaircasePlatform.Description,Plattform mit dickem Pfeiler in der Mitte,
+Knatte.StaircasePlatform.FlavorDescription,,
+
 Knatte.SlopeS.DisplayName,Dekoration Treppe,-
 Knatte.SlopeS.Description,Verpassen wir dem Deich Treppen.,-
 Knatte.SlopeS.FlavorDescription,Blockiert kein Wasser.,-
@@ -140,3 +145,14 @@ Knatte.CategoryLevees.Des,"Blockiert (mal ganz, mal mehr, mal weniger)\r\nden Wa
 
 Knatte.CategoryPillar.DisplayName,Pfeiler und Pfeilerplattform,-
 Knatte.CategoryPillar.Des,Lass es höher werden.,-
+
+
+
+Knatte.DoubleInvSlope.DisplayName,[WIP]Double Inverted Slope,                   Untranslated
+Knatte.DoubleInvSlope.Description,Levee and inverted Slope Combo,               Untranslated
+Knatte.DoubleInvSlope.FlavorDescription,Lets build an Bridge,                   Untranslated
+
+Knatte.Square1x2.DisplayName,Decoration Cube 1x2,                               Untranslated
+Knatte.Square1x3.DisplayName,Decoration Cube 1x3,                               Untranslated
+Knatte.Square_B.Description,Square that can stick out but does not block water.,Untranslated
+Knatte.Square_B.FlavorDescription,,                                             Untranslated

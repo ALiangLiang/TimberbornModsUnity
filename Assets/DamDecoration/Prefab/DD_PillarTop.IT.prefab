@@ -124,7 +124,7 @@ MonoBehaviour:
     _amount: 1
   - _goodId: Plank
     _amount: 4
-  _scienceCost: 800
+  _scienceCost: 200
   _placeFinished: 0
   _finishableWithBeaversOnSite: 0
   _path: 0
@@ -173,6 +173,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _noAutoWalls: 0
   _generateFloorsOnStackable: 0
+  _blockAllEdges: 0
   _addedEdges:
   - _start: {x: 0, y: 0, z: 1}
     _end: {x: -1, y: 0, z: 1}

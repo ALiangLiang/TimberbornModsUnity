@@ -11,6 +11,7 @@
 	"DD_Pillar_2.Folktail",
 	"DD_Pillar_3.Folktail",
 	"DD_PillarTop.Folktail",
+	"DD_StaircasePlatform.Folktail",
 
     "DD_Pillar.IT",
 	"DD_Pillars.IT",
@@ -18,7 +19,8 @@
 	"DD_Pillar_1.IT",
 	"DD_Pillar_2.IT",
 	"DD_Pillar_3.IT",
-	"DD_PillarTop.IT"
+	"DD_PillarTop.IT",
+	"DD_StaircasePlatform.IT"
   ],
   "DisplayNameLocKey": "Knatte.CategoryPillar.DisplayName",
   "DescriptionLocKey": "Knatte.CategoryPillar.Des"

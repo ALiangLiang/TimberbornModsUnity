@@ -42,6 +42,12 @@
     "knatte.damdecoration/knatte_damdecoration/DD_SquareW1x3.IT",
     "knatte.damdecoration/knatte_damdecoration/DD_SquareW3x1.IT",
     "knatte.damdecoration/knatte_damdecoration/DD_SquareW2x3.IT",
-    "knatte.damdecoration/knatte_damdecoration/DD_SquareW3x2.IT"
+    "knatte.damdecoration/knatte_damdecoration/DD_SquareW3x2.IT",
+	
+	"knatte.damdecoration/knatte_damdecoration/DD_StaircasePlatform.IT",
+
+	"knatte.damdecoration/knatte_damdecoration/DD_Square1x2.IT",
+	"knatte.damdecoration/knatte_damdecoration/DD_Square1x3.IT",
+	"knatte.damdecoration/knatte_damdecoration/DD_DoubleInvSlope.IT"
   ]
 }
