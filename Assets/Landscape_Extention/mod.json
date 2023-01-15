@@ -1,0 +1,15 @@
+{
+    "Name": "LandScape Extention",
+    "Version": "1.0.0",
+    "UniqueId": "knatte.landscape_extention",
+    "MinimumApiVersion": "0.5.0",
+    "MinimumGameVersion": "0.3.5.0",
+    "Assets": [
+      {
+        "Prefix": "knatte.landscape_extention",
+        "Scenes": [
+          "All"
+        ]
+      }
+    ]
+  }

@@ -21,17 +21,19 @@ MonoBehaviour:
   CreatedDateFormat: MMM/dd HH:mm:ss
   ShowLogWindow: 1
   MarkdownOpenMode: 1
-  SelectedPipeline: {fileID: 11400000, guid: 4dd48049486e9ce49bfcb65be4435455, type: 2}
-  SelectedManifest: {fileID: 11400000, guid: 371ae0b4e688824459366444dd530e02, type: 2}
+  SelectedPipeline: {fileID: 11400000, guid: ec5cb30903c8ee5409feff4889a47858, type: 2}
+  SelectedManifest: {fileID: 11400000, guid: 9f243440a6982c74292ab6ddf5073884, type: 2}
   QuickAccessPipelines:
-  - {fileID: 11400000, guid: 4dd48049486e9ce49bfcb65be4435455, type: 2}
-  - {fileID: 11400000, guid: 3931135a31857a84f8f173d770e9ce80, type: 2}
+  - {fileID: 11400000, guid: 917a1a8249d860c4ea528175a788d998, type: 2}
+  - {fileID: 11400000, guid: ec5cb30903c8ee5409feff4889a47858, type: 2}
+  - {fileID: 11400000, guid: beef774653b93b24d9461b98248168e0, type: 2}
   QuickAccessManifests:
   - {fileID: 11400000, guid: af7eb581fd1b749449e993e98ecc046f, type: 2}
   - {fileID: 11400000, guid: 371ae0b4e688824459366444dd530e02, type: 2}
   - {fileID: 11400000, guid: 8699b0f4363f6d6499b6d80760ef4fb7, type: 2}
   - {fileID: 11400000, guid: 66f0f11f6a8f0bb4797e7dd77d3850fc, type: 2}
   - {fileID: 11400000, guid: 571b06ff9b0da1a44a2f198e0abaabb3, type: 2}
+  - {fileID: 11400000, guid: 9f243440a6982c74292ab6ddf5073884, type: 2}
   - {fileID: 11400000, guid: 2fb78fa657cb2ef4ca0a1222ee01c84c, type: 2}
   - {fileID: 11400000, guid: fc36ffa2b60e76a4cbe62a5070cf4285, type: 2}
   - {fileID: 11400000, guid: 4e887fc48136d4f4fa38036beac6da59, type: 2}
