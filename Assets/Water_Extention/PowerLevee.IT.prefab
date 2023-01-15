@@ -52,6 +52,7 @@ GameObject:
   - component: {fileID: 3135244822368815334}
   - component: {fileID: 3096736205190217901}
   - component: {fileID: -4805786642450813191}
+  - component: {fileID: 7760727517312266454}
   m_Layer: 0
   m_Name: PowerLevee.IT
   m_TagString: Untagged
@@ -102,7 +103,6 @@ MonoBehaviour:
   _finishableWithBeaversOnSite: 0
   _path: 0
   _drawRangeBoundsOnIt: 0
-  _hasNoRoof: 0
 --- !u!114 &114272295494803165
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -261,6 +261,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _noAutoWalls: 0
   _generateFloorsOnStackable: 1
+  _blockAllEdges: 0
   _addedEdges:
   - _start: {x: 0, y: 0, z: 1}
     _end: {x: -1, y: 0, z: 1}
@@ -274,6 +275,25 @@ MonoBehaviour:
   - _start: {x: 0, y: 0, z: 1}
     _end: {x: 0, y: 1, z: 1}
     _isTwoWay: 0
+--- !u!114 &7760727517312266454
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1413206606640245}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -871492198, guid: c1ff95bb5ae0e8b420075ec58add6f36, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _toolGroupId: Power
+  _toolOrder: 489
+  _layout: 2
+  _customPivot:
+    _hasCustomPivot: 0
+    _coordinates: {x: 0, y: 0, z: 0}
+  _devModeTool: 0
 --- !u!1 &1491640011979906
 GameObject:
   m_ObjectHideFlags: 0

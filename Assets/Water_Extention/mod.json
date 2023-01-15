@@ -1,9 +1,9 @@
 {
     "Name": "Water Extention",
-    "Version": "0.3.5",
+    "Version": "0.3.6",
     "UniqueId": "knatte.waterextention",
     "MinimumApiVersion": "0.5.3",
-    "MinimumGameVersion": "0.3.4.3",
+    "MinimumGameVersion": "0.3.5.0",
     "Assets": [
       {
         "Prefix": "knatte.waterextention",
