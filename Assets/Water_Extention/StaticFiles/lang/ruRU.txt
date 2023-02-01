@@ -35,3 +35,10 @@ Knatte.DeepSeaPump.FlavorDescription,"Водичка со дна - закача�
 
 Knatte.BigIrrigationTower.DisplayName,"[WIP] Большая оросительная башня",-
 Knatte.BigIrrigationTower.Description,"Орошает ещё большую площадь, расходуя меньше воды.",
+Knatte.BigIrrigationTower.FlavorDescription,Drip Drip Drop.
+
+Knatte.UPowerLevee.DisplayName,Universal Powered Leeve,-                    Untranslated
+Knatte.UPowerLevee.Description,Levee that has shaft in it to power pumps.\r\n Connected to all sides,-                    Untranslated
+
+Knatte.PipeH1X.DisplayName,Pipe Outlet (H),-                    Untranslated
+Knatte.PipeH1X.Description,High Volume Pump Two Levees and a input and output pipe.\r\n Leeve need to be powered but also act as transfer,-                    Untranslated

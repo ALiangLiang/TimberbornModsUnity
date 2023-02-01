@@ -25,6 +25,6 @@
     "TE_Tunnel_9.Folktails",
     "TE_Tunnel_1L.Folktails"
   ],
-  "DisplayNameLocKey": "Knatte.CategoryTunnel.DisplayName",
-  "DescriptionLocKey": "Knatte.CategoryTunnel.Description"
+  "DisplayNameLocKey": "KnatteTobbert.CategoryTunnel.DisplayName",
+  "DescriptionLocKey": "KnatteTobbert.CategoryTunnel.Description"
 }

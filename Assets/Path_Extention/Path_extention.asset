@@ -14,7 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   StagingPaths:
   - <ManifestPluginStaging>/assets
-  - <ThunderstorePackage>/<ManifestName>/plugins/assets
   files:
   - {fileID: 102900000, guid: e873195d1b81bf64ca01b1052d727852, type: 3}
 --- !u!114 &-3931462110823901632
@@ -34,7 +33,7 @@ MonoBehaviour:
   Author: KnatteAnka
   Name: Path_Extention
   Description: Path_Extention
-  Version: 0.0.1
+  Version: 0.0.7
   Dependencies: []
 --- !u!114 &-1800585617083543040
 MonoBehaviour:
@@ -50,7 +49,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   StagingPaths:
   - <ManifestPluginStaging>
-  - <ThunderstorePackage>/<ManifestName>/plugins
   definitions:
   - {fileID: 5897886265953266890, guid: 41ee695640f521e419a584b65d7b74a7, type: 3}
 --- !u!114 &11400000
@@ -71,7 +69,6 @@ MonoBehaviour:
   - {fileID: 9120418034178625098}
   - {fileID: -6414141538032121159}
   - {fileID: 2590189338767857166}
-  - {fileID: 7276679206402820566}
   - {fileID: 7788702448107751720}
   identity: {fileID: -3931462110823901632}
   QuickAccess: 1
@@ -89,7 +86,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   StagingPaths:
   - <ManifestPluginStaging>/assets
-  - <ThunderstorePackage>/<ManifestName>/plugins/assets
   assetBundles:
   - assetBundleName: Knatte_tobbert_path_extention
     assets:
@@ -113,24 +109,16 @@ MonoBehaviour:
     - {fileID: 5574067095167738340, guid: f7d1a5422f5c15a4bbdf3f8e6e55f565, type: 3}
     - {fileID: 5574067095167738340, guid: e18481d410e21ed498c69fdfa1fbaef0, type: 3}
     - {fileID: 5574067095167738340, guid: 62193ae7888014140bcdabfee6b51d51, type: 3}
---- !u!114 &7276679206402820566
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4b243ff405b33b94dbf5b6775dd9aa33, type: 3}
-  m_Name: Files
-  m_EditorClassIdentifier: 
-  StagingPaths:
-  - <ThunderstorePackage>
-  files:
-  - {fileID: 2800000, guid: e5443d741c1bb8c4e967afcb23dd18c7, type: 3}
-  - {fileID: 4900000, guid: 1ac016f1d194a604a945c6386fb07b6b, type: 3}
-  - {fileID: 4900000, guid: d33975f727289e94592bad9996beb250, type: 3}
+    - {fileID: 5574067095167738340, guid: 81d192c1e2b026d4a8cfffcef469fca7, type: 3}
+    - {fileID: 5574067095167738340, guid: ce673a228dbfa184db254b7fa746fdc4, type: 3}
+    - {fileID: 5574067095167738340, guid: e8a16ce2dd92d884889d66388a09e1bd, type: 3}
+    - {fileID: 5574067095167738340, guid: 29293913f9429e94baec14e618633e1f, type: 3}
+    - {fileID: 5574067095167738340, guid: a390809603a40524e9c2257aa2420702, type: 3}
+    - {fileID: 5574067095167738340, guid: 1c17e31db595c8c4ea81cf1e89b7c32b, type: 3}
+    - {fileID: 5574067095167738340, guid: 0e936356552296b48b7aac8cf57c4cbf, type: 3}
+    - {fileID: 5574067095167738340, guid: 7810985e9143bc3408f6fa830a10a312, type: 3}
+    - {fileID: 5574067095167738340, guid: df03725050f3e124593d9468ad2d6058, type: 3}
+    - {fileID: 5574067095167738340, guid: cccd275da1784364c97e64cdd92bc9c6, type: 3}
 --- !u!114 &7788702448107751720
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -145,11 +133,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   StagingPaths:
   - <ManifestPluginStaging>/Specifications
-  - <ThunderstorePackage>/<ManifestName>/plugins/Specifications
   files:
   - {fileID: 4900000, guid: 5b4e4060dbcefc84cbe5c1835f925022, type: 3}
   - {fileID: 4900000, guid: 01c3be261004d8f41ab22f2b485b8dea, type: 3}
   - {fileID: 4900000, guid: 08c64d1877b19eb439b9d2818141258a, type: 3}
+  - {fileID: 4900000, guid: 9e68d9851fc1db6449d563a10c7a3e24, type: 3}
 --- !u!114 &9120418034178625098
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -164,7 +152,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   StagingPaths:
   - <ManifestPluginStaging>/
-  - <ThunderstorePackage>/<ManifestName>/plugins/
   files:
   - {fileID: 102900000, guid: ea9ec1bc5a34e7a4eba8232f2299f007, type: 3}
   - {fileID: 4900000, guid: 0eb4f635e2105614ebc24632b07088b0, type: 3}

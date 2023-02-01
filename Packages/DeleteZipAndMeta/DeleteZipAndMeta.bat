@@ -7,6 +7,6 @@ set "variable=%variable:/=\%" >>Log.txt
 echo .
 cd %variable%
 echo .
-Del /S "%variable%\*.meta"
+echo Del /S "%variable%\*.meta"
 echo .
 ForFiles /m *.zip /d -%2 /c "cmd /c del @file"

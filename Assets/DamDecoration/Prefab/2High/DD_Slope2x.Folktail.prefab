@@ -276,7 +276,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _noAutoWalls: 0
-  _generateFloorsOnStackable: 1
+  _generateFloorsOnStackable: 0
   _blockAllEdges: 0
   _addedEdges:
   - _start: {x: 0, y: 0, z: 0}

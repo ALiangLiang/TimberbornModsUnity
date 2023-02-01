@@ -103,12 +103,11 @@ MonoBehaviour:
     _amount: 102
   - _goodId: Plank
     _amount: 12
-  _scienceCost: 3300
+  _scienceCost: 1300
   _placeFinished: 0
   _finishableWithBeaversOnSite: 0
   _path: 0
   _drawRangeBoundsOnIt: 0
-  _hasNoRoof: 0
 --- !u!114 &114272295494803165
 MonoBehaviour:
   m_ObjectHideFlags: 0

@@ -21,8 +21,8 @@ GameObject:
   - component: {fileID: 114361343587920328}
   - component: {fileID: 114961848612109433}
   - component: {fileID: 114216287491606449}
-  - component: {fileID: 7197536077853367070}
   - component: {fileID: 114611066841185775}
+  - component: {fileID: 7197536077853367070}
   - component: {fileID: 114457622823613282}
   - component: {fileID: 114290442435871522}
   - component: {fileID: 7623191031934216932}
@@ -796,7 +796,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _toolGroupId: Water
-  _toolOrder: 51
+  _toolOrder: 52
   _layout: 0
   _customPivot:
     _hasCustomPivot: 1
@@ -894,6 +894,18 @@ MonoBehaviour:
   _limitedCapacity: 0
   _capacity: 0
   _throttledExit: 0
+--- !u!114 &114611066841185775
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1035958969740901}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -598504670, guid: 6e68475ee52ce568acbd493b99ce126d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!114 &7197536077853367070
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -910,18 +922,6 @@ MonoBehaviour:
   _maxHeight: 3.55
   _good: Water
   _nonLinearity: 0
---- !u!114 &114611066841185775
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1035958969740901}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: -598504670, guid: 6e68475ee52ce568acbd493b99ce126d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!114 &114457622823613282
 MonoBehaviour:
   m_ObjectHideFlags: 0

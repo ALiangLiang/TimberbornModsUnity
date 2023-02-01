@@ -155,8 +155,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1792948821775644}
   m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.50704765, y: -0.03560188, z: -0.06157496}
-  m_LocalScale: {x: 0.8, y: 0.8, z: 1}
+  m_LocalPosition: {x: 0.50704765, y: -0.13560188, z: -0.06157496}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 4868491550558876}
@@ -190,7 +190,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: e6eff89005bd1b041b474b816aa7c9d6, type: 2}
+  - {fileID: 2100000, guid: b48cd4059692f5a4aabbc3a070f190b4, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -238,7 +238,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1924343796497233}
   m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.00094366074, y: 0.3396458, z: 0.36904612}
+  m_LocalPosition: {x: 0.00094366074, y: 0.1796458, z: 0.36904612}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -273,7 +273,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: e6eff89005bd1b041b474b816aa7c9d6, type: 2}
+  - {fileID: 2100000, guid: b48cd4059692f5a4aabbc3a070f190b4, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -320,7 +320,7 @@ Transform:
   m_GameObject: {fileID: 1964156828963125}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 0.7, z: 1}
+  m_LocalScale: {x: 1, y: 0.6, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 5096220561100433092}
@@ -403,7 +403,7 @@ MonoBehaviour:
     _size: {x: 1, y: 1, z: 1}
     _blockSpecifications:
     - _matterBelow: 0
-      _occupation: 0
+      _occupation: 3
       _stackable: 0
       _optionallyUnderground: 0
       _occupyAllBelow: 0
@@ -441,7 +441,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _toolGroupId: MapEditor
-  _toolOrder: 500
+  _toolOrder: 499
   _layout: 0
   _customPivot:
     _hasCustomPivot: 0
@@ -524,10 +524,10 @@ MonoBehaviour:
   m_Script: {fileID: -1115175677, guid: b5f268a4cb31a93ed707a95d3a502b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _displayNameLocKey: Building.Barrier.DisplayName
-  _descriptionLocKey: Building.Barrier.Description
-  _flavorDescriptionLocKey: Building.Barrier.FlavorDescription
-  _image: {fileID: 21300000, guid: 071a56304b8804d4ebaf29ed1342e796, type: 3}
+  _displayNameLocKey: Knatte.HalfBarrier.DisplayName
+  _descriptionLocKey: Knatte.HalfBarrier.Description
+  _flavorDescriptionLocKey: Knatte.HalfBarrier.FlavorDescription
+  _image: {fileID: 21300000, guid: d629b5a2ff5ea4c47861ca1a6f34453c, type: 3}
 --- !u!1 &2746604660820392710
 GameObject:
   m_ObjectHideFlags: 0
@@ -554,7 +554,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2746604660820392710}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: -0.15, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []

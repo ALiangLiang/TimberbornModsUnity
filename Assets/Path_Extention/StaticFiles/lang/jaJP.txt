@@ -1,0 +1,35 @@
+ID,Text,Comment
+KnatteTobbert.Tunnel_1.DisplayName,トンネル 1x1
+KnatteTobbert.Tunnel_2.DisplayName,トンネル 2x1
+KnatteTobbert.Tunnel_3.DisplayName,トンネル 3x1
+KnatteTobbert.Tunnel_4.DisplayName,トンネル 4x1
+KnatteTobbert.Tunnel_5.DisplayName,トンネル 5x1
+KnatteTobbert.Tunnel_6.DisplayName,トンネル 6x1
+KnatteTobbert.Tunnel_7.DisplayName,トンネル 7x1
+KnatteTobbert.Tunnel_8.DisplayName,トンネル 8x1
+KnatteTobbert.Tunnel_9.DisplayName,トンネル 9x1
+
+KnatteTobbert.Tunnel_1L.DisplayName,堤防用トンネル
+KnatteTobbert.Tunnel_1L.Description,ビーバーが堤防を通り抜けられるようにする。
+
+KnatteTobbert.Tunnel.Description,ビーバーが山を通り抜けられるようにする。
+KnatteTobbert.Tunnel.FlavorDiscription,トンネルの水密性の高さは我々ビーバーの最高知能の結晶であり誇りである。,-ジョジョの奇妙な冒険
+
+KnatteTobbert.CategoryTunnel.DisplayName,トンネル
+KnatteTobbert.CategoryTunnel.Description,山を超えるトンネル。
+
+KnatteTobbert.CategorySBridges.DisplayName,Steel Bridges,							Untranslated
+KnatteTobbert.CategorySBridges.Description,Bridge between Mountains, Not used atm 	Untranslated
+
+KnatteTobbert.Bridge_1.DisplayName,Steel Bridge 1x1,							Untranslated
+KnatteTobbert.Bridge_2.DisplayName,Steel Bridge 2x1,							Untranslated
+KnatteTobbert.Bridge_3.DisplayName,Steel Bridge 3x1,							Untranslated
+KnatteTobbert.Bridge_4.DisplayName,Steel Bridge 4x1,							Untranslated
+KnatteTobbert.Bridge_5.DisplayName,Steel Bridge 5x1,							Untranslated
+KnatteTobbert.Bridge_6.DisplayName,Steel Bridge 6x1,							Untranslated
+KnatteTobbert.Bridge_7.DisplayName,Steel Bridge 7x1,							Untranslated
+KnatteTobbert.Bridge_8.DisplayName,Steel Bridge 8x1,							Untranslated
+KnatteTobbert.Bridge_9.DisplayName,Steel Bridge 9x1,							Untranslated
+
+KnatteTobbert.Bridge.Description,"Allows Path,Shafts and trains between mountains",							Untranslated
+KnatteTobbert.Bridge.FlavorDiscription,"Choo Choo",							Untranslated

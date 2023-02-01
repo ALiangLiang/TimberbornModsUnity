@@ -1,0 +1,29 @@
+{
+  "Name": "CategorySBridges",
+  "ToolGroup": "Paths",
+  "ToolOrder": 309,
+  "ButtonIcon": "TE_Cat_Bridge.png",
+  "Buildings": [
+    "TE_Bridge_1x1.Folktails",
+    "TE_Bridge_1x2.Folktails",
+    "TE_Bridge_1x3.Folktails",
+    "TE_Bridge_1x4.Folktails",
+    "TE_Bridge_1x5.Folktails",
+    "TE_Bridge_1x6.Folktails",
+    "TE_Bridge_1x7.Folktails",
+    "TE_Bridge_1x8.Folktails",
+    "TE_Bridge_1x9.Folktails",
+
+    "TE_Bridge_1x1.IT",
+    "TE_Bridge_1x2.IT",
+    "TE_Bridge_1x3.IT",
+    "TE_Bridge_1x4.IT",
+    "TE_Bridge_1x5.IT",
+    "TE_Bridge_1x6.IT",
+    "TE_Bridge_1x7.IT",
+    "TE_Bridge_1x8.IT",
+    "TE_Bridge_1x9.IT"
+  ],
+  "DisplayNameLocKey": "KnatteTobbert.CategorySBridges.DisplayName",
+  "DescriptionLocKey": "KnatteTobbert.CategorySBridges.Description"
+}

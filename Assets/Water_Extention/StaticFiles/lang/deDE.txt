@@ -21,7 +21,8 @@ Knatte.CategoryPipe.Description,Rohrleitungen die oberirdisch verlegt werden.,-
 Knatte.CategoryPipeU.DisplayName,Unterirdische Rohrleitungen,-
 Knatte.CategoryPipeU.Description,Rohrleitungen die unterirdisch verlegt werden.,-
 
-Knatte.CategoryHideWE.DisplayName,Unused Water Extention,-
+Knatte.CategoryHideWE.DisplayName,Unbenutztes Water Extention,-
+
 
 Knatte.Pipe1X.DisplayName,Rohrleitung 1x,-
 Knatte.Pipe1X.Description,"Zwei Deiche mit einem Eingangs-/Ausgangsrohr. Einer der Deiche muss mit Energie versorgt werden, diese wird aber weitergeleitet.",-
@@ -36,3 +37,9 @@ Knatte.DeepSeaPump.FlavorDescription,Es geht doch nichts über einen großen Sch
 Knatte.BigIrrigationTower.DisplayName,Großer Bewässerungsturm,-
 Knatte.BigIrrigationTower.Description,Bewässert noch mehr Fläche mit noch weniger Wasser.,
 Knatte.BigIrrigationTower.FlavorDescription,"Tropf, tropf, Wassertropfen.",-
+
+Knatte.UPowerLevee.DisplayName,Universeller Energie-Deich,-
+Knatte.UPowerLevee.Description,"Ein Deich, in dem sich eine Welle zum Antrieb von Pumpen befindet.\r\nMit allen Seiten verbunden",-
+
+Knatte.PipeH1X.DisplayName,Erhöhte Rohrleitung,-
+Knatte.PipeH1X.Description,"Zwei Deiche mit einem Eingangs- und einem höheren Ausgangsrohr. Einer der Deiche muss mit Energie versorgt werden, diese wird aber weitergeleitet. Benötigt mehr Energie als Rohrleitung 1x.",-

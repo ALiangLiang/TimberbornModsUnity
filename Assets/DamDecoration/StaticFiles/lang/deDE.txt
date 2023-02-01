@@ -35,7 +35,7 @@ Knatte.CornerSlope.DisplayName,Dekoration Innere Ecke,-
 Knatte.CornerSlope.Description,Verpassen wir dem Deich Ecken.,-
 Knatte.CornerSlope.FlavorDescription,Blockiert kein Wasser.,-
 
-Knatte.Square.DisplayName,Dekoration Würfel
+Knatte.Square.DisplayName,Dekoration Viereck
 Knatte.Square.Description,Die Quadratur des Deiches.
 Knatte.Square.FlavorDescription,Blockiert kein Wasser.,-
 
@@ -146,13 +146,21 @@ Knatte.CategoryLevees.Des,"Blockiert (mal ganz, mal mehr, mal weniger)\r\nden Wa
 Knatte.CategoryPillar.DisplayName,Pfeiler und Pfeilerplattform,-
 Knatte.CategoryPillar.Des,Lass es höher werden.,-
 
+Knatte.CategoryDam2.DisplayName,Dekorationen 2,-
+Knatte.CategoryDam2.Des,Blockiert kein Wasser.,-
 
+Knatte.DoubleInvSlope.DisplayName,Umgekehrte Schräge\r\ndoppelte Höhe,
+Knatte.DoubleInvSlope.Description,Deich und Abschrägung kombiniert,
+Knatte.DoubleInvSlope.FlavorDescription,Lass uns eine Brücke bauen,
 
-Knatte.DoubleInvSlope.DisplayName,[WIP]Double Inverted Slope,                   Untranslated
-Knatte.DoubleInvSlope.Description,Levee and inverted Slope Combo,               Untranslated
-Knatte.DoubleInvSlope.FlavorDescription,Lets build an Bridge,                   Untranslated
+Knatte.Square1x2.DisplayName,Dekoration Viereck 1x2,
+Knatte.Square1x3.DisplayName,Dekoration Viereck 1x3,
+Knatte.Square_B.Description,"Ein Viereck, das herausragen kann, aber das Wasser nicht blockiert.",
+Knatte.Square_B.FlavorDescription,,
 
-Knatte.Square1x2.DisplayName,Decoration Cube 1x2,                               Untranslated
-Knatte.Square1x3.DisplayName,Decoration Cube 1x3,                               Untranslated
-Knatte.Square_B.Description,Square that can stick out but does not block water.,Untranslated
-Knatte.Square_B.FlavorDescription,,                                             Untranslated
+Knatte.InvSlope1x1.DisplayName,Umgekehrte Schräge 1x1,
+Knatte.InvSlope1x2.DisplayName,Umgekehrte Schräge 1x2,
+Knatte.InvSlope1x3.DisplayName,Umgekehrte Schräge 1x3,
+Knatte.InvSlope2x1.DisplayName,Umgekehrte Schräge 2x1,
+Knatte.InvSlope.Description,"Ein Schräge, die herausragen kann, aber das Wasser nicht blockiert.",
+Knatte.InvSlope.FlavorDescription,,

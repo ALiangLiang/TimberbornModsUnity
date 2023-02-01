@@ -15,5 +15,21 @@ KnatteTobbert.Tunnel_1L.Description,Allows beavers to pass through Levees.
 KnatteTobbert.Tunnel.Description,Allows beavers to pass through mountains.
 KnatteTobbert.Tunnel.FlavorDiscription,Do you know how hard it is to Model and Texture?
 
-Knatte.CategoryTunnel.DisplayName,Tunnels
-Knatte.CategoryTunnel.Description,Tunnels Past the Mountains
+KnatteTobbert.CategoryTunnel.DisplayName,Tunnels
+KnatteTobbert.CategoryTunnel.Description,Tunnels Past the Mountains
+
+KnatteTobbert.CategorySBridges.DisplayName,Steel Bridges
+KnatteTobbert.CategorySBridges.Description,Bridge between Mountains, Not used atm
+
+KnatteTobbert.Bridge_1.DisplayName,Steel Bridge 1x1
+KnatteTobbert.Bridge_2.DisplayName,Steel Bridge 2x1
+KnatteTobbert.Bridge_3.DisplayName,Steel Bridge 3x1
+KnatteTobbert.Bridge_4.DisplayName,Steel Bridge 4x1
+KnatteTobbert.Bridge_5.DisplayName,Steel Bridge 5x1
+KnatteTobbert.Bridge_6.DisplayName,Steel Bridge 6x1
+KnatteTobbert.Bridge_7.DisplayName,Steel Bridge 7x1
+KnatteTobbert.Bridge_8.DisplayName,Steel Bridge 8x1
+KnatteTobbert.Bridge_9.DisplayName,Steel Bridge 9x1
+
+KnatteTobbert.Bridge.Description,"Allows Path,Shafts and trains between mountains"
+KnatteTobbert.Bridge.FlavorDiscription,"Choo Choo"

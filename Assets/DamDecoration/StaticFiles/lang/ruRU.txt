@@ -146,9 +146,10 @@ Knatte.CategoryLevees.Des,"Останавливают воду",-
 Knatte.CategoryPillar.DisplayName,"Опоры и перекрытия",-
 Knatte.CategoryPillar.Des,"Отдельностоящие опоры и перекрытия.\nКак платформы, но по частям.",-
 
+Knatte.CategoryDam2.DisplayName,Decoration Pieces 2,-               Untranlsated
+Knatte.CategoryDam2.Des,Does not Block Water,-                      Untranlsated
 
-
-Knatte.DoubleInvSlope.DisplayName,[WIP]Double Inverted Slope,                   Untranslated
+Knatte.DoubleInvSlope.DisplayName,Double Inverted Slope,                   Untranslated
 Knatte.DoubleInvSlope.Description,Levee and inverted Slope Combo,               Untranslated
 Knatte.DoubleInvSlope.FlavorDescription,Lets build an Bridge,                   Untranslated
 
@@ -156,3 +157,10 @@ Knatte.Square1x2.DisplayName,Decoration Cube 1x2,                               
 Knatte.Square1x3.DisplayName,Decoration Cube 1x3,                               Untranslated
 Knatte.Square_B.Description,Square that can stick out but does not block water.,Untranslated
 Knatte.Square_B.FlavorDescription,,                                             Untranslated
+
+Knatte.InvSlope1x1.DisplayName,Inverted Slope 1x1,                              Untranslated
+Knatte.InvSlope1x2.DisplayName,Inverted Slope 1x2,                              Untranslated
+Knatte.InvSlope1x3.DisplayName,Inverted Slope 1x3,                              Untranslated
+Knatte.InvSlope2x1.DisplayName,Inverted Slope 2x1,                              Untranslated
+Knatte.InvSlope.Description,Square that can stick out but does not block water.,Untranslated
+Knatte.InvSlope.FlavorDescription,,

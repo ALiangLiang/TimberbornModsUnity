@@ -1,0 +1,15 @@
+{
+    "Name": "Decoration Extention",
+    "Version": "1.0.0",
+    "UniqueId": "knatte.decoration_extention",
+    "MinimumApiVersion": "0.5.3",
+    "MinimumGameVersion": "0.3.5.1",
+    "Assets": [
+      {
+        "Prefix": "knatte.decoration_extention",
+        "Scenes": [
+          "InGame"
+        ]
+      }
+    ]
+  }

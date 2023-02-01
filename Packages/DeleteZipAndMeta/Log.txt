@@ -1,1 +1,1 @@
-Running DeleteZipAndMeta K:/Spel/TimberbornModding/RippedAssets/KATimberbornModsUnity/ThunderKit/Staging 
+Running DeleteZipAndMeta K:/Spel/TimberbornModding/UnityProjects/KATimberbornModsUnity/ThunderKit/Staging 

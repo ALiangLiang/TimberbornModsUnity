@@ -53,7 +53,7 @@ MonoBehaviour:
   m_Script: {fileID: -790041461, guid: 1bd6ccb667024f9c2b77daf7f62a4eed, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _soundBaseName: LogPile
+  _soundBaseName: Default
   _hasLoopingSound: 0
   _buildingCost:
   - _goodId: Log

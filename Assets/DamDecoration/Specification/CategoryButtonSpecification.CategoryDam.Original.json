@@ -21,6 +21,8 @@
     "DD_Corner3X.Folktail",
     "DD_InvCorner3X.Folktail",
     "DD_Slope3x.Folktail",
+    "DD_Square1x2.Folktail",
+    "DD_Square1x3.Folktail",
 
     "DD_InvCorner.IT",
     "DD_Slope.IT",
@@ -38,7 +40,9 @@
     "DD_SQCorner2X.IT",
     "DD_Corner3X.IT",
     "DD_InvCorner3X.IT",
-    "DD_Slope3x.IT"
+    "DD_Slope3x.IT",
+    "DD_Square1x2.IT",
+    "DD_Square1x3.IT"
 
   ],
   "DisplayNameLocKey": "Knatte.CategoryDam.DisplayName",

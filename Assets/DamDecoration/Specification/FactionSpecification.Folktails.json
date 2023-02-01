@@ -48,6 +48,11 @@
 
 	"knatte.damdecoration/knatte_damdecoration/DD_Square1x2.Folktail",
 	"knatte.damdecoration/knatte_damdecoration/DD_Square1x3.Folktail",
-	"knatte.damdecoration/knatte_damdecoration/DD_DoubleInvSlope.Folktail"
+	"knatte.damdecoration/knatte_damdecoration/DD_DoubleInvSlope.Folktail",
+
+	"knatte.damdecoration/knatte_damdecoration/DD_InvSlope1x1.Folktail",
+	"knatte.damdecoration/knatte_damdecoration/DD_InvSlope1x2.Folktail",
+	"knatte.damdecoration/knatte_damdecoration/DD_InvSlope1x3.Folktail",
+	"knatte.damdecoration/knatte_damdecoration/DD_InvSlope2x1.Folktail"
   ]
 }

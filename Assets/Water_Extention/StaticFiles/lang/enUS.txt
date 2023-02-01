@@ -37,3 +37,9 @@ Knatte.DeepSeaPump.FlavorDescription,A gulp of fresh water is enough to pump you
 Knatte.BigIrrigationTower.DisplayName,Big Irrigation Tower,-
 Knatte.BigIrrigationTower.Description,Irrigates even More land around it for less Water.,
 Knatte.BigIrrigationTower.FlavorDescription,Drip Drip Drop.
+
+Knatte.UPowerLevee.DisplayName,Universal Powered Leeve,-                    Untranslated
+Knatte.UPowerLevee.Description,Levee that has shaft in it to power pumps.\r\n Connected to all sides,-                    Untranslated
+
+Knatte.PipeH1X.DisplayName,Pipe Outlet (H),-                    Untranslated
+Knatte.PipeH1X.Description,High Volume Pump Two Levees and a input and output pipe.\r\n Leeve need to be powered but also act as transfer,-                    Untranslated

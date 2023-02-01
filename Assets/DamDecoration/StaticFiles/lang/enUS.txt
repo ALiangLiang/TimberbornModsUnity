@@ -96,7 +96,7 @@ Knatte.InvCorner3X.DisplayName,Decoration Internal Corner Tripple Height,-
 Knatte.InvCorner3X.Description,Let the Dam be Cornered.,-
 Knatte.InvCorner3X.FlavorDescription,Does not Block Water,-
 
-Knatte.Slope3X.DisplayName,Decoration Slope Double Height,-
+Knatte.Slope3X.DisplayName,Decoration Slope Tripple Height,-
 Knatte.Slope3X.Description,Let the Dam be Sloped.,-
 Knatte.Slope3X.FlavorDescription,Does not Block Water,-
 
@@ -146,13 +146,21 @@ Knatte.CategoryLevees.Des,Does Block Water,-
 Knatte.CategoryPillar.DisplayName,Pillars and Pilar Top,-
 Knatte.CategoryPillar.Des,Let it Rise,-
 
+Knatte.CategoryDam2.DisplayName,Decoration Pieces 2,-               Untranlsated
+Knatte.CategoryDam2.Des,Does not Block Water,-                      Untranlsated
 
+Knatte.DoubleInvSlope.DisplayName,Double Inverted Slope,                   
+Knatte.DoubleInvSlope.Description,Levee and inverted Slope Combo,               
+Knatte.DoubleInvSlope.FlavorDescription,Lets build an Bridge,                   
 
-Knatte.DoubleInvSlope.DisplayName,[WIP]Double Inverted Slope,                   Untranslated
-Knatte.DoubleInvSlope.Description,Levee and inverted Slope Combo,               Untranslated
-Knatte.DoubleInvSlope.FlavorDescription,Lets build an Bridge,                   Untranslated
+Knatte.Square1x2.DisplayName,Decoration Cube 1x2,                               
+Knatte.Square1x3.DisplayName,Decoration Cube 1x3,                               
+Knatte.Square_B.Description,Square that can stick out but does not block water.,
+Knatte.Square_B.FlavorDescription,,                                             
 
-Knatte.Square1x2.DisplayName,Decoration Cube 1x2,                               Untranslated
-Knatte.Square1x3.DisplayName,Decoration Cube 1x3,                               Untranslated
-Knatte.Square_B.Description,Square that can stick out but does not block water.,Untranslated
-Knatte.Square_B.FlavorDescription,,                                             Untranslated
+Knatte.InvSlope1x1.DisplayName,Inverted Slope 1x1,                              
+Knatte.InvSlope1x2.DisplayName,Inverted Slope 1x2,                              
+Knatte.InvSlope1x3.DisplayName,Inverted Slope 1x3,                              
+Knatte.InvSlope2x1.DisplayName,Inverted Slope 2x1,                              
+Knatte.InvSlope.Description,Square that can stick out but does not block water.,
+Knatte.InvSlope.FlavorDescription,,

@@ -1,6 +1,27 @@
 ID,Text,Comment
-Knatte.FrogStatue.DisplayName,Frog Statue,-
-Knatte.FrogStatue.Description,Time to Pray for water.,-
-Knatte.FrogStatue.FlavorDescription,"""May it rain."" —Some beaver",Fixed to match official styling
-Knatte.FrogStatue.DisplaynameLocKey,Frog Statue,-
+Knatte.HalfBarrier.Description,A natural Half height barrier blocking water./n Can be demolished.,Demolished meaning removed by a worker.
+Knatte.HalfBarrier.DisplayName,Half Barrier,Not a dam since that's another building in game but if not possible it could be called a Natural Dam.
+Knatte.HalfBarrier.FlavorDescription,It's hard to believe there were simpler times when mud with branches constituted a dam.,
 
+Knatte.StoneBlock.Description,Man made Stone Block that is blocking water/n Can be demolished.,Demolished meaning removed by a worker.
+Knatte.StoneBlock.DisplayName,Stone Block,
+Knatte.StoneBlock.FlavorDescription,,
+
+
+Knatte.StoneCorner.Description,Man made Stone Corner Block that is not blocking water/n Can be demolished.,Demolished meaning removed by a worker.
+Knatte.StoneCorner.DisplayName,Stone Corner,
+Knatte.StoneCorner.FlavorDescription,,
+
+Knatte.StoneDiagonal.Description,Man made Stone Diagonal Block that is not blocking water/n Can be demolished.,Demolished meaning removed by a worker.
+Knatte.StoneDiagonal.DisplayName,Stone Diagonal,
+Knatte.StoneDiagonal.FlavorDescription,,
+
+Knatte.StoneInvCorner.Description,Man made Stone Inverted Corner Block that is not blocking water/n Can be demolished.,Demolished meaning removed by a worker.
+Knatte.StoneInvCorner.DisplayName,Stone Inverted Corner,
+Knatte.StoneInvCorner.FlavorDescription,,
+
+Knatte.StoneSlope.Description,Man made Stone Slope Block that is not blocking water/n Can walk up it but is not a path. Can be demolished.,Demolished meaning removed by a worker.
+Knatte.StoneSlope.DisplayName,Stone Slope,
+Knatte.StoneSlope.FlavorDescription,,
+
+Knatte.StoneBlock1x3.DisplayName,Stone Block 1x3,
