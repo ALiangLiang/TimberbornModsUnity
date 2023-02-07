@@ -164,3 +164,5 @@ Knatte.InvSlope1x3.DisplayName,Umgekehrte Schräge 1x3,
 Knatte.InvSlope2x1.DisplayName,Umgekehrte Schräge 2x1,
 Knatte.InvSlope.Description,"Ein Schräge, die herausragen kann, aber das Wasser nicht blockiert.",
 Knatte.InvSlope.FlavorDescription,,
+
+Knatte.InvTrapezium1x1.DisplayName,Umgekehrtes Trapez 1x1,

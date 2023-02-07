@@ -1,6 +1,17 @@
 ID,Text,Comment
-Knatte.FrogStatue.DisplayName,Frog Statue,-
-Knatte.FrogStatue.Description,Time to Pray for water.,-
-Knatte.FrogStatue.FlavorDescription,"""May it rain."" —Some beaver",Fixed to match official styling
-Knatte.FrogStatue.DisplaynameLocKey,Frog Statue,-
+Knatte.ToolGroup.DecorationBlocks,Decoration Blocks,-
+
+Knatte.DE_M_Corner.DisplayName,Metal Corner Block,
+Knatte.DE_M_Diagonal.DisplayName,Metal Diagonal Block,
+Knatte.DE_M_InvCorner.DisplayName,Metal Inverted Corner Block,
+Knatte.DE_M_Slope.DisplayName,Metal Slope Block,
+Knatte.DE_M_Square.DisplayName,Metal Square Block,
+
+Knatte.DE_M_Blocks.Description,Decoration block in metal \n\rDoes not block water.,
+Knatte.DE_M_Blocks.FlavorDescription,,
+
+Knatte.DE_M_InvSlope1x1.DisplayName,Metal Inverted Slope Block,
+Knatte.DE_M_InvSlope_Blocks.Description,Decoration block in metal with overhang \n\rDoes not block water.,
+Knatte.DE_M_InvSlope_Blocks.FlavorDescription,,
+
 

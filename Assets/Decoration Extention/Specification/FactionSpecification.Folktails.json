@@ -1,8 +1,10 @@
 {
   "CommonBuildings": [
-    "knatte.frogstatue/knatte_frogstatue/FrogStatue.Folktails"
-  ],
-  "Needs": [
-    "FrogStatue"
+    "knatte.decoration_extention/knatte_decoextention/DE_M_Corner.Folktail",
+    "knatte.decoration_extention/knatte_decoextention/DE_M_Diagonal.Folktail",
+    "knatte.decoration_extention/knatte_decoextention/DE_M_InvCorner.Folktail",
+    "knatte.decoration_extention/knatte_decoextention/DE_M_Slope.Folktail",
+    "knatte.decoration_extention/knatte_decoextention/DE_M_Square.Folktail",
+    "knatte.decoration_extention/knatte_decoextention/DE_M_InvSlope1x1.Folktail"
   ]
 }

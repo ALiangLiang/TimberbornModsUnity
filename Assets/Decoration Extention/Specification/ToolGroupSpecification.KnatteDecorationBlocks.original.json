@@ -1,0 +1,7 @@
+{
+  "Id": "KnatteDecorationBlocks",
+  "Order": "10",
+  "NameLocKey": "Knatte.ToolGroup.DecorationBlocks",
+  "Icon": "knatte.decoration_extention/knatte_decoextention/DE_ToolGroup_BlockDecoration",
+  "FallbackGroup": false
+}

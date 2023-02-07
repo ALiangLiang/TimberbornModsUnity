@@ -346,10 +346,10 @@ MonoBehaviour:
   _soundBaseName: Default
   _hasLoopingSound: 0
   _buildingCost:
-  - _goodId: Log
-    _amount: 4
   - _goodId: Plank
     _amount: 12
+  - _goodId: Log
+    _amount: 4
   _scienceCost: 165
   _placeFinished: 0
   _finishableWithBeaversOnSite: 0

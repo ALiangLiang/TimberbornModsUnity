@@ -164,3 +164,5 @@ Knatte.InvSlope1x3.DisplayName,Inverted Slope 1x3,
 Knatte.InvSlope2x1.DisplayName,Inverted Slope 2x1,                              
 Knatte.InvSlope.Description,Square that can stick out but does not block water.,
 Knatte.InvSlope.FlavorDescription,,
+
+Knatte.InvTrapezium1x1.DisplayName,Inverted Trapezium 1x1

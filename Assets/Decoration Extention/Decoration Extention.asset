@@ -15,7 +15,7 @@ MonoBehaviour:
   StagingPaths:
   - <ManifestPluginStaging>/assets
   files:
-  - {fileID: 102900000, guid: 641246a7de807084882b27f6a8faa573, type: 3}
+  - {fileID: 102900000, guid: f8364e00afb4b5c49975bbd82feecefe, type: 3}
 --- !u!114 &-3931462110823901632
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -87,10 +87,15 @@ MonoBehaviour:
   StagingPaths:
   - <ManifestPluginStaging>/assets
   assetBundles:
-  - assetBundleName: Knatte_FrogStatue
+  - assetBundleName: knatte_decoextention
     assets:
-    - {fileID: 1892513168112050, guid: 307ae2eb8a43ac44ca62cf3e3cd10b1c, type: 3}
-    - {fileID: 1892513168112050, guid: 583ca72b23d26df4da47260e391249a7, type: 3}
+    - {fileID: 2800000, guid: 0139f70c505ce79458f4a0b3b8338d9d, type: 3}
+    - {fileID: 1892513168112050, guid: f3489fcfcb0c8fb4d8064f017b30cce4, type: 3}
+    - {fileID: 5574067095167738340, guid: f8645716aa8d353439c758c6bdfebada, type: 3}
+    - {fileID: 5574067095167738340, guid: 020ec281c73dcd24fa0bdd3a6b119a74, type: 3}
+    - {fileID: 5574067095167738340, guid: c2dfa86f47390da4faa3c25c625cd61f, type: 3}
+    - {fileID: 1892513168112050, guid: 7bef40dda9c5bdc4880c9e4bf4191fdf, type: 3}
+    - {fileID: 5574067095167738340, guid: d2226ffc60d66e6489bffcec2c9f1805, type: 3}
 --- !u!114 &7788702448107751720
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -108,6 +113,7 @@ MonoBehaviour:
   files:
   - {fileID: 4900000, guid: 8e92309b0e5b2a144b54bfc2f4acade9, type: 3}
   - {fileID: 4900000, guid: 590833de4ab21cd42b4b7e12f6072472, type: 3}
+  - {fileID: 4900000, guid: e46ccb29c6faeb646a7e402875284e2a, type: 3}
 --- !u!114 &9120418034178625098
 MonoBehaviour:
   m_ObjectHideFlags: 0

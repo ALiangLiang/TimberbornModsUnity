@@ -12,32 +12,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f9057f7f601990a4883b2cb295c4f43e, type: 3}
   m_Name: ThunderKitSettings
   m_EditorClassIdentifier: 
-  FirstLoad: 1
-  ShowOnStartup: 0
-  GameExecutable: Timberborn.exe
-  GamePath: S:\Spel\Steamspel\steamapps\common\Timberborn
-  Is64Bit: 1
+  FirstLoad: 0
+  ShowOnStartup: 1
+  GameExecutable: 
+  GamePath: 
+  Is64Bit: 0
   DateTimeFormat: HH:mm:ss:fff
   CreatedDateFormat: MMM/dd HH:mm:ss
   ShowLogWindow: 1
   MarkdownOpenMode: 1
-  SelectedPipeline: {fileID: 11400000, guid: ec5cb30903c8ee5409feff4889a47858, type: 2}
-  SelectedManifest: {fileID: 11400000, guid: fc36ffa2b60e76a4cbe62a5070cf4285, type: 2}
-  QuickAccessPipelines:
-  - {fileID: 11400000, guid: 917a1a8249d860c4ea528175a788d998, type: 2}
-  - {fileID: 11400000, guid: ec5cb30903c8ee5409feff4889a47858, type: 2}
-  - {fileID: 11400000, guid: beef774653b93b24d9461b98248168e0, type: 2}
-  QuickAccessManifests:
-  - {fileID: 11400000, guid: af7eb581fd1b749449e993e98ecc046f, type: 2}
-  - {fileID: 11400000, guid: 371ae0b4e688824459366444dd530e02, type: 2}
-  - {fileID: 11400000, guid: 90894c1a81867ad4391e9b41f7a74b98, type: 2}
-  - {fileID: 11400000, guid: 8699b0f4363f6d6499b6d80760ef4fb7, type: 2}
-  - {fileID: 11400000, guid: 66f0f11f6a8f0bb4797e7dd77d3850fc, type: 2}
-  - {fileID: 11400000, guid: 571b06ff9b0da1a44a2f198e0abaabb3, type: 2}
-  - {fileID: 11400000, guid: 9f243440a6982c74292ab6ddf5073884, type: 2}
-  - {fileID: 11400000, guid: fc36ffa2b60e76a4cbe62a5070cf4285, type: 2}
-  - {fileID: 11400000, guid: 4e887fc48136d4f4fa38036beac6da59, type: 2}
-  - {fileID: 11400000, guid: 2fb78fa657cb2ef4ca0a1222ee01c84c, type: 2}
-  - {fileID: 11400000, guid: e43a111cf898e77408e9a61537f2c663, type: 2}
-  - {fileID: 11400000, guid: 0b133f1ebaeff5345b70de51c6c298fb, type: 2}
-  ImportConfiguration: {fileID: 11400000, guid: 53ed3299b5d399b43a2ab8388582dc61, type: 2}
+  SelectedPipeline: {fileID: 0}
+  SelectedManifest: {fileID: 0}
+  QuickAccessPipelines: []
+  QuickAccessManifests: []
+  ImportConfiguration: {fileID: 0}
