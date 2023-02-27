@@ -1,0 +1,33 @@
+{
+  "Id": "Bot.Frogs",
+  "DisplayLocKey": "Bot.PluralDisplayName",
+  "CycleDurationInHours": 72,
+  "CyclesCapacity": 2,
+  "Ingredients": [
+    {
+      "Good": {
+        "Id": "BotChassis"
+      },
+      "Amount": 1
+    },
+    {
+      "Good": {
+        "Id": "BotLimb"
+      },
+      "Amount": 4
+    },
+    {
+      "Good": {
+        "Id": "BotHead"
+      },
+      "Amount": 1
+    }
+  ],
+  "Products": [],
+  "ProducedSciencePoints": 0,
+  "Fuel": {
+    "Id": ""
+  },
+  "CyclesFuelLasts": 0,
+  "FuelCapacity": 0
+}

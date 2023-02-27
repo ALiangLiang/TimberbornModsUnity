@@ -17,6 +17,8 @@ GameObject:
   - component: {fileID: 114959368033260412}
   - component: {fileID: 4440177359970826680}
   - component: {fileID: 4216250952707550837}
+  - component: {fileID: 2083197793019239293}
+  - component: {fileID: -8327058322774623909}
   m_Layer: 0
   m_Name: DD_Corner.Folktail
   m_TagString: Untagged
@@ -181,6 +183,37 @@ MonoBehaviour:
   _generateFloorsOnStackable: 1
   _blockAllEdges: 0
   _addedEdges: []
+--- !u!114 &2083197793019239293
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1892513168112050}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -686023896, guid: bcb85dd25e41826ab5a7dea12cff2430, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _limitedCapacity: 0
+  _capacity: 0
+  _throttledExit: 1
+--- !u!114 &-8327058322774623909
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1892513168112050}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -634080272, guid: 155d71f0a7a2317772ec1e43992c8879, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _effectSpecifications:
+  - _needId: BlockDecoration
+    _pointsPerHour: 0.2
+    _satisfyToMaxValue: 0
 --- !u!1 &1907051363735039
 GameObject:
   m_ObjectHideFlags: 0

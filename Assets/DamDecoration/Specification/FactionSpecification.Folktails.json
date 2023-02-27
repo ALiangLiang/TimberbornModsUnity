@@ -55,5 +55,8 @@
 	"knatte.damdecoration/knatte_damdecoration/DD_InvSlope1x3.Folktail",
 	"knatte.damdecoration/knatte_damdecoration/DD_InvSlope2x1.Folktail",
 	"knatte.damdecoration/knatte_damdecoration/DD_InvTrapezium1x1.Folktail"
+  ],
+  "Needs": [
+	"BlockDecoration"
   ]
 }

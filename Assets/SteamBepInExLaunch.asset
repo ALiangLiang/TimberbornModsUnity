@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Data:
   - {fileID: 114525731783530820}
-  QuickAccess: 0
-  manifest: {fileID: 11400000, guid: 9f243440a6982c74292ab6ddf5073884, type: 2}
+  QuickAccess: 1
+  manifest: {fileID: 11400000, guid: 66f0f11f6a8f0bb4797e7dd77d3850fc, type: 2}
 --- !u!114 &114525731783530820
 MonoBehaviour:
   m_ObjectHideFlags: 1

@@ -43,3 +43,11 @@ Knatte.UPowerLevee.Description,"Ein Deich, in dem sich eine Welle zum Antrieb vo
 
 Knatte.PipeH1X.DisplayName,Erhöhte Rohrleitung,-
 Knatte.PipeH1X.Description,"Zwei Deiche mit einem Eingangs- und einem höheren Ausgangsrohr. Einer der Deiche muss mit Energie versorgt werden, diese wird aber weitergeleitet. Benötigt mehr Energie als Rohrleitung 1x.",-
+
+Knatte.LargeWaterWheelLevee.DisplayName,Großes Wasserrad mit Deich,-
+Knatte.LargeWaterWheelLevee.Description,"Ein größeres Wasserrad mit einem schrägen Deich, um das Wasser in den Kanälen zu halten.",-
+
+Knatte.PipeHU5X.DisplayName,Unterirdische\r\nHochleistung-Rohrleitung\r\n5x,-
+Knatte.PipeHU10X.DisplayName,Unterirdische\r\nHochleistung-Rohrleitung\r\n10x,-
+Knatte.PipeHU15X.DisplayName,Unterirdische\r\nHochleistung-Rohrleitung\r\n15x,-
+Knatte.PipeHU.Description,"Zwei Deiche auf beiden Seiten der unterirdischen Hochleistung-Rohrleitung und ein Eingangs- und Ausgangsrohr. Einer der Deiche muss mit Energie versorgt werden, diese wird aber weitergeleitet. Benötigt mehr Energie als Unterirdische Rohrleitungen",-

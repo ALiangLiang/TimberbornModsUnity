@@ -1,0 +1,5 @@
+ID,Text,Comment
+KnatteTobbert.Faction_Frogs.DisplayName,Frogs
+KnatteTobbert.Faction_Frogs.Description,"Easygoing but and not hardworking, Frogs are expert Lazy. They respect nature and it rewards them with plentiful bounties.
+Their motto: <i>Comfort, food, and sturdy wood.</i>",Description of a beaver faction
+

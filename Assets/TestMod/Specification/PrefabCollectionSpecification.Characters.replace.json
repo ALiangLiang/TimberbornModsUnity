@@ -1,0 +1,9 @@
+﻿{
+  "Paths": [
+    "Characters/Beaver/BeaverAdult",
+    "Characters/Beaver/BeaverChild",
+    "Characters/Bot/Bot.Folktails",
+    "Characters/Bot/Bot.IronTeeth",
+    "knatte.testmod/knatte_testmod/Bot.Frogs"
+  ]
+}

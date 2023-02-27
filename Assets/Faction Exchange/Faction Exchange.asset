@@ -1,0 +1,149 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-3931462110823901632
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f22bb7fd1d3b56a48bc52f8e407901d6, type: 3}
+  m_Name: ManifestIdentity
+  m_EditorClassIdentifier: 
+  StagingPaths:
+  - <ManifestPluginStaging>
+  Author: KnatteAnka
+  Name: Faction Exchange
+  Description: Faction Exchange
+  Version: 1.0.4
+  Dependencies: []
+--- !u!114 &-1800585617083543040
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b7e13dda513544419a89926bd12ad8a, type: 3}
+  m_Name: AssemblyDefinitions
+  m_EditorClassIdentifier: 
+  StagingPaths:
+  - <ManifestPluginStaging>
+  definitions:
+  - {fileID: 5897886265953266890, guid: 5f40521e6b07195449639ec7e2ba04c1, type: 3}
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e563561e08b6a3642a487177f5cfbb37, type: 3}
+  m_Name: Faction Exchange
+  m_EditorClassIdentifier: 
+  Data:
+  - {fileID: -3931462110823901632}
+  - {fileID: -1800585617083543040}
+  - {fileID: 9120418034178625098}
+  - {fileID: 2947335489894918452}
+  - {fileID: 2590189338767857166}
+  - {fileID: 7788702448107751720}
+  identity: {fileID: -3931462110823901632}
+  QuickAccess: 1
+--- !u!114 &2590189338767857166
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 17d1008b78cb6e846889b7778282fbef, type: 3}
+  m_Name: AssetBundleDefinitions
+  m_EditorClassIdentifier: 
+  StagingPaths:
+  - <ManifestPluginStaging>/assets
+  assetBundles:
+  - assetBundleName: knatte_faction_exchange
+    assets:
+    - {fileID: 1286418829852027, guid: b8868532d81974944bf098accab0cffd, type: 3}
+    - {fileID: 1811081423645800, guid: 0ab461d25c03f4e4e998c4c53a3acd69, type: 3}
+    - {fileID: 1636106292241438, guid: aa25b40e72d3dac4e86e31f758f705a5, type: 3}
+    - {fileID: 1680174981892098, guid: 30f633b78610d47418234dcdc9bedf8e, type: 3}
+    - {fileID: 1259568171479100, guid: 6f43e063e7b5af54d9c3e03769e509eb, type: 3}
+    - {fileID: 1156594408331759, guid: 8418f0613ac53ab49af468ee5fd61126, type: 3}
+    - {fileID: 1460443936764408, guid: 3eadd90ca6d04e14599501c5ed8f3a34, type: 3}
+    - {fileID: 1035958969740901, guid: 06bff662a56a77c4bac8be83e382ee9b, type: 3}
+    - {fileID: 1424489896700615, guid: c545ca33e0145d84dbefdaec85476c64, type: 3}
+    - {fileID: 1052691338271601, guid: eb05c6b6be0b99048a8b78dd541d94a8, type: 3}
+    - {fileID: 1937941393373296, guid: 1cbd15478bc74b44781bedb598fbd040, type: 3}
+    - {fileID: 1260096068381975, guid: 32561671727e3684cb6039f6ce9014ba, type: 3}
+    - {fileID: 1915254657106518, guid: 40dcd880d307de04d944c960e74c09b6, type: 3}
+    - {fileID: 1698254400443682, guid: bbc0c17dbbc46ca4991786c0692f1c2d, type: 3}
+    - {fileID: 1290492457500929, guid: c5e0b67300da7b5468aaa68926681f47, type: 3}
+    - {fileID: 1131140165257449, guid: f22b827ef46b00a45909daa49fe89959, type: 3}
+    - {fileID: 1366103318231881, guid: a6f2c9eef1d612945b5053a5410ce9eb, type: 3}
+    - {fileID: 1654516769711129, guid: a96f1ba5512eeb346b4759f516d8847b, type: 3}
+    - {fileID: 1480880395790409, guid: e1da4665723951849b7fd7de51614975, type: 3}
+    - {fileID: 1708791982800908, guid: 046c5d04b3d112347bc6a3ca0249e1ed, type: 3}
+    - {fileID: 1343798880908444, guid: 4d148b424430f5742b8d7724ca34884f, type: 3}
+    - {fileID: 1549565869309632, guid: 9f2cb61717ac476478946be9ee558e26, type: 3}
+    - {fileID: 1094309706412712, guid: f7245d5685649eb4d98e7743b9db1c3f, type: 3}
+--- !u!114 &2947335489894918452
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b243ff405b33b94dbf5b6775dd9aa33, type: 3}
+  m_Name: Files
+  m_EditorClassIdentifier: 
+  StagingPaths:
+  - <ManifestPluginStaging>/assets
+  files:
+  - {fileID: 102900000, guid: 1ee0e161026a2884a831d71bac454283, type: 3}
+--- !u!114 &7788702448107751720
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b243ff405b33b94dbf5b6775dd9aa33, type: 3}
+  m_Name: Files
+  m_EditorClassIdentifier: 
+  StagingPaths:
+  - <ManifestPluginStaging>/Specifications
+  files:
+  - {fileID: 4900000, guid: 26844997ee15eff4ead527e58e57e200, type: 3}
+  - {fileID: 4900000, guid: da9debe236550bf4dbb3598f8dcd64e8, type: 3}
+  - {fileID: 4900000, guid: 35b1b38a118c47747bffbfbf528eba80, type: 3}
+--- !u!114 &9120418034178625098
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b243ff405b33b94dbf5b6775dd9aa33, type: 3}
+  m_Name: Files
+  m_EditorClassIdentifier: 
+  StagingPaths:
+  - <ManifestPluginStaging>/
+  files:
+  - {fileID: 4900000, guid: 15af084749ce2a647a8c9e11de4cfe00, type: 3}
+  - {fileID: 102900000, guid: 1fb3d3b13457dde4a9f89ab1622b50be, type: 3}

@@ -17,6 +17,8 @@ GameObject:
   - component: {fileID: 114959368033260412}
   - component: {fileID: 4440177359970826680}
   - component: {fileID: 8041921556773769824}
+  - component: {fileID: -1229964365920769402}
+  - component: {fileID: -6386656074824692506}
   m_Layer: 0
   m_Name: DD_Diagonal_S.Folktail
   m_TagString: Untagged
@@ -195,6 +197,37 @@ MonoBehaviour:
   - _start: {x: 0, y: 0, z: 1}
     _end: {x: 0, y: 1, z: 1}
     _isTwoWay: 0
+--- !u!114 &-1229964365920769402
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1892513168112050}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -686023896, guid: bcb85dd25e41826ab5a7dea12cff2430, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _limitedCapacity: 0
+  _capacity: 0
+  _throttledExit: 1
+--- !u!114 &-6386656074824692506
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1892513168112050}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -634080272, guid: 155d71f0a7a2317772ec1e43992c8879, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _effectSpecifications:
+  - _needId: BlockDecoration
+    _pointsPerHour: 0.2
+    _satisfyToMaxValue: 0
 --- !u!1 &1907051363735039
 GameObject:
   m_ObjectHideFlags: 0

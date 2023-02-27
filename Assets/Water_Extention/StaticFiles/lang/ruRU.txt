@@ -23,6 +23,7 @@ Knatte.CategoryPipeU.Description,"Трубы подземной прокладк
 
 Knatte.CategoryHideWE.DisplayName,Unused Water Extention,-
 
+
 Knatte.Pipe1X.DisplayName,"Насос с выводом",-
 Knatte.Pipe1X.Description,"Двойная дамба с насосом и выводом трубы с другой стороны.\nНасосу нужно подключение к энергосети.",-
 
@@ -42,3 +43,11 @@ Knatte.UPowerLevee.Description,Levee that has shaft in it to power pumps.\r\n Co
 
 Knatte.PipeH1X.DisplayName,Pipe Outlet (H),-                    Untranslated
 Knatte.PipeH1X.Description,High Volume Pump Two Levees and a input and output pipe.\r\n Leeve need to be powered but also act as transfer,-                    Untranslated
+
+Knatte.LargeWaterWheelLevee.DisplayName,Large Water Wheel with Levee,-                    Untranslated
+Knatte.LargeWaterWheelLevee.Description,Water wheel that also has a sloped Levee to help keep water inside channels and not overspill,-                    Untranslated
+
+Knatte.PipeHU5X.DisplayName,Pipe Underground 5 Long (H),-                    Untranslated
+Knatte.PipeHU10X.DisplayName,Pipe Underground 10 Long (H),-                    Untranslated
+Knatte.PipeHU15X.DisplayName,Pipe Underground 15 Long (H),-                    Untranslated
+Knatte.PipeHU.Description,High Power version with a Levees on both sides of the pipe and a input and output pipe.\r\nPipe going underground between Levees\r\n Leeve need to be powered but also act as transfer,-                    Untranslated

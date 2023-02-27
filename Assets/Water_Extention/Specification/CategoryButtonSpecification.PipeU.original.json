@@ -9,7 +9,13 @@
     "PipeU5X.Folktails",
     "PipeU15X.IT",
     "PipeU10X.IT",
-    "PipeU5X.IT"
+    "PipeU5X.IT",
+    "PipeHU15X.Folktails",
+    "PipeHU10X.Folktails",
+    "PipeHU5X.Folktails",
+    "PipeHU15X.IT",
+    "PipeHU10X.IT",
+    "PipeHU5X.IT"
   ],
   "DisplayNameLocKey": "Knatte.CategoryPipeU.DisplayName",
   "DescriptionLocKey": "Knatte.CategoryPipeU.Description"

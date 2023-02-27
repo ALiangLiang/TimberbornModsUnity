@@ -13,7 +13,10 @@
     "knatte.waterextention/knatte_waterextention/PowerLevee.Folktails",
     "knatte.waterextention/knatte_waterextention/UPowerLevee.Folktails",
     "knatte.waterextention/knatte_waterextention/BigIrrigationTower.Folktails",
-    "knatte.waterextention/knatte_waterextention/DeepSeeWaterPump.Folktails"
+    "knatte.waterextention/knatte_waterextention/DeepSeeWaterPump.Folktails",
+    "knatte.waterextention/knatte_waterextention/PipeHU15X.Folktails",
+    "knatte.waterextention/knatte_waterextention/PipeHU10X.Folktails",
+    "knatte.waterextention/knatte_waterextention/PipeHU5X.Folktails"
   ],
   "UniqueBuildings": [
     "knatte.waterextention/knatte_waterextention/IrrigationTowerV2.Folktails"

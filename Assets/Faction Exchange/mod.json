@@ -1,0 +1,21 @@
+{
+    "Name": "Faction Exchange",
+    "Version": "1.0.4",
+    "UniqueId": "knatte.faction_exchange",
+    "MinimumApiVersion": "0.5.3",
+    "MinimumGameVersion": "0.3.5.0",
+    "Assets": [
+      {
+        "Prefix": "knatte.faction_exchange",
+        "Scenes": [
+          "InGame"
+        ]
+      }
+    ],
+    "Dependencies": [
+      {
+          "UniqueId": "tobbert.categorybutton",
+          "MinimumVersion": "1.4.1"
+      }
+  ]
+  }

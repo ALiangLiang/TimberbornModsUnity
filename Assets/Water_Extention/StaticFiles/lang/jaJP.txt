@@ -23,6 +23,7 @@ Knatte.CategoryPipeU.Description,曲がって地中に埋められる水道管�
 
 Knatte.CategoryHideWE.DisplayName,Unused Water Extention,-
 
+
 Knatte.Pipe1X.DisplayName,放水口,-Pipe Outlet
 Knatte.Pipe1X.Description,入力側と出力側がある。堤防に動力を繋げれば、入力側から出力側に水を移動させる。,-Two Levees and a input and output pipe. Leeve need to be powered but also act as transfer
 
@@ -42,3 +43,11 @@ Knatte.UPowerLevee.Description,水道管に動力を繋げやすくするため�
 
 Knatte.PipeH1X.DisplayName,高性能な放水口,-Pipe Outlet (H)
 Knatte.PipeH1X.Description,出力側が入力側より1段高い放水口。堤防に動力を繋げれば、入力側から出力側に大量の水を移動させる。,-High Volume Pump Two Levees and a input and output pipe.\r\n Leeve need to be powered but also act as transfer
+
+Knatte.LargeWaterWheelLevee.DisplayName,Large Water Wheel with Levee,-                    Untranslated
+Knatte.LargeWaterWheelLevee.Description,Water wheel that also has a sloped Levee to help keep water inside channels and not overspill,-                    Untranslated
+
+Knatte.PipeHU5X.DisplayName,Pipe Underground 5 Long (H),-                    Untranslated
+Knatte.PipeHU10X.DisplayName,Pipe Underground 10 Long (H),-                    Untranslated
+Knatte.PipeHU15X.DisplayName,Pipe Underground 15 Long (H),-                    Untranslated
+Knatte.PipeHU.Description,High Power version with a Levees on both sides of the pipe and a input and output pipe.\r\nPipe going underground between Levees\r\n Leeve need to be powered but also act as transfer,-                    Untranslated

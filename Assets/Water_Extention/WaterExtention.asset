@@ -17,7 +17,7 @@ MonoBehaviour:
   Author: KnatteAnka
   Name: Water_Extention
   Description: Water_Extention
-  Version: 0.4.2
+  Version: 0.5.1
   Dependencies: []
 --- !u!114 &-1800585617083543040
 MonoBehaviour:
@@ -99,6 +99,13 @@ MonoBehaviour:
     - {fileID: 1413206606640245, guid: fc4e0ea12ea9cd74bbf7a2c2ff9a2375, type: 3}
     - {fileID: 1413206606640245, guid: 2d22cfb3dbec75240b0cc1e4cdd794d9, type: 3}
     - {fileID: 1413206606640245, guid: e524ffeb1b0f55341aa58bb400eea927, type: 3}
+    - {fileID: 1811081423645800, guid: 5384c8506e9fb4b43b60b882e1d7dc91, type: 3}
+    - {fileID: 1413206606640245, guid: 40c8d91b8a934d445a756e34a1e1bd7a, type: 3}
+    - {fileID: 1413206606640245, guid: 0c69ac03e46fa494a97edb075c8f3c86, type: 3}
+    - {fileID: 1413206606640245, guid: e266e751e4fc45443ac5d5355cd89b3d, type: 3}
+    - {fileID: 1413206606640245, guid: b3a039cd2c25ac748ba0702c820232da, type: 3}
+    - {fileID: 1413206606640245, guid: 2a118ea6c3c62634c84b616b4e861668, type: 3}
+    - {fileID: 1413206606640245, guid: 05f2cff2db68c4d40b23e9183c814d81, type: 3}
 --- !u!114 &7468865265009807828
 MonoBehaviour:
   m_ObjectHideFlags: 0

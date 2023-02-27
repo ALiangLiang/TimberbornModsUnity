@@ -155,6 +155,8 @@ GameObject:
   - component: {fileID: 5860367570422035011}
   - component: {fileID: 2088881534276268686}
   - component: {fileID: -8726437569665399324}
+  - component: {fileID: -2481508938973142640}
+  - component: {fileID: 1264216202232424876}
   m_Layer: 0
   m_Name: DD_Slope.IT
   m_TagString: Untagged
@@ -329,6 +331,37 @@ MonoBehaviour:
   m_Script: {fileID: -1604455801, guid: fb0076526bca5246b24d6c818d68ce00, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &-2481508938973142640
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5574067095167738340}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -686023896, guid: bcb85dd25e41826ab5a7dea12cff2430, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _limitedCapacity: 0
+  _capacity: 0
+  _throttledExit: 1
+--- !u!114 &1264216202232424876
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5574067095167738340}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -634080272, guid: 155d71f0a7a2317772ec1e43992c8879, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _effectSpecifications:
+  - _needId: BlockDecoration
+    _pointsPerHour: 0.2
+    _satisfyToMaxValue: 0
 --- !u!1001 &1964276395841336187
 PrefabInstance:
   m_ObjectHideFlags: 0

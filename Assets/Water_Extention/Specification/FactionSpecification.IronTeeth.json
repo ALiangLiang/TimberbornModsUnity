@@ -12,9 +12,13 @@
     "knatte.waterextention/knatte_waterextention/PipeU10X.IT",
     "knatte.waterextention/knatte_waterextention/PipeU5X.IT",
     "knatte.waterextention/knatte_waterextention/BigIrrigationTower.IT",
-    "knatte.waterextention/knatte_waterextention/DeepSeeWaterPump.IT"
+    "knatte.waterextention/knatte_waterextention/DeepSeeWaterPump.IT",
+    "knatte.waterextention/knatte_waterextention/PipeHU15X.IT",
+    "knatte.waterextention/knatte_waterextention/PipeHU10X.IT",
+    "knatte.waterextention/knatte_waterextention/PipeHU5X.IT"
   ],
   "UniqueBuildings": [
-    "knatte.waterextention/knatte_waterextention/IndustWaterTank.IT"
+    "knatte.waterextention/knatte_waterextention/IndustWaterTank.IT",
+    "knatte.waterextention/knatte_waterextention/LargeWaterWheelLevee.IronTeeth"
   ]
 }
