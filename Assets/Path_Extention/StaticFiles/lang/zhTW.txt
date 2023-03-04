@@ -1,0 +1,35 @@
+ID,Text,Comment
+KnatteTobbert.Tunnel_1.DisplayName,隧道 1x1
+KnatteTobbert.Tunnel_2.DisplayName,隧道 2x1
+KnatteTobbert.Tunnel_3.DisplayName,隧道 3x1
+KnatteTobbert.Tunnel_4.DisplayName,隧道 4x1
+KnatteTobbert.Tunnel_5.DisplayName,隧道 5x1
+KnatteTobbert.Tunnel_6.DisplayName,隧道 6x1
+KnatteTobbert.Tunnel_7.DisplayName,隧道 7x1
+KnatteTobbert.Tunnel_8.DisplayName,隧道 8x1
+KnatteTobbert.Tunnel_9.DisplayName,隧道 9x1
+
+KnatteTobbert.Tunnel_1L.DisplayName,穿堤隧道
+KnatteTobbert.Tunnel_1L.Description,讓海貍能夠穿越防洪堤。
+
+KnatteTobbert.Tunnel.Description,讓海貍能夠穿越山脈。
+KnatteTobbert.Tunnel.FlavorDiscription,你知道建模跟做貼圖有多困難嗎？
+
+KnatteTobbert.CategoryTunnel.DisplayName,隧道
+KnatteTobbert.CategoryTunnel.Description,穿過山脈的隧道
+
+KnatteTobbert.CategorySBridges.DisplayName,鐵橋
+KnatteTobbert.CategorySBridges.Description,山脈間的鐵橋, Not used atm
+
+KnatteTobbert.Bridge_1.DisplayName,鐵橋 1x1
+KnatteTobbert.Bridge_2.DisplayName,鐵橋 2x1
+KnatteTobbert.Bridge_3.DisplayName,鐵橋 3x1
+KnatteTobbert.Bridge_4.DisplayName,鐵橋 4x1
+KnatteTobbert.Bridge_5.DisplayName,鐵橋 5x1
+KnatteTobbert.Bridge_6.DisplayName,鐵橋 6x1
+KnatteTobbert.Bridge_7.DisplayName,鐵橋 7x1
+KnatteTobbert.Bridge_8.DisplayName,鐵橋 8x1
+KnatteTobbert.Bridge_9.DisplayName,鐵橋 9x1
+
+KnatteTobbert.Bridge.Description,允許道路、傳動軸與火車穿越山脈
+KnatteTobbert.Bridge.FlavorDiscription,"Choo Choo"
