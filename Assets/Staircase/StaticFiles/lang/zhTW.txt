@@ -1,0 +1,16 @@
+ID,Text,Comment
+KnatteTobbert.StaircaseRight.DisplayName,右螺旋梯,-
+KnatteTobbert.StaircaseRight.Description,一個向右螺旋的樓梯\r\n（順時針）。,-
+KnatteTobbert.StaircaseRight.FlavorDiscription,中間有根好粗的圓木。,-
+
+KnatteTobbert.StaircaseLeft.DisplayName,左螺旋梯,-
+KnatteTobbert.StaircaseLeft.Description,一個向左螺旋的樓梯\r\n（逆時針）。,-
+KnatteTobbert.StaircaseLeft.FlavorDiscription,中間有根好粗的圓木。,-
+
+KnatteTobbert.MetalStaircase.DisplayName,金屬樓梯,-
+KnatteTobbert.MetalStaircase.Description,用金屬製成的樓梯。,-
+KnatteTobbert.MetalStaircase.FlavorDiscription,希望它不會生鏽。,-
+
+KnatteTobbert.Staircases.DisplayName,螺旋梯,-
+
+KnatteTobbert.MetalStaircaseNeed.DisplaynameLocKey,金屬樓梯,-
